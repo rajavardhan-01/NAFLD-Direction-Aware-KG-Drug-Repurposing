@@ -1,0 +1,13 @@
+Rank,Drug,Drug_ID,BB routes to NAFLD,B routes,Liver diseases it treats
+1,PACLITAXEL,CHEMBL428647,238,2,biliary tract cancer; cholangiocarcinoma; hepatocellular carcinoma; intrahepatic cholangiocarcinoma; liver cancer
+2,CANNABIDIOL,CHEMBL190461,224,3,Autoimmune Hepatitis
+3,BARDOXOLONE METHYL,CHEMBL1762621,219,3,liver disease
+4,BINTRAFUSP ALFA,CHEMBL4298024,203,10,cholangiocarcinoma; intrahepatic cholangiocarcinoma
+5,INFLIXIMAB,CHEMBL1201581,196,5,chronic hepatitis C virus infection; hepatitis C virus infection
+6,DAUNORUBICIN,CHEMBL178,144,1,chronic hepatitis B virus infection
+7,RILONACEPT,CHEMBL1201830,124,2,"Hepatitis, Alcoholic"
+8,CANAKINUMAB,CHEMBL1201834,90,2,"Hepatitis, Alcoholic"
+9,GILTERITINIB,CHEMBL3301622,45,1,liver disease
+9,MERESTINIB,CHEMBL3545307,45,1,biliary tract cancer
+11,CELECOXIB,CHEMBL118,40,1,chronic hepatitis B virus infection; hepatocellular carcinoma; liver cancer
+12,LORLATINIB,CHEMBL3286830,38,1,liver disease

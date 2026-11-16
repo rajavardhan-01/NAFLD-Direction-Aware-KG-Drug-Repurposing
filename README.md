@@ -158,6 +158,7 @@ already treat a liver disease (`TREATS`) is also reported (strict view).
 | `metapaths.py` | B and BB routes for RunA-D |
 | `ranking.py` | final ranked drugs, strict view, stage tables, top-25 comparison |
 | `run_analysis.py` | checked runner for Tasks 1-4, direction filter, metapaths, ranking |
+| `baseline_no_direction.py`, `baseline_compare.py` | baseline without the direction filter, and its comparison with RunA |
 | `final_audit.py`, `make_readme.py` | audit; this README |
 | `neo4j_util.py` | shared connection, write guard and logging helpers |
 
@@ -351,6 +352,30 @@ Full comparison across runs: [`results/Ranking/top25_comparison_FINAL.md`](resul
 seed gene (RunD: seed or GWAS add-on); (4) funnel and README numbers match the files; (5) rerunning metapaths and ranking
 from scratch gives identical outputs. Details: `results/audit/audit_report.md`.
 
+### 5.9 Baseline without the direction filter
+
+The main analysis (RunA) rerun on the same 321 candidates with the direction requirement switched off: routes start
+at all 409 candidate drug-gene links instead of the 128 direction-consistent links of the 115
+only-consistent drugs; every other rule is unchanged (`code/baseline_no_direction.py`, `code/baseline_compare.py`; outputs in
+`results/Baseline_no_direction/`).
+
+| Quantity | With direction filter | Baseline (no direction filter) |
+|---|---|---|
+| Links that start routes | 128 | 409 |
+| Drugs with B routes | 44 | 130 |
+| BB routes | 5,025 | 21,324 |
+| Final ranked drugs | 38 | 116 |
+| Drugs with rank <= 25 (ties kept) | 27 | 38 |
+
+Share of baseline BB routes by the direction class of the starting link: undecided 74.4%,
+direction-consistent 24.8%, inconsistent 0.8%.
+Baseline ranked drugs by direction group: no decided link 74, only consistent
+40, only inconsistent 2; in the baseline top 25:
+no decided link 25, only consistent 13, only inconsistent
+0. The filter therefore mainly removes drugs whose direction cannot be decided, not drugs
+shown to act against the disease direction. This compares what the filter changes; it is not a measure of accuracy.
+Details: `results/Baseline_no_direction/comparison_summary.md`.
+
 ## 6. Limitations
 
 - **Direction is checked only at the drug -> target step.** Gene-gene interactions have no sign, so the gene-gene steps of a
@@ -377,6 +402,7 @@ results/
   Direction_consistent_drugs/
   Metapath_runs/           B and BB routes per run
   Ranking/                 FINAL ranked drugs, strict view, stage tables, top-25 comparisons
+  Baseline_no_direction/   RunA routes and ranking without the direction filter, comparison with the main run
   audit/                   final audit report
 data/                      downloaded inputs (not in git)
 ```
@@ -389,7 +415,9 @@ data/                      downloaded inputs (not in git)
    `new_links_search.py` + `write_new_links_to_graph.py`, `external_action_check.py`, `load_pathways.py`,
    `pathway_nafld_links.py`, `added_drug_indications.py`; then `python code/run_analysis.py --write-expected`.
 4. `python code/run_analysis.py --stage all` (Tasks 1-4, direction filter, metapaths, ranking).
-5. `python code/final_audit.py` and `python code/final_audit.py --rerun`; `python code/make_readme.py`.
+5. `python code/baseline_no_direction.py` and `python code/baseline_compare.py` (baseline without the direction filter).
+6. `python code/final_audit.py` and `python code/final_audit.py --rerun`; `python code/make_readme.py`.
+Set `NEO4J_DATABASE` if the graph is not in the database `paper2public` (for example the default database `neo4j`).
 
 Source versions change over time (ChEMBL, DGIdb, GtoPdb, Open Targets, CTD); exact versions and dates are recorded above and
 in `data/SOURCES.json`.

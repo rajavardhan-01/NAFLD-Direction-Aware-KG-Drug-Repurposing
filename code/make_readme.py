@@ -77,6 +77,39 @@ def main():
     strict = {k: pd.read_csv(RK / f"{r}_strict_liver_treating_drugs.csv") for k, r, _ in RUNS}
     stA = pd.read_excel(RK / "RunA_all_seed_genes_FINAL_top_drugs_stages.xlsx", sheet_name="Stage totals")
     routesA = pd.read_csv(R / "Metapath_runs/RunA_all_seed_genes_BB.csv")
+    # baseline without the direction filter (code/baseline_no_direction.py, code/baseline_compare.py)
+    bsum = pd.read_csv(R / "Baseline_no_direction/baseline_run_summary.csv").iloc[0]
+    bcmp = pd.read_csv(R / "Baseline_no_direction/comparison_drugs.csv")
+    bshare = pd.read_csv(R / "Baseline_no_direction/route_share_by_link_class.csv").set_index("link_class")["percent"]
+    bgrp = bcmp.direction_group.value_counts()
+    btop = bcmp[bcmp.Rank <= 25].direction_group.value_counts()
+    n_cons_links = int((dlinks.direction_check == "direction-consistent").sum())
+    mainA = "RunA_all_seed_genes"
+    base_tab = md_table(pd.DataFrame([
+        ("Links that start routes", n_cons_links, len(dlinks)),
+        ("Drugs with B routes", int(mp.loc[mainA, "drugs_with_B_routes"]), int(bsum.drugs_with_B_routes)),
+        ("BB routes", n(mp.loc[mainA, "BB_routes"]), n(bsum.BB_routes)),
+        ("Final ranked drugs", int(rk.loc[mainA, "final_ranked_drugs"]), len(bcmp)),
+        ("Drugs with rank <= 25 (ties kept)", int(rk.loc[mainA, "final_rank_le_25"]), int((bcmp.Rank <= 25).sum())),
+    ], columns=["Quantity", "With direction filter", "Baseline (no direction filter)"]))
+    base_md = f"""### 5.9 Baseline without the direction filter
+
+The main analysis (RunA) rerun on the same {len(dsum)} candidates with the direction requirement switched off: routes start
+at all {len(dlinks)} candidate drug-gene links instead of the {n_cons_links} direction-consistent links of the {len(only)}
+only-consistent drugs; every other rule is unchanged (`code/baseline_no_direction.py`, `code/baseline_compare.py`; outputs in
+`results/Baseline_no_direction/`).
+
+{base_tab}
+
+Share of baseline BB routes by the direction class of the starting link: undecided {bshare.get("not decided", 0)}%,
+direction-consistent {bshare.get("direction-consistent", 0)}%, inconsistent {bshare.get("direction-inconsistent", 0)}%.
+Baseline ranked drugs by direction group: no decided link {int(bgrp.get("no decided link", 0))}, only consistent
+{int(bgrp.get("only consistent", 0))}, only inconsistent {int(bgrp.get("only inconsistent", 0))}; in the baseline top 25:
+no decided link {int(btop.get("no decided link", 0))}, only consistent {int(btop.get("only consistent", 0))}, only inconsistent
+{int(btop.get("only inconsistent", 0))}. The filter therefore mainly removes drugs whose direction cannot be decided, not drugs
+shown to act against the disease direction. This compares what the filter changes; it is not a measure of accuracy.
+Details: `results/Baseline_no_direction/comparison_summary.md`.
+"""
     linked = s07t[s07t.linked].sort_values("best_q")
     audit = j("results/audit/audit.json")
 
@@ -265,6 +298,7 @@ already treat a liver disease (`TREATS`) is also reported (strict view).
 | `metapaths.py` | B and BB routes for RunA-D |
 | `ranking.py` | final ranked drugs, strict view, stage tables, top-25 comparison |
 | `run_analysis.py` | checked runner for Tasks 1-4, direction filter, metapaths, ranking |
+| `baseline_no_direction.py`, `baseline_compare.py` | baseline without the direction filter, and its comparison with RunA |
 | `final_audit.py`, `make_readme.py` | audit; this README |
 | `neo4j_util.py` | shared connection, write guard and logging helpers |
 
@@ -348,6 +382,7 @@ Full comparison across runs: [`results/Ranking/top25_comparison_FINAL.md`](resul
 seed gene (RunD: seed or GWAS add-on); (4) funnel and README numbers match the files; (5) rerunning metapaths and ranking
 from scratch gives identical outputs. Details: `results/audit/audit_report.md`.
 
+{base_md}
 ## 6. Limitations
 
 - **Direction is checked only at the drug -> target step.** Gene-gene interactions have no sign, so the gene-gene steps of a
@@ -374,6 +409,7 @@ results/
   Direction_consistent_drugs/
   Metapath_runs/           B and BB routes per run
   Ranking/                 FINAL ranked drugs, strict view, stage tables, top-25 comparisons
+  Baseline_no_direction/   RunA routes and ranking without the direction filter, comparison with the main run
   audit/                   final audit report
 data/                      downloaded inputs (not in git)
 ```
@@ -386,7 +422,9 @@ data/                      downloaded inputs (not in git)
    `new_links_search.py` + `write_new_links_to_graph.py`, `external_action_check.py`, `load_pathways.py`,
    `pathway_nafld_links.py`, `added_drug_indications.py`; then `python code/run_analysis.py --write-expected`.
 4. `python code/run_analysis.py --stage all` (Tasks 1-4, direction filter, metapaths, ranking).
-5. `python code/final_audit.py` and `python code/final_audit.py --rerun`; `python code/make_readme.py`.
+5. `python code/baseline_no_direction.py` and `python code/baseline_compare.py` (baseline without the direction filter).
+6. `python code/final_audit.py` and `python code/final_audit.py --rerun`; `python code/make_readme.py`.
+Set `NEO4J_DATABASE` if the graph is not in the database `paper2public` (for example the default database `neo4j`).
 
 Source versions change over time (ChEMBL, DGIdb, GtoPdb, Open Targets, CTD); exact versions and dates are recorded above and
 in `data/SOURCES.json`.
