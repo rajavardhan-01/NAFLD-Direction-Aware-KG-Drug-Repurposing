@@ -1,0 +1,73 @@
+{
+  "run_utc": "2026-11-13T19:22:43+00:00",
+  "seed_genes": 280,
+  "graph_links_on_seed_genes": 1549,
+  "graph_drugs_on_seed_genes": 1151,
+  "graph_seed_genes_with_drug": 103,
+  "release": {
+    "GtoPdb": "# GtoPdb Version: 2026.3.1 - published: 2026-10-12 (downloaded 2026-11-13T18:53:33+00:00)",
+    "DGIdb": "5, https://dgidb.org/data/latest/interactions.tsv (downloaded 2026-11-13T18:54:28+00:00)",
+    "ChEMBL": "ChEMBL_37 (2026-05-01), REST API",
+    "OpenTargets": "Open Targets Platform 26.09"
+  },
+  "dgidb_rows_dropped": {
+    "GuideToPharmacology": 348,
+    "ChEMBL": 280
+  },
+  "headline_set": "approved or clinical-trial drugs with a curated drug-target source",
+  "new_pairs_all": {
+    "pairs": 2037,
+    "drugs": 1558,
+    "genes": 109,
+    "new_genes": 33
+  },
+  "new_pairs_medicines_any_evidence": {
+    "pairs": 912,
+    "drugs": 583,
+    "genes": 82,
+    "new_genes": 23
+  },
+  "new_pairs_by_evidence": {
+    "curated drug-target": {
+      "pairs": 421,
+      "drugs": 397,
+      "genes": 59,
+      "new_genes": 8
+    },
+    "curated, TTD only (gene matched by protein name)": {
+      "pairs": 123,
+      "drugs": 100,
+      "genes": 37,
+      "new_genes": 6
+    },
+    "lab binding screen": {
+      "pairs": 727,
+      "drugs": 672,
+      "genes": 32,
+      "new_genes": 5
+    },
+    "literature / biomarker only": {
+      "pairs": 766,
+      "drugs": 480,
+      "genes": 74,
+      "new_genes": 23
+    }
+  },
+  "new_pairs_medicines_curated": {
+    "pairs": 110,
+    "drugs": 108,
+    "genes": 29,
+    "new_genes": 2
+  },
+  "new_pairs_approved_curated": {
+    "pairs": 77,
+    "drugs": 75,
+    "genes": 21,
+    "new_genes": 1
+  },
+  "medicine_pairs_with_direction": 64,
+  "medicine_pairs_2plus_sources": 10,
+  "curated_drugs_not_yet_drug_nodes": 31,
+  "seed_genes_with_drug_graph": 103,
+  "seed_genes_with_drug_graph_plus_new": 105
+}

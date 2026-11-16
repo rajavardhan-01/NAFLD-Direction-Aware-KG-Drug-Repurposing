@@ -1,0 +1,24 @@
+{
+ "nodes_total": 164866,
+ "relationships_total": 10600482,
+ "nodes": {
+  "BiologicalProcess": 25754,
+  "Disease": 36753,
+  "Drug": 18671,
+  "Gene": 61306,
+  "Pathway": 3041,
+  "Phenotype": 19341
+ },
+ "relationships": {
+  "ACTS_ON": 36721,
+  "ASSOCIATED_WITH": 9734774,
+  "CONTRAINDICATED_IN": 11379,
+  "HAS_PHENOTYPE": 157144,
+  "INTERACTS_WITH": 327924,
+  "IN_PATHWAY": 67044,
+  "OFF_LABEL_FOR": 827,
+  "PARENT_OF": 47750,
+  "PARTICIPATES_IN": 158410,
+  "TREATS": 58509
+ }
+}

@@ -1,0 +1,40 @@
+{
+  "background_genes": 12420,
+  "group_sizes_in_background": {
+    "all_histology": 183,
+    "1_steatosis": 12,
+    "1_steatosis_increasing": 10,
+    "1_steatosis_decreasing": 2,
+    "2_NASH": 69,
+    "2_NASH_increasing": 48,
+    "2_NASH_decreasing": 21,
+    "3_fibrosis": 93,
+    "3_fibrosis_increasing": 69,
+    "3_fibrosis_decreasing": 24,
+    "4_HCC": 9,
+    "4_HCC_increasing": 1,
+    "4_HCC_decreasing": 8
+  },
+  "pathways_tested": {
+    "Hallmark": 50,
+    "KEGG": 186,
+    "Reactome": 2220
+  },
+  "significant_pathways": {
+    "Hallmark": 6,
+    "KEGG": 3,
+    "Reactome": 14
+  },
+  "ctd_nafld_pathways": {
+    "Reactome": 1308,
+    "KEGG": 752,
+    "KEGG_matched_to_GMT": 112
+  },
+  "significant_and_in_ctd": 9,
+  "linked": 12,
+  "linked_by_database": {
+    "Hallmark": 6,
+    "Reactome": 4,
+    "KEGG": 2
+  }
+}

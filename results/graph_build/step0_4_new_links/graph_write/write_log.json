@@ -1,0 +1,58 @@
+{
+  "step": "0.4 new curated drug-gene links",
+  "added": "2026-11-13T19:38:13+00:00",
+  "layer": "added curated drug-target links",
+  "links_written": 110,
+  "drug_nodes_created": 31,
+  "release": "GtoPdb # GtoPdb Version: 2026.3.1 - published: 2026-10-12 (downloaded 2026-11-13T18:53:33+00:00); DGIdb 5, https://dgidb.org/data/latest/interactions.tsv (downloaded 2026-11-13T18:54:28+00:00); ChEMBL ChEMBL_37 (2026-05-01), REST API; OpenTargets Open Targets Platform 26.09",
+  "before": {
+    "nodes_total": 164599,
+    "relationships_total": 10579970,
+    "nodes": {
+      "BiologicalProcess": 25754,
+      "Disease": 36753,
+      "Drug": 18640,
+      "Gene": 61306,
+      "Pathway": 2805,
+      "Phenotype": 19341
+    },
+    "relationships": {
+      "ACTS_ON": 36611,
+      "ASSOCIATED_WITH": 9734774,
+      "CONTRAINDICATED_IN": 11379,
+      "HAS_PHENOTYPE": 157144,
+      "INTERACTS_WITH": 327924,
+      "IN_PATHWAY": 46977,
+      "OFF_LABEL_FOR": 827,
+      "PARENT_OF": 47750,
+      "PARTICIPATES_IN": 158410,
+      "TREATS": 58174
+    }
+  },
+  "after": {
+    "nodes_total": 164630,
+    "relationships_total": 10580080,
+    "nodes": {
+      "BiologicalProcess": 25754,
+      "Disease": 36753,
+      "Drug": 18671,
+      "Gene": 61306,
+      "Pathway": 2805,
+      "Phenotype": 19341
+    },
+    "relationships": {
+      "ACTS_ON": 36721,
+      "ASSOCIATED_WITH": 9734774,
+      "CONTRAINDICATED_IN": 11379,
+      "HAS_PHENOTYPE": 157144,
+      "INTERACTS_WITH": 327924,
+      "IN_PATHWAY": 46977,
+      "OFF_LABEL_FOR": 827,
+      "PARENT_OF": 47750,
+      "PARTICIPATES_IN": 158410,
+      "TREATS": 58174
+    }
+  },
+  "count_check_passed": true,
+  "undo": "undo_new_links.cypher"
+}

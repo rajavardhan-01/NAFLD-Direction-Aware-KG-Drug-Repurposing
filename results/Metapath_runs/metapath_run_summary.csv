@@ -1,0 +1,5 @@
+generated,run,gene_star,drugs_in,B_routes_found,B_routes_kept,drugs_with_B_routes,B_drop_reasons,BB_routes,drugs_with_BB_routes,BB_pathways_eligible
+2026-11-16T11:30:48+00:00,RunA_all_seed_genes,280,115,166,166,44,{'KEEP': 166},5025,44,12
+2026-11-16T11:30:50+00:00,RunB_histology_genes,228,115,106,106,37,{'KEEP': 106},2675,37,12
+2026-11-16T11:30:51+00:00,RunC_fibrosis_genes,146,115,83,83,27,{'KEEP': 83},1853,27,12
+2026-11-16T11:30:51+00:00,RunD_seed_plus_GWAS,573,115,278,278,73,{'KEEP': 278},15290,73,12

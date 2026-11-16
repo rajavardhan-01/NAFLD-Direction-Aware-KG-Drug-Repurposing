@@ -1,0 +1,11 @@
+Rank,Drug,Drug_ID,BB routes to NAFLD,B routes,Liver diseases it treats
+1,ALDOXORUBICIN,CHEMBL2107818,210,1,hepatocellular carcinoma
+1,BECATECARIN,CHEMBL2107313,210,1,biliary tract cancer
+1,DAUNORUBICIN,CHEMBL178,210,1,chronic hepatitis B virus infection
+1,DEXRAZOXANE,CHEMBL1738,210,1,Hepatoblastoma
+1,DOXORUBICIN HYDROCHLORIDE,CHEMBL359744,210,1,Hepatoblastoma; hepatocellular carcinoma; liver cancer
+1,IDARUBICIN,CHEMBL1117,210,1,hepatocellular carcinoma; liver cancer
+1,IDARUBICIN HYDROCHLORIDE,CHEMBL1200976,210,1,hepatocellular carcinoma
+1,MITOXANTRONE HYDROCHLORIDE,CHEMBL1417019,210,1,hepatocellular carcinoma
+9,PACLITAXEL,CHEMBL428647,199,2,biliary tract cancer; cholangiocarcinoma; hepatocellular carcinoma; intrahepatic cholangiocarcinoma; liver cancer
+10,ANGIOTENSIN II,CHEMBL408403,119,2,hepatorenal syndrome

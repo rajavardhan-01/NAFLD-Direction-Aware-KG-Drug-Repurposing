@@ -1,0 +1,95 @@
+{
+  "step": "0.7 pathway -> NAFLD",
+  "added": "2026-11-14T04:14:16+00:00",
+  "links": 12,
+  "summary": {
+    "background_genes": 12420,
+    "group_sizes_in_background": {
+      "all_histology": 183,
+      "1_steatosis": 12,
+      "1_steatosis_increasing": 10,
+      "1_steatosis_decreasing": 2,
+      "2_NASH": 69,
+      "2_NASH_increasing": 48,
+      "2_NASH_decreasing": 21,
+      "3_fibrosis": 93,
+      "3_fibrosis_increasing": 69,
+      "3_fibrosis_decreasing": 24,
+      "4_HCC": 9,
+      "4_HCC_increasing": 1,
+      "4_HCC_decreasing": 8
+    },
+    "pathways_tested": {
+      "Hallmark": 50,
+      "KEGG": 186,
+      "Reactome": 2220
+    },
+    "significant_pathways": {
+      "Hallmark": 6,
+      "KEGG": 3,
+      "Reactome": 14
+    },
+    "ctd_nafld_pathways": {
+      "Reactome": 1308,
+      "KEGG": 752,
+      "KEGG_matched_to_GMT": 112
+    },
+    "significant_and_in_ctd": 9,
+    "linked": 12,
+    "linked_by_database": {
+      "Hallmark": 6,
+      "Reactome": 4,
+      "KEGG": 2
+    }
+  },
+  "before": {
+    "nodes_total": 164866,
+    "relationships_total": 10600482,
+    "nodes": {
+      "BiologicalProcess": 25754,
+      "Disease": 36753,
+      "Drug": 18671,
+      "Gene": 61306,
+      "Pathway": 3041,
+      "Phenotype": 19341
+    },
+    "relationships": {
+      "ACTS_ON": 36721,
+      "ASSOCIATED_WITH": 9734774,
+      "CONTRAINDICATED_IN": 11379,
+      "HAS_PHENOTYPE": 157144,
+      "INTERACTS_WITH": 327924,
+      "IN_PATHWAY": 67044,
+      "OFF_LABEL_FOR": 827,
+      "PARENT_OF": 47750,
+      "PARTICIPATES_IN": 158410,
+      "TREATS": 58509
+    }
+  },
+  "after": {
+    "nodes_total": 164866,
+    "relationships_total": 10600494,
+    "nodes": {
+      "BiologicalProcess": 25754,
+      "Disease": 36753,
+      "Drug": 18671,
+      "Gene": 61306,
+      "Pathway": 3041,
+      "Phenotype": 19341
+    },
+    "relationships": {
+      "ACTS_ON": 36721,
+      "ASSOCIATED_WITH": 9734774,
+      "CONTRAINDICATED_IN": 11379,
+      "HAS_PHENOTYPE": 157144,
+      "IMPLICATED_IN": 12,
+      "INTERACTS_WITH": 327924,
+      "IN_PATHWAY": 67044,
+      "OFF_LABEL_FOR": 827,
+      "PARENT_OF": 47750,
+      "PARTICIPATES_IN": 158410,
+      "TREATS": 58509
+    }
+  },
+  "undo": "undo_implicated_in.cypher"
+}

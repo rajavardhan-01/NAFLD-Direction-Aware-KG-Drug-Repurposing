@@ -1,0 +1,6 @@
+main_stage,pairs,drugs,genes
+0_genetic_risk,63,63,12
+1_steatosis,11,11,1
+2_NASH,12,12,5
+3_fibrosis,17,16,9
+4_HCC,7,7,2

@@ -1,0 +1,6 @@
+evidence,approved,clinical trial,research compound,all
+curated drug-target,77,33,311,421
+"curated, TTD only (gene matched by protein name)",22,9,92,123
+lab binding screen,202,8,517,727
+literature / biomarker only,558,3,205,766
+all,859,53,1125,2037

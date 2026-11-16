@@ -1,0 +1,5 @@
+gene,ensembl_id,main_stage,direction
+C3P1,ENSG00000291164,2_NASH,decreasing
+CATSPERB,ENSG00000133962,2_NASH,increasing
+ENPP5,ENSG00000112796,3_fibrosis,increasing
+VSIG10,ENSG00000176834,3_fibrosis,increasing

@@ -1,0 +1,7 @@
+main_stage,increasing,decreasing,not_applicable,all
+0_genetic_risk,0,0,52,52
+1_steatosis,10,3,0,13
+2_NASH,56,27,0,83
+3_fibrosis,93,29,0,122
+4_HCC,1,9,0,10
+all,160,68,52,280

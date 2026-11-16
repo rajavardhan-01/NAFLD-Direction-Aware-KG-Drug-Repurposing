@@ -1,0 +1,70 @@
+{
+  "run_utc": "2026-11-13T19:44:52+00:00",
+  "release": "ChEMBL ChEMBL_37 mechanisms (REST API); # GtoPdb Version: 2026.3.1 - published: 2026-10-12; DGIdb 5 GraphQL API; queried 2026-11-13",
+  "optimuskg_links_on_seed_genes": 1549,
+  "known_direction_before": 274,
+  "mixed_before": 18,
+  "no_direction": 1257,
+  "no_direction_by_action": {
+    "TARGET": 540,
+    "ENZYME": 459,
+    "TRANSPORTER": 204,
+    "CARRIER": 30,
+    "HYDROLYTIC_ENZYME": 10,
+    "ANTISENSE_INHIBITOR": 7,
+    "CROSS_LINKING_AGENT": 4,
+    "OTHER": 3
+  },
+  "result": {
+    "still unknown": 1192,
+    "down": 35,
+    "up": 27,
+    "conflicting": 3
+  },
+  "by_graph_label": {
+    "conflicting": {
+      "ENZYME/TRANSPORTER/CARRIER": 0,
+      "TARGET (binding, no direction)": 3,
+      "other non-directional label": 0
+    },
+    "down": {
+      "ENZYME/TRANSPORTER/CARRIER": 0,
+      "TARGET (binding, no direction)": 24,
+      "other non-directional label": 11
+    },
+    "still unknown": {
+      "ENZYME/TRANSPORTER/CARRIER": 693,
+      "TARGET (binding, no direction)": 486,
+      "other non-directional label": 13
+    },
+    "up": {
+      "ENZYME/TRANSPORTER/CARRIER": 0,
+      "TARGET (binding, no direction)": 27,
+      "other non-directional label": 0
+    }
+  },
+  "links_to_write": 62,
+  "positive_control": [
+    {
+      "source": "ChEMBL mechanisms",
+      "known-direction links": 274,
+      "found": 245,
+      "agree with graph": 245,
+      "% agree": 100.0
+    },
+    {
+      "source": "Guide to Pharmacology",
+      "known-direction links": 274,
+      "found": 68,
+      "agree with graph": 68,
+      "% agree": 100.0
+    },
+    {
+      "source": "DGIdb",
+      "known-direction links": 274,
+      "found": 247,
+      "agree with graph": 247,
+      "% agree": 100.0
+    }
+  ]
+}

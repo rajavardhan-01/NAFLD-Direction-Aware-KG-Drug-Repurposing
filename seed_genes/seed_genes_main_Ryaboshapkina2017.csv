@@ -1,0 +1,281 @@
+gene,entrez,main_stage,all_stages,evidence,direction,source,ensembl_id,in_OptimusKG,n_gene_partners,n_pathways,n_drugs_targeting,usable_for_metapath,also_in_GWAS_Catalog
+ABCB11,8647,0_genetic_risk,0_genetic_risk,genetic association with NAFLD,not_applicable,Ryaboshapkina2017_TableS2_genetic,ENSG00000073734,True,16,3,100,True,False
+ADIPOQ,9370,0_genetic_risk,0_genetic_risk,genetic association with NAFLD,not_applicable,Ryaboshapkina2017_TableS2_genetic,ENSG00000181092,True,69,3,0,True,False
+ADRB3,155,0_genetic_risk,0_genetic_risk,genetic association with NAFLD,not_applicable,Ryaboshapkina2017_TableS2_genetic,ENSG00000188778,True,3,2,34,True,False
+APOC3,345,0_genetic_risk,0_genetic_risk,genetic association with NAFLD,not_applicable,Ryaboshapkina2017_TableS2_genetic,ENSG00000110245,True,16,4,0,True,True
+APOE,348,0_genetic_risk,0_genetic_risk,genetic association with NAFLD,not_applicable,Ryaboshapkina2017_TableS2_genetic,ENSG00000130203,True,82,12,3,True,True
+CHDH,55349,0_genetic_risk,0_genetic_risk,genetic association with NAFLD,not_applicable,Ryaboshapkina2017_TableS2_genetic,ENSG00000016391,True,12,1,2,True,False
+CHUK,1147,0_genetic_risk,0_genetic_risk,genetic association with NAFLD,not_applicable,Ryaboshapkina2017_TableS2_genetic,ENSG00000213341,True,163,31,4,True,False
+CLOCK,9575,0_genetic_risk,0_genetic_risk,genetic association with NAFLD,not_applicable,Ryaboshapkina2017_TableS2_genetic,ENSG00000134852,True,35,9,0,True,False
+CNR1,1268,0_genetic_risk,0_genetic_risk,genetic association with NAFLD,not_applicable,Ryaboshapkina2017_TableS2_genetic,ENSG00000118432,True,9,2,9,True,False
+COL13A1,1305,0_genetic_risk,0_genetic_risk,genetic association with NAFLD,not_applicable,Ryaboshapkina2017_TableS2_genetic,ENSG00000197467,True,5,4,0,True,False
+CRACR2A,84766,0_genetic_risk,0_genetic_risk,genetic association with NAFLD,not_applicable,Ryaboshapkina2017_TableS2_genetic,ENSG00000130038,True,50,1,0,True,False
+ENPP1,5167,0_genetic_risk,0_genetic_risk,genetic association with NAFLD,not_applicable,Ryaboshapkina2017_TableS2_genetic,ENSG00000197594,True,8,2,1,True,False
+FABP2,2169,0_genetic_risk,0_genetic_risk,genetic association with NAFLD,not_applicable,Ryaboshapkina2017_TableS2_genetic,ENSG00000145384,True,5,1,11,True,False
+FDFT1,2222,0_genetic_risk,0_genetic_risk,genetic association with NAFLD,not_applicable,Ryaboshapkina2017_TableS2_genetic,ENSG00000079459,True,45,3,0,True,False
+HFE,3077,0_genetic_risk,0_genetic_risk,genetic association with NAFLD,not_applicable,Ryaboshapkina2017_TableS2_genetic,ENSG00000010704,True,7,1,0,True,True
+IFNL3,282617,0_genetic_risk,0_genetic_risk,genetic association with NAFLD,not_applicable,Ryaboshapkina2017_TableS2_genetic,ENSG00000197110,True,20,1,0,True,False
+IL1A,3552,0_genetic_risk,0_genetic_risk,genetic association with NAFLD,not_applicable,Ryaboshapkina2017_TableS2_genetic,ENSG00000115008,True,40,7,0,True,False
+IL1B,3553,0_genetic_risk,0_genetic_risk,genetic association with NAFLD,not_applicable,Ryaboshapkina2017_TableS2_genetic,ENSG00000125538,True,64,7,8,True,False
+IL6,3569,0_genetic_risk,0_genetic_risk,genetic association with NAFLD,not_applicable,Ryaboshapkina2017_TableS2_genetic,ENSG00000136244,True,33,11,7,True,False
+IRS1,3667,0_genetic_risk,0_genetic_risk,genetic association with NAFLD,not_applicable,Ryaboshapkina2017_TableS2_genetic,ENSG00000169047,True,115,18,0,True,False
+KLF6,1316,0_genetic_risk,0_genetic_risk,genetic association with NAFLD,not_applicable,Ryaboshapkina2017_TableS2_genetic,ENSG00000067082,True,30,0,0,False,False
+LEPR,3953,0_genetic_risk,0_genetic_risk,genetic association with NAFLD,not_applicable,Ryaboshapkina2017_TableS2_genetic,ENSG00000116678,True,28,1,0,True,True
+LOXL1,4016,0_genetic_risk,0_genetic_risk,genetic association with NAFLD,not_applicable,Ryaboshapkina2017_TableS2_genetic,ENSG00000129038,True,8,2,0,True,False
+LPIN1,23175,0_genetic_risk,0_genetic_risk,genetic association with NAFLD,not_applicable,Ryaboshapkina2017_TableS2_genetic,ENSG00000134324,True,9,5,0,True,False
+LTBP3,4054,0_genetic_risk,0_genetic_risk,genetic association with NAFLD,not_applicable,Ryaboshapkina2017_TableS2_genetic,ENSG00000168056,True,9,2,0,True,False
+LYPLAL1,127018,0_genetic_risk,0_genetic_risk,genetic association with NAFLD,not_applicable,Ryaboshapkina2017_TableS2_genetic,ENSG00000143353,True,18,0,0,False,False
+MBOAT7,79143,0_genetic_risk,0_genetic_risk,genetic association with NAFLD,not_applicable,Ryaboshapkina2017_TableS2_genetic,ENSG00000125505,True,43,1,0,True,True
+MERTK,10461,0_genetic_risk,0_genetic_risk,genetic association with NAFLD,not_applicable,Ryaboshapkina2017_TableS2_genetic,ENSG00000153208,True,40,1,2,True,True
+MIF,4282,0_genetic_risk,0_genetic_risk,genetic association with NAFLD,not_applicable,Ryaboshapkina2017_TableS2_genetic,ENSG00000240972,True,25,3,7,True,False
+MTHFR,4524,0_genetic_risk,0_genetic_risk,genetic association with NAFLD,not_applicable,Ryaboshapkina2017_TableS2_genetic,ENSG00000177000,True,39,1,8,True,False
+NCAN,1463,0_genetic_risk,0_genetic_risk,genetic association with NAFLD,not_applicable,Ryaboshapkina2017_TableS2_genetic,ENSG00000130287,True,6,13,2,True,False
+NR1H4,9971,0_genetic_risk,0_genetic_risk,genetic association with NAFLD,not_applicable,Ryaboshapkina2017_TableS2_genetic,ENSG00000012504,True,38,8,9,True,False
+OLR1,4973,0_genetic_risk,0_genetic_risk,genetic association with NAFLD,not_applicable,Ryaboshapkina2017_TableS2_genetic,ENSG00000173391,True,13,2,0,True,False
+PEMT,10400,0_genetic_risk,0_genetic_risk,genetic association with NAFLD,not_applicable,Ryaboshapkina2017_TableS2_genetic,ENSG00000133027,True,6,1,0,True,False
+PPARG,5468,0_genetic_risk,0_genetic_risk,genetic association with NAFLD,not_applicable,Ryaboshapkina2017_TableS2_genetic,ENSG00000132170,True,195,8,60,True,True
+PPARGC1A,10891,0_genetic_risk,0_genetic_risk,genetic association with NAFLD,not_applicable,Ryaboshapkina2017_TableS2_genetic,ENSG00000109819,True,113,13,0,True,False
+PPP1R3B,79660,0_genetic_risk,0_genetic_risk,genetic association with NAFLD,not_applicable,Ryaboshapkina2017_TableS2_genetic,ENSG00000173281,True,21,0,0,False,False
+SAMM50,25813,0_genetic_risk,0_genetic_risk,genetic association with NAFLD,not_applicable,Ryaboshapkina2017_TableS2_genetic,ENSG00000100347,True,75,3,0,True,True
+SERPINE1,5054,0_genetic_risk,0_genetic_risk,genetic association with NAFLD,not_applicable,Ryaboshapkina2017_TableS2_genetic,ENSG00000106366,True,40,8,1,True,False
+SLC27A5,10998,0_genetic_risk,0_genetic_risk,genetic association with NAFLD,not_applicable,Ryaboshapkina2017_TableS2_genetic,ENSG00000083807,True,2,3,0,True,False
+SLC2A1,6513,0_genetic_risk,0_genetic_risk,genetic association with NAFLD,not_applicable,Ryaboshapkina2017_TableS2_genetic,ENSG00000117394,True,41,5,6,True,False
+SOD2,6648,0_genetic_risk,0_genetic_risk,genetic association with NAFLD,not_applicable,Ryaboshapkina2017_TableS2_genetic,ENSG00000291237,True,44,6,3,True,False
+SPINK1,6690,0_genetic_risk,0_genetic_risk,genetic association with NAFLD,not_applicable,Ryaboshapkina2017_TableS2_genetic,ENSG00000164266,True,7,1,0,True,False
+SREBF1,6720,0_genetic_risk,0_genetic_risk,genetic association with NAFLD,not_applicable,Ryaboshapkina2017_TableS2_genetic,ENSG00000072310,True,223,8,1,True,False
+SREBF2,6721,0_genetic_risk,0_genetic_risk,genetic association with NAFLD,not_applicable,Ryaboshapkina2017_TableS2_genetic,ENSG00000198911,True,148,6,0,True,False
+STAT3,6774,0_genetic_risk,0_genetic_risk,genetic association with NAFLD,not_applicable,Ryaboshapkina2017_TableS2_genetic,ENSG00000168610,True,606,38,1,True,False
+TCF7L2,6934,0_genetic_risk,0_genetic_risk,genetic association with NAFLD,not_applicable,Ryaboshapkina2017_TableS2_genetic,ENSG00000148737,True,66,11,0,True,False
+TGFB1,7040,0_genetic_risk,0_genetic_risk,genetic association with NAFLD,not_applicable,Ryaboshapkina2017_TableS2_genetic,ENSG00000105329,True,138,21,1,True,True
+TLR4,7099,0_genetic_risk,0_genetic_risk,genetic association with NAFLD,not_applicable,Ryaboshapkina2017_TableS2_genetic,ENSG00000136869,True,100,17,7,True,False
+TMPRSS6,164656,0_genetic_risk,0_genetic_risk,genetic association with NAFLD,not_applicable,Ryaboshapkina2017_TableS2_genetic,ENSG00000187045,True,2,2,0,True,False
+TNF,7124,0_genetic_risk,0_genetic_risk,genetic association with NAFLD,not_applicable,Ryaboshapkina2017_TableS2_genetic,ENSG00000232810,True,170,9,21,True,False
+UCP3,7352,0_genetic_risk,0_genetic_risk,genetic association with NAFLD,not_applicable,Ryaboshapkina2017_TableS2_genetic,ENSG00000175564,True,7,1,0,True,False
+AJUBA,84962,1_steatosis,1_steatosis; 2_NASH; 3_fibrosis,degree_of_SS; NAS; fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000129474,True,62,4,0,True,False
+CA12,771,1_steatosis,1_steatosis; 2_NASH,degree_of_SS; NAS,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000074410,True,15,1,5,True,False
+CNTNAP2,26047,1_steatosis,1_steatosis,degree_of_SS,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000174469,True,10,0,0,False,False
+CSTB,1476,1_steatosis,1_steatosis; 2_NASH,degree_of_SS; NAS,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000160213,True,24,1,0,True,False
+IGSF3,3321,1_steatosis,1_steatosis,degree_of_SS,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000143061,True,11,0,0,False,False
+KIF18A,81930,1_steatosis,1_steatosis,degree_of_SS,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000121621,True,32,9,0,True,False
+LAMA3,3909,1_steatosis,1_steatosis; 2_NASH,degree_of_SS; NAS,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000053747,True,18,10,0,True,False
+PIGR,5284,1_steatosis,1_steatosis; 2_NASH,degree_of_SS; NASH_vs_SS,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000162896,True,28,1,0,True,False
+RTN1,6252,1_steatosis,1_steatosis; 2_NASH,degree_of_SS; NAS,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000139970,True,34,0,0,False,False
+TERF2IP,54386,1_steatosis,1_steatosis,degree_of_SS,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000166848,True,160,14,0,True,False
+TMSB4X,7114,1_steatosis,1_steatosis,degree_of_SS,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000205542,True,52,1,0,True,False
+TNIK,23043,1_steatosis,1_steatosis,degree_of_SS,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000154310,True,143,1,1,True,False
+VIL1,7429,1_steatosis,1_steatosis,degree_of_SS,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000127831,True,13,0,0,False,False
+ACLY,47,2_NASH,2_NASH,NASH_vs_SS; NAS,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000131473,True,21,3,1,True,False
+ADCY7,113,2_NASH,2_NASH,NAS,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000121281,True,6,14,0,True,False
+AKR1B10,57016,2_NASH,2_NASH; 3_fibrosis; 4_HCC,NASH_vs_SS; fibrosis_in_NAFLD; progression_to_HCC,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000198074,True,16,1,7,True,False
+ALDOA,226,2_NASH,2_NASH,NASH_vs_SS,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000149925,True,62,4,7,True,False
+AMT,275,2_NASH,2_NASH; 3_fibrosis,NAS; fibrosis_in_NAFLD,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000145020,True,4,1,3,True,False
+APOF,319,2_NASH,2_NASH; 3_fibrosis; 4_HCC,inflammation; fibrosis_in_NAFLD; progression_to_HCC,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000175336,True,5,1,0,True,False
+AQP4,361,2_NASH,2_NASH; 3_fibrosis,NASH_vs_SS; fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000171885,True,9,2,0,True,False
+ARF3,377,2_NASH,2_NASH,NASH_vs_SS,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000134287,True,17,3,0,True,False
+ASPA,443,2_NASH,2_NASH; 4_HCC,NASH_vs_SS; progression_to_HCC,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000108381,True,10,1,4,True,False
+ATP1A1,476,2_NASH,2_NASH,NASH_vs_SS,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000163399,True,49,3,22,True,False
+ATP9A,10079,2_NASH,2_NASH; 3_fibrosis,NAS; fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000054793,True,31,1,0,True,False
+BCAT1,586,2_NASH,2_NASH,NAS,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000060982,True,29,1,7,True,False
+BNIP3L,665,2_NASH,2_NASH,NASH_vs_SS,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000104765,True,45,1,0,True,False
+BSG,682,2_NASH,2_NASH,NASH_vs_SS,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000172270,True,108,6,0,True,False
+C3P1,388503,2_NASH,2_NASH,NASH_vs_SS,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000291164,True,0,0,0,False,False
+CATSPERB,79820,2_NASH,2_NASH,NASH_vs_SS,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000133962,True,0,1,0,False,False
+CBLN3,643866,2_NASH,2_NASH,NAS,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000139899,True,7,0,0,False,False
+CCS,9973,2_NASH,2_NASH,NASH_vs_SS,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000173992,True,13,1,3,True,False
+CD24,100133941,2_NASH,2_NASH; 3_fibrosis,NASH_vs_SS; NAS; fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000272398,True,3,1,0,True,False
+CENPV,201161,2_NASH,2_NASH; 3_fibrosis,NASH_vs_SS; fibrosis_in_NAFLD,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000166582,True,23,0,0,False,False
+CERCAM,51148,2_NASH,2_NASH,NASH_vs_SS,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000167123,True,59,0,0,False,False
+CFD,1675,2_NASH,2_NASH,NAS,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000197766,True,6,3,2,True,False
+CHST9,83539,2_NASH,2_NASH,NASH_vs_SS,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000154080,True,3,1,0,True,False
+CLEC4G,339390,2_NASH,2_NASH; 3_fibrosis,NASH_vs_SS; fibrosis_in_NAFLD,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000182566,True,28,1,0,True,False
+CYP2C19,1557,2_NASH,2_NASH; 3_fibrosis; 4_HCC,NAS; fibrosis_in_NAFLD; progression_to_HCC,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000165841,True,4,5,281,True,False
+DCN,1634,2_NASH,2_NASH; 3_fibrosis,NASH_vs_SS; fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000011465,True,27,12,0,True,False
+DHRS9,10170,2_NASH,2_NASH,NAS,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000073737,True,12,2,0,True,False
+ELMO2,63916,2_NASH,2_NASH,NASH_vs_SS,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000062598,True,15,5,0,True,False
+ERICH5,203111,2_NASH,2_NASH; 3_fibrosis,NASH_vs_SS; fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000177459,True,21,1,0,True,False
+FABP4,2167,2_NASH,2_NASH,NAS,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000170323,True,12,3,11,True,False
+FAT1,2195,2_NASH,2_NASH; 3_fibrosis,NASH_vs_SS; NAS; fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000083857,True,31,0,0,False,False
+FBL,2091,2_NASH,2_NASH,NAS,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000105202,True,181,2,0,True,False
+FCAMR,83953,2_NASH,2_NASH,NAS,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000162897,True,1,1,0,True,False
+FCN2,2220,2_NASH,2_NASH; 4_HCC,NASH_vs_SS; progression_to_HCC,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000160339,True,10,3,0,True,False
+FMC1,154791,2_NASH,2_NASH,NASH_vs_SS,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000164898,True,10,0,0,False,False
+GNMT,27232,2_NASH,2_NASH; 4_HCC,NASH_vs_SS; progression_to_HCC,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000124713,True,31,3,3,True,False
+GRTP1,79774,2_NASH,2_NASH,NASH_vs_SS,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000139835,True,5,0,0,False,False
+H2AC6,8334,2_NASH,2_NASH,NASH_vs_SS,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000180573,True,26,46,0,True,False
+IL32,9235,2_NASH,2_NASH; 3_fibrosis,NASH_vs_SS; NAS; fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000008517,True,23,2,0,True,False
+ITCH,83737,2_NASH,2_NASH; 4_HCC,NAS; progression_to_HCC,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000078747,True,201,10,0,True,False
+ITM2C,81618,2_NASH,2_NASH,NASH_vs_SS,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000135916,True,13,0,0,False,False
+KCNAB2,8514,2_NASH,2_NASH,NAS,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000069424,True,33,2,0,True,False
+LPL,4023,2_NASH,2_NASH,NAS,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000175445,True,26,5,1,True,True
+LRRC57,255252,2_NASH,2_NASH,NASH_vs_SS,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000180979,True,7,0,0,False,False
+LUM,4060,2_NASH,2_NASH; 3_fibrosis,NASH_vs_SS; fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000139329,True,8,7,0,True,False
+LYPD1,116372,2_NASH,2_NASH,NAS,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000150551,True,21,1,0,True,False
+MACROH2A1,9555,2_NASH,2_NASH,NAS,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000113648,True,94,0,0,False,False
+MANBAL,63905,2_NASH,2_NASH,NASH_vs_SS,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000101363,True,25,0,0,False,False
+MCM6,4175,2_NASH,2_NASH; 3_fibrosis,NASH_vs_SS; inflammation; fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000076003,True,80,6,0,True,False
+MPZL1,9019,2_NASH,2_NASH,NASH_vs_SS,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000197965,True,65,0,0,False,False
+MRAS,22808,2_NASH,2_NASH; 3_fibrosis; 4_HCC,NASH_vs_SS; fibrosis_in_NAFLD; progression_to_HCC,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000158186,True,15,3,0,True,False
+MT1A,4489,2_NASH,2_NASH,NAS,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000205362,True,6,1,4,True,False
+MT1M,4499,2_NASH,2_NASH; 3_fibrosis,NASH_vs_SS; fibrosis_in_NAFLD,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000205364,True,8,1,0,True,False
+MVP,9961,2_NASH,2_NASH,NAS,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000013364,True,99,1,0,True,False
+NSF,4905,2_NASH,2_NASH,NASH_vs_SS,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000073969,True,48,6,0,True,False
+PZP,5858,2_NASH,2_NASH; 4_HCC,NASH_vs_SS; progression_to_HCC,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000126838,True,8,0,3,False,False
+QRICH1,54870,2_NASH,2_NASH,NASH_vs_SS,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000198218,True,82,0,0,False,False
+RAB11FIP5,26056,2_NASH,2_NASH,NASH_vs_SS,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000135631,True,26,0,0,False,False
+RBM10,8241,2_NASH,2_NASH,NASH_vs_SS,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000182872,True,101,2,0,True,False
+RCL1,10171,2_NASH,2_NASH; 4_HCC,NASH_vs_SS; progression_to_HCC,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000120158,True,10,2,0,True,True
+RFX5,5993,2_NASH,2_NASH; 3_fibrosis; 4_HCC,NASH_vs_SS; inflammation; fibrosis_in_NAFLD; progression_to_HCC,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000143390,True,149,0,0,False,False
+RGS5,8490,2_NASH,2_NASH; 3_fibrosis,NAS; fibrosis_in_NAFLD,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000143248,True,9,2,0,True,False
+RND2,8153,2_NASH,2_NASH,NAS,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000108830,True,12,1,0,True,False
+RORA,6095,2_NASH,2_NASH,NASH_vs_SS,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000069667,True,41,10,2,True,False
+SEC31A,22872,2_NASH,2_NASH,NASH_vs_SS,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000138674,True,43,5,0,True,False
+SLC1A1,6505,2_NASH,2_NASH,NASH_vs_SS,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000106688,True,43,3,3,True,False
+SLC25A18,83733,2_NASH,2_NASH,NASH_vs_SS,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000182902,True,6,2,1,True,False
+SLC35G1,159371,2_NASH,2_NASH,NASH_vs_SS,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000176273,True,6,0,0,False,False
+SLC44A3,126969,2_NASH,2_NASH,NASH_vs_SS,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000143036,True,3,2,2,True,False
+SPP1,6696,2_NASH,2_NASH,inflammation; NAS,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000118785,True,91,7,0,True,False
+STMN2,11075,2_NASH,2_NASH; 3_fibrosis,NAS; fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000104435,True,42,1,0,True,False
+SULF2,55959,2_NASH,2_NASH; 3_fibrosis,NASH_vs_SS; fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000196562,True,21,0,0,False,False
+TENM3,55714,2_NASH,2_NASH,NAS,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000218336,True,9,0,0,False,False
+TENT4A,11044,2_NASH,2_NASH; 3_fibrosis,NASH_vs_SS; fibrosis_in_NAFLD,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000112941,True,4,2,0,True,False
+TP53I3,9540,2_NASH,2_NASH; 4_HCC,NASH_vs_SS; progression_to_HCC,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000115129,True,17,1,0,True,False
+TPGS2,25941,2_NASH,2_NASH,NASH_vs_SS,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000134779,True,11,1,0,True,False
+TUBG1,7283,2_NASH,2_NASH,NASH_vs_SS,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000131462,True,189,7,1,True,False
+TXN,7295,2_NASH,2_NASH,NASH_vs_SS,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000136810,True,95,9,1,True,False
+TXNRD1,7296,2_NASH,2_NASH,NASH_vs_SS,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000198431,True,32,8,6,True,False
+UBD,10537,2_NASH,2_NASH,NAS,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000213886,True,59,1,0,True,False
+VPS45,11311,2_NASH,2_NASH; 4_HCC,NASH_vs_SS; progression_to_HCC,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000136631,True,19,3,0,True,False
+WDHD1,11169,2_NASH,2_NASH; 3_fibrosis,NASH_vs_SS; fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000198554,True,32,0,0,False,False
+YWHAH,7533,2_NASH,2_NASH,NAS,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000128245,True,198,8,1,True,False
+ABCC4,10257,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000125257,True,20,4,47,True,False
+ADAMTSL2,9719,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000197859,True,3,2,0,True,False
+ADCY10,55811,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000143199,True,3,1,0,True,False
+ADHFE1,137872,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000147576,True,3,1,1,True,False
+ANXA13,312,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000104537,True,9,0,0,False,False
+APOL3,80833,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000128284,True,28,0,0,False,False
+ASPG,374569,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000166183,True,14,1,1,True,False
+CAPN6,827,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000077274,True,17,1,0,True,False
+CAV2,858,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000105971,True,19,1,0,True,False
+CCDC146,57639,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000135205,True,82,0,0,False,False
+CCL19,6363,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000172724,True,20,3,0,True,False
+CCL23,6368,3_fibrosis,3_fibrosis; 4_HCC,fibrosis_in_NAFLD; progression_to_HCC,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000274736,True,3,3,0,True,False
+CDH6,1004,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000113361,True,5,1,0,True,False
+CDKN3,1033,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000100526,True,10,0,0,False,False
+CENPK,64105,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000123219,True,20,7,0,True,False
+CENPU,79682,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000151725,True,66,7,0,True,False
+CLIC6,54102,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000159212,True,4,0,0,False,False
+CNKSR1,10256,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000142675,True,33,7,0,True,False
+COL10A1,1300,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000123500,True,20,6,0,True,False
+COL1A2,1278,3_fibrosis,3_fibrosis; 4_HCC,fibrosis_in_NAFLD; progression_to_HCC,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000164692,True,53,27,0,True,False
+COL3A1,1281,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000168542,True,20,15,0,True,False
+COL5A1,1289,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000130635,True,35,13,0,True,False
+COL6A2,1292,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000142173,True,38,8,0,True,False
+CXCL12,6387,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000107562,True,29,5,0,True,False
+CXCL6,6372,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000124875,True,9,2,0,True,False
+CXCL9,4283,3_fibrosis,3_fibrosis; 4_HCC,fibrosis_in_NAFLD; progression_to_HCC,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000138755,True,67,2,0,True,False
+DEPDC1B,55789,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000035499,True,8,17,0,True,False
+DKK3,27122,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000050165,True,59,0,0,False,False
+DNAJC12,56521,3_fibrosis,3_fibrosis; 4_HCC,fibrosis_in_NAFLD; progression_to_HCC,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000108176,True,16,0,0,False,False
+DOCK8,81704,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000107099,True,49,4,0,True,False
+DOK6,220164,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000206052,True,23,1,0,True,False
+DTL,51514,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000143476,True,87,2,0,True,False
+DUSP10,11221,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000143507,True,57,3,0,True,False
+EGFLAM,133584,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000164318,True,3,0,0,False,False
+EHF,26298,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000135373,True,6,0,0,False,False
+ENPP2,5168,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000136960,True,7,1,0,True,False
+ENPP5,59084,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000112796,True,0,0,0,False,False
+EPB41L4A,64097,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000129595,True,5,0,0,False,False
+EPCAM,4072,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000119888,True,10,1,0,True,False
+ERN1,2081,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000178607,True,39,1,1,True,False
+FAM3B,54097,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000183844,True,10,0,0,False,False
+FAP,2191,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000078098,True,22,0,0,False,False
+FBLIM1,54751,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000162458,True,25,1,0,True,False
+FES,2242,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000182511,True,33,4,1,True,False
+FUT4,2526,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000196371,True,2,1,0,True,False
+FXYD2,486,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000137731,True,3,3,2,True,False
+GCAT,23464,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000100116,True,7,0,2,False,False
+GNG12,55970,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000172380,True,19,29,0,True,False
+GPC3,2719,3_fibrosis,3_fibrosis; 4_HCC,fibrosis_in_NAFLD; progression_to_HCC,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000147257,True,29,14,0,True,False
+GSTA3,2940,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000174156,True,5,2,1,True,False
+GUCY1A1,2982,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000164116,True,10,2,0,True,False
+HELLS,3070,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000119969,True,29,1,0,True,False
+HKDC1,80201,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000156510,True,4,1,0,True,False
+HORMAD2,150280,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000176635,True,2,0,0,False,False
+ILDR1,286676,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000145103,True,4,0,0,False,False
+ISLR,3671,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000129009,True,39,1,0,True,False
+ITGAM,3684,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000169896,True,63,5,0,True,False
+ITGB5,3693,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000082781,True,79,7,0,True,False
+KCNAB1,7881,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000169282,True,10,1,0,True,False
+KCNN2,3781,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000080709,True,8,2,3,True,False
+KDELR3,11015,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000100196,True,17,3,0,True,False
+LAMA2,3908,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000196569,True,14,7,0,True,False
+LBH,81606,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000213626,True,2,0,0,False,False
+LINC01554,202299,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000236882,True,9,0,0,False,False
+LRRN1,57633,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000175928,True,4,0,0,False,False
+LYVE1,10894,3_fibrosis,3_fibrosis; 4_HCC,fibrosis_in_NAFLD; progression_to_HCC,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000133800,True,27,1,0,True,False
+MAP1B,4131,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000131711,True,47,1,0,True,False
+MARCKS,4082,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000277443,True,20,1,0,True,False
+MCM10,55388,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000065328,True,61,2,0,True,False
+MCM4,4173,3_fibrosis,3_fibrosis; 4_HCC,fibrosis_in_NAFLD; progression_to_HCC,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000104738,True,89,6,0,True,False
+MND1,84057,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000121211,True,13,1,0,True,False
+MOXD1,26002,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000079931,True,17,0,0,False,False
+MR1,3140,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000153029,True,20,0,0,False,False
+MRPL57,78988,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000173141,True,34,3,0,True,False
+MSI2,124540,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000153944,True,20,1,0,True,False
+MT1E,4493,3_fibrosis,3_fibrosis; 4_HCC,fibrosis_in_NAFLD; progression_to_HCC,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000169715,True,3,1,0,True,False
+MYO19,80179,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000278259,True,174,2,0,True,False
+NCK2,8440,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000071051,True,246,8,0,True,False
+NFX1,4799,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000086102,True,24,0,0,False,False
+NIBAN2,64855,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000136830,True,21,0,0,False,False
+NUSAP1,51203,3_fibrosis,3_fibrosis; 4_HCC,fibrosis_in_NAFLD; progression_to_HCC,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000137804,True,35,0,0,False,False
+OIP5,11339,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000104147,True,171,1,0,True,False
+PARVA,55742,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000197702,True,22,3,0,True,False
+PBK,55872,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000168078,True,57,0,0,False,False
+PCBP4,57060,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000090097,True,13,3,0,True,False
+PCOLCE2,26577,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000163710,True,7,1,0,True,False
+PEG3,5178,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000198300,True,9,0,0,False,False
+PMEL,6490,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000185664,True,57,1,0,True,False
+PPIC,5480,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000168938,True,18,0,1,False,False
+PRKAA2,5563,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000162409,True,196,11,4,True,False
+PRXL2B,127281,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000157870,True,9,1,0,True,False
+PTGDS,5730,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000107317,True,25,2,1,True,False
+PTPRD,5789,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000153707,True,68,2,0,True,True
+RAD51AP1,10635,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000111247,True,16,8,0,True,False
+RNASE1,6035,3_fibrosis,3_fibrosis; 4_HCC,fibrosis_in_NAFLD; progression_to_HCC,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000129538,True,9,3,16,True,False
+ROBO1,6091,3_fibrosis,3_fibrosis; 4_HCC,fibrosis_in_NAFLD; progression_to_HCC,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000169855,True,21,9,0,True,True
+SCML4,256380,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000146285,True,5,0,0,False,False
+SEL1L3,23231,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000091490,True,6,0,0,False,False
+SFRP5,6425,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000120057,True,1,0,0,False,False
+SLC16A10,117247,3_fibrosis,3_fibrosis; 4_HCC,fibrosis_in_NAFLD; progression_to_HCC,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000112394,True,15,1,34,True,False
+SLC34A2,10568,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000157765,True,34,4,3,True,False
+SLFN5,162394,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000166750,True,3,0,0,False,False
+SOX9,6662,3_fibrosis,3_fibrosis; 4_HCC,fibrosis_in_NAFLD; progression_to_HCC,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000125398,True,26,7,0,True,False
+SPECC1,92521,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000128487,True,35,0,0,False,False
+ST3GAL6,10402,3_fibrosis,3_fibrosis; 4_HCC,fibrosis_in_NAFLD; progression_to_HCC,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000064225,True,6,4,0,True,False
+STAT1,6772,3_fibrosis,3_fibrosis; 4_HCC,fibrosis_in_NAFLD; progression_to_HCC,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000115415,True,427,29,0,True,False
+SYAP1,94056,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000169895,True,19,0,0,False,False
+SYPL1,6856,3_fibrosis,3_fibrosis; 4_HCC,fibrosis_in_NAFLD; progression_to_HCC,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000008282,True,15,0,0,False,False
+TCEAL9,51186,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000185222,True,6,0,0,False,False
+TIGAR,57103,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000078237,True,6,1,0,True,False
+TOP2A,7153,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000131747,True,117,2,33,True,False
+TUSC3,7991,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000104723,True,25,3,0,True,False
+TYMS,7298,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000176890,True,40,2,17,True,False
+UBE2T,29089,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000077152,True,36,2,0,True,False
+UHRF1,29128,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000276043,True,67,2,0,True,False
+VSIG10,54621,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000176834,True,0,0,0,False,False
+VTCN1,79679,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000134258,True,3,0,0,False,False
+WDR76,79968,3_fibrosis,3_fibrosis; 4_HCC,fibrosis_in_NAFLD; progression_to_HCC,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000092470,True,32,0,0,False,False
+XPNPEP3,63929,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000196236,True,9,0,0,False,False
+ZMAT3,64393,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000172667,True,21,0,0,False,False
+ZRANB1,54764,3_fibrosis,3_fibrosis,fibrosis_in_NAFLD,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000019995,True,161,2,0,True,False
+ZWINT,11130,3_fibrosis,3_fibrosis; 4_HCC,fibrosis_in_NAFLD; progression_to_HCC,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000122952,True,89,6,0,True,False
+AGTR1,185,4_HCC,4_HCC,progression_to_HCC,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000144891,True,92,4,14,True,False
+CD14,929,4_HCC,4_HCC,progression_to_HCC,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000170458,True,32,20,0,True,False
+CYP2E1,1571,4_HCC,4_HCC,progression_to_HCC,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000130649,True,22,5,134,True,False
+GCKR,2646,4_HCC,4_HCC,progression_to_HCC,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000084734,True,8,2,0,True,True
+GCLC,2729,4_HCC,4_HCC,progression_to_HCC,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000001084,True,12,3,5,True,False
+NR1I2,8856,4_HCC,4_HCC,progression_to_HCC,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000144852,True,90,2,62,True,False
+PARVB,29780,4_HCC,4_HCC,progression_to_HCC,increasing,Ryaboshapkina2017_TableS2_histology,ENSG00000188677,True,13,2,0,True,True
+PNPLA3,80339,4_HCC,4_HCC,progression_to_HCC,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000100344,True,5,1,0,True,True
+PPARA,5465,4_HCC,4_HCC,progression_to_HCC,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000186951,True,109,13,41,True,False
+TM6SF2,53345,4_HCC,4_HCC,progression_to_HCC,decreasing,Ryaboshapkina2017_TableS2_histology,ENSG00000213996,True,13,0,0,False,True

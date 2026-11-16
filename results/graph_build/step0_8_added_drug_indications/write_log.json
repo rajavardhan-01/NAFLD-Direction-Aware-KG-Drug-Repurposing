@@ -1,0 +1,74 @@
+{
+  "step": "0.8 added-drug indications",
+  "added": "2026-11-13T19:56:48+00:00",
+  "links_written": 335,
+  "drugs": 19,
+  "diseases": 256,
+  "skipped": {
+    "skip: disease not in graph": 18
+  },
+  "meta": {
+    "chembl_release": "ChEMBL_37",
+    "chembl_release_date": "2026-05-01",
+    "retrieved": "2026-11-13",
+    "added_drugs": 31,
+    "chembl_match": {
+      "graph ID": 13,
+      "preferred name": 9,
+      "synonym": 6,
+      "not found": 3
+    },
+    "added_drugs_with_chembl_id": 28,
+    "added_drugs_with_indication": 19,
+    "indication_rows": 354
+  },
+  "before": {
+    "nodes_total": 164866,
+    "relationships_total": 10600147,
+    "nodes": {
+      "BiologicalProcess": 25754,
+      "Disease": 36753,
+      "Drug": 18671,
+      "Gene": 61306,
+      "Pathway": 3041,
+      "Phenotype": 19341
+    },
+    "relationships": {
+      "ACTS_ON": 36721,
+      "ASSOCIATED_WITH": 9734774,
+      "CONTRAINDICATED_IN": 11379,
+      "HAS_PHENOTYPE": 157144,
+      "INTERACTS_WITH": 327924,
+      "IN_PATHWAY": 67044,
+      "OFF_LABEL_FOR": 827,
+      "PARENT_OF": 47750,
+      "PARTICIPATES_IN": 158410,
+      "TREATS": 58174
+    }
+  },
+  "after": {
+    "nodes_total": 164866,
+    "relationships_total": 10600482,
+    "nodes": {
+      "BiologicalProcess": 25754,
+      "Disease": 36753,
+      "Drug": 18671,
+      "Gene": 61306,
+      "Pathway": 3041,
+      "Phenotype": 19341
+    },
+    "relationships": {
+      "ACTS_ON": 36721,
+      "ASSOCIATED_WITH": 9734774,
+      "CONTRAINDICATED_IN": 11379,
+      "HAS_PHENOTYPE": 157144,
+      "INTERACTS_WITH": 327924,
+      "IN_PATHWAY": 67044,
+      "OFF_LABEL_FOR": 827,
+      "PARENT_OF": 47750,
+      "PARTICIPATES_IN": 158410,
+      "TREATS": 58509
+    }
+  },
+  "undo": "undo_indications.cypher"
+}

@@ -1,0 +1,61 @@
+{
+  "step": "0.0 import OptimusKG",
+  "database": "paper2public",
+  "started": "2026-11-13T18:36:21+00:00",
+  "finished": "2026-11-13T19:32:33+00:00",
+  "before": {
+    "nodes_total": 0,
+    "relationships_total": 0,
+    "nodes": {},
+    "relationships": {}
+  },
+  "after": {
+    "nodes_total": 164599,
+    "relationships_total": 10579970,
+    "nodes": {
+      "BiologicalProcess": 25754,
+      "Disease": 36753,
+      "Drug": 18640,
+      "Gene": 61306,
+      "Pathway": 2805,
+      "Phenotype": 19341
+    },
+    "relationships": {
+      "ACTS_ON": 36611,
+      "ASSOCIATED_WITH": 9734774,
+      "CONTRAINDICATED_IN": 11379,
+      "HAS_PHENOTYPE": 157144,
+      "INTERACTS_WITH": 327924,
+      "IN_PATHWAY": 46977,
+      "OFF_LABEL_FOR": 827,
+      "PARENT_OF": 47750,
+      "PARTICIPATES_IN": 158410,
+      "TREATS": 58174
+    }
+  },
+  "expected": {
+    "nodes": {
+      "Gene": 61306,
+      "Drug": 18640,
+      "Disease": 36753,
+      "Pathway": 2805,
+      "BiologicalProcess": 25754,
+      "Phenotype": 19341
+    },
+    "relationships": {
+      "ACTS_ON": 36611,
+      "INTERACTS_WITH": 327924,
+      "IN_PATHWAY": 46977,
+      "TREATS": 58174,
+      "OFF_LABEL_FOR": 827,
+      "CONTRAINDICATED_IN": 11379,
+      "ASSOCIATED_WITH": 9734774,
+      "PARENT_OF": 47750,
+      "HAS_PHENOTYPE": 157144,
+      "PARTICIPATES_IN": 158410
+    }
+  },
+  "mismatches": {},
+  "unexpected_types": [],
+  "undo": "undo_import.cypher"
+}

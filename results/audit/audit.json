@@ -1,0 +1,110 @@
+{
+  "1_excluded_names_in_code": {
+    "run": "2026-11-16T11:31:57+00:00",
+    "files_searched": 23,
+    "patterns": [
+      "liver_graph",
+      "graph-export-2026-11-05",
+      "rebuild_graph",
+      "prepare_graph_release",
+      "Paper1_HighConfidence",
+      "Paper1_Results",
+      "progression_genes",
+      "11_final_all_3845_genes",
+      "11_FINAL_shortlist",
+      "10_loso_all_eligible_runs",
+      "task2_gene_clusters",
+      "task4_all_significant",
+      "New_drug_gene_links",
+      "Task7_external_layer",
+      "indication_pairs_plan",
+      "graph_gap_properties",
+      "Tier [123]",
+      "[Ss]hortlist",
+      "23-gene",
+      "\\bC[1-5]\\b",
+      "\\bF[0-4]\\b",
+      "[Ll]argest_transition",
+      "6,222",
+      "3,845",
+      "14,794",
+      "Paper ?1",
+      "paper1",
+      "companion",
+      "old_reference",
+      "TRACKS_FIBROSIS",
+      "TRACKS_INFLAMMATION",
+      "Paper2_Results"
+    ],
+    "hits": [],
+    "pass": true
+  },
+  "2_graph_layers": {
+    "run": "2026-11-16T11:31:57+00:00",
+    "database": "neo4j",
+    "labels": {
+      "BiologicalProcess": 25754,
+      "Disease": 36753,
+      "Drug": 18671,
+      "Gene": 61306,
+      "Pathway": 3041,
+      "Phenotype": 19341
+    },
+    "relationship_types": {
+      "ACTS_ON": 36721,
+      "ASSOCIATED_WITH": 9734774,
+      "CONTRAINDICATED_IN": 11379,
+      "HAS_PHENOTYPE": 157144,
+      "IMPLICATED_IN": 12,
+      "INTERACTS_WITH": 327924,
+      "IN_PATHWAY": 67044,
+      "OFF_LABEL_FOR": 827,
+      "PARENT_OF": 47750,
+      "PARTICIPATES_IN": 158410,
+      "TREATS": 58509
+    },
+    "tracks_relationship_types": [],
+    "expression_like_labels": [],
+    "gene_nodes_with_expression_like_properties": 0,
+    "pass": true
+  },
+  "3_gene_star_in_seed_file": {
+    "run": "2026-11-16T11:31:57+00:00",
+    "runs": {
+      "RunA_all_seed_genes": {
+        "gene_star_in_routes": 55,
+        "not_in_allowed_set": []
+      },
+      "RunB_histology_genes": {
+        "gene_star_in_routes": 42,
+        "not_in_allowed_set": []
+      },
+      "RunC_fibrosis_genes": {
+        "gene_star_in_routes": 25,
+        "not_in_allowed_set": []
+      },
+      "RunD_seed_plus_GWAS": {
+        "gene_star_in_routes": 85,
+        "not_in_allowed_set": []
+      }
+    },
+    "pass": true
+  },
+  "4_numbers": {
+    "run": "2026-11-15T14:08:53+00:00",
+    "funnel_steps_add_up": true,
+    "funnel_monotonic": true,
+    "direction_groups_match_main_list": true,
+    "ranking_counts_match_files": true,
+    "readme_equals_fresh_build_from_files": true,
+    "pass": true
+  },
+  "5_rerun_identical": {
+    "run": "2026-11-16T11:30:47+00:00",
+    "files_compared": 18,
+    "identical": true,
+    "differing_files": [],
+    "note": "content compared after sorting rows; generation timestamps excluded",
+    "pass": true
+  }
+}

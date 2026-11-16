@@ -1,0 +1,6 @@
+main_stage,links,genes,drugs,known_direction,comparable
+0_genetic_risk,588,32,527,202,0
+1_steatosis,24,4,24,18,18
+2_NASH,439,28,412,22,22
+3_fibrosis,302,35,285,91,91
+4_HCC,306,6,284,67,67

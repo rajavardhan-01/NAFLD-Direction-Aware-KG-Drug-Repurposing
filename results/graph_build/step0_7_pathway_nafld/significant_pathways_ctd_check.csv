@@ -1,0 +1,24 @@
+pathway,name,database,best_q,best_group,groups,in_ctd_nafld,ctd_n_genes,linked,link_basis
+HALLMARK:HALLMARK_ANGIOGENESIS,Angiogenesis,Hallmark,0.004277733942772595,all_histology,2_NASH_increasing;all_histology,False,0,True,"enrichment only (Hallmark, no CTD coverage)"
+HALLMARK:HALLMARK_E2F_TARGETS,E2F targets,Hallmark,0.02086651381687538,3_fibrosis_increasing,3_fibrosis_increasing,False,0,True,"enrichment only (Hallmark, no CTD coverage)"
+HALLMARK:HALLMARK_EPITHELIAL_MESENCHYMAL_TRANSITION,Epithelial mesenchymal transition,Hallmark,2.0414476351460435e-06,all_histology,3_fibrosis;3_fibrosis_increasing;all_histology,False,0,True,"enrichment only (Hallmark, no CTD coverage)"
+HALLMARK:HALLMARK_HYPOXIA,Hypoxia,Hallmark,0.04740872001626507,all_histology,all_histology,False,0,True,"enrichment only (Hallmark, no CTD coverage)"
+HALLMARK:HALLMARK_MTORC1_SIGNALING,MTORC1 signaling,Hallmark,0.025129371677168798,2_NASH_increasing,2_NASH_increasing,False,0,True,"enrichment only (Hallmark, no CTD coverage)"
+HALLMARK:HALLMARK_XENOBIOTIC_METABOLISM,Xenobiotic metabolism,Hallmark,0.010851551686704491,4_HCC_decreasing,4_HCC;4_HCC_decreasing,False,0,True,"enrichment only (Hallmark, no CTD coverage)"
+KEGG:KEGG_CHEMOKINE_SIGNALING_PATHWAY,Chemokine signaling pathway,KEGG,0.031935678338295005,3_fibrosis,3_fibrosis;3_fibrosis_increasing,True,4,True,enrichment + CTD
+KEGG:KEGG_ECM_RECEPTOR_INTERACTION,ECM receptor interaction,KEGG,0.0012672884637693017,3_fibrosis_increasing,3_fibrosis;3_fibrosis_increasing;all_histology,True,1,False,
+KEGG:KEGG_FOCAL_ADHESION,Focal adhesion,KEGG,0.0012707112694791771,3_fibrosis_increasing,3_fibrosis;3_fibrosis_increasing;all_histology,True,4,True,enrichment + CTD
+REACT:R-HSA-1442490,Collagen degradation,Reactome,0.006659378011094326,3_fibrosis_increasing,3_fibrosis;3_fibrosis_increasing,True,1,False,
+REACT:R-HSA-1474244,Extracellular matrix organization,Reactome,0.014353551953217681,3_fibrosis_increasing,3_fibrosis;3_fibrosis_increasing,True,4,True,enrichment + CTD
+REACT:R-HSA-1650814,Collagen biosynthesis and modifying enzymes,Reactome,0.007494560263438783,3_fibrosis_increasing,3_fibrosis;3_fibrosis_increasing,False,0,False,
+REACT:R-HSA-2022090,Assembly of collagen fibrils and other multimeric structures,Reactome,0.0032541651623222336,3_fibrosis_increasing,3_fibrosis;3_fibrosis_increasing;all_histology,False,0,False,
+REACT:R-HSA-216083,Integrin cell surface interactions,Reactome,0.0009294891378366376,3_fibrosis_increasing,3_fibrosis;3_fibrosis_increasing;all_histology,False,0,False,
+REACT:R-HSA-3000170,Syndecan interactions,Reactome,0.004405236266570996,3_fibrosis_increasing,3_fibrosis;3_fibrosis_increasing,True,2,True,enrichment + CTD
+REACT:R-HSA-3000171,Non-integrin membrane-ECM interactions,Reactome,0.002325552272126773,3_fibrosis_increasing,3_fibrosis;3_fibrosis_increasing;all_histology,True,3,True,enrichment + CTD
+REACT:R-HSA-3000178,ECM proteoglycans,Reactome,0.001817017709387846,all_histology,3_fibrosis;3_fibrosis_increasing;all_histology,True,2,True,enrichment + CTD
+REACT:R-HSA-380108,Chemokine receptors bind chemokines,Reactome,0.04709820074858462,3_fibrosis_increasing,3_fibrosis_increasing,False,0,False,
+REACT:R-HSA-8874081,MET activates PTK2 signaling,Reactome,0.005943966710835122,3_fibrosis_increasing,3_fibrosis;3_fibrosis_increasing;all_histology,True,1,False,
+REACT:R-HSA-8948216,Collagen chain trimerization,Reactome,0.002325552272126773,3_fibrosis_increasing,3_fibrosis;3_fibrosis_increasing,False,0,False,
+REACT:R-HSA-8985801,Regulation of cortical dendrite branching,Reactome,0.03349284612669296,3_fibrosis_increasing,3_fibrosis_increasing,False,0,False,
+REACT:R-HSA-9818027,NFE2L2 regulating anti-oxidant/detoxification enzymes,Reactome,0.04710855713401163,all_histology,all_histology,False,0,False,
+REACT:R-HSA-9925563,Developmental Lineage of Pancreatic Ductal Cells,Reactome,0.0028833840747283673,3_fibrosis_increasing,3_fibrosis;3_fibrosis_increasing;all_histology,False,0,False,

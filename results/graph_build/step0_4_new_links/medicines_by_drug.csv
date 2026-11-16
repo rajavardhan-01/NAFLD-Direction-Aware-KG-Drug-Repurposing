@@ -1,0 +1,109 @@
+Drug_ID,Drug,drug_stage,drug_in_graph,new_genes,first_drug_for,genes
+CHEMBL230158,SELADELPAR,approved,"yes, other links only",2,0,PPARA;PPARG
+rxcui:2475861,COLLAGENASE CLOSTRIDIUM HISTOLYTICUM-AAES,approved,no (new drug),2,0,COL1A2;COL3A1
+CHEMBL107367,FARGLITAZAR,clinical trial,"yes, acts on other seed genes",1,0,PPARA
+CHEMBL1023,BEXAROTENE,approved,"yes, other links only",1,0,PPARG
+CHEMBL1095777,INDACATEROL,approved,"yes, other links only",1,0,ADRB3
+CHEMBL118,CELECOXIB,approved,"yes, acts on other seed genes",1,0,CA12
+CHEMBL1198857,VILANTEROL,approved,"yes, other links only",1,0,ADRB3
+CHEMBL1201258,pemetrexed,approved,no (new drug),1,0,TYMS
+CHEMBL1201561,PEGINTERFERON ALFA-2B,approved,"yes, other links only",1,1,IFNL3
+CHEMBL1201830,RILONACEPT,approved,"yes, acts on other seed genes",1,0,IL1A
+CHEMBL1237119,TREPROSTINIL,approved,"yes, other links only",1,0,PPARG
+CHEMBL1055,CHLORTHALIDONE,approved,"yes, other links only",1,0,CA12
+CHEMBL1243407,ZINTEROL,clinical trial,no (new drug),1,0,ADRB3
+CHEMBL1259059,SOFOSBUVIR,approved,"yes, other links only",1,1,IFNL3
+CHEMBL1335656,methazolamide,approved,no (new drug),1,0,CA12
+CHEMBL13,METOPROLOL,approved,"yes, other links only",1,0,ADRB3
+CHEMBL1509,DROSPIRENONE,approved,"yes, other links only",1,0,CYP2C19
+CHEMBL160519,PROCATEROL,approved,"yes, other links only",1,0,ADRB3
+CHEMBL1615281,SLC-0111,clinical trial,"yes, other links only",1,0,CA12
+CHEMBL139,DICLOFENAC,approved,"yes, acts on other seed genes",1,0,PPARG
+CHEMBL1697725,AUROTHIOGLUCOSE,approved,no (new drug),1,0,TXNRD1
+CHEMBL175247,ORLISTAT,approved,"yes, other links only",1,0,LPL
+CHEMBL176045,FANCHININ,approved,"yes, node only",1,0,KCNN2
+CHEMBL1822792,MK-2461,clinical trial,"yes, other links only",1,0,MERTK
+CHEMBL191083,METHYLENE BLUE ANHYDROUS,approved,"yes, acts on other seed genes",1,0,GUCY1A1
+CHEMBL1923234,WP 1066,clinical trial,"yes, other links only",1,0,STAT3
+CHEMBL2063090,GRAZOPREVIR,approved,"yes, other links only",1,1,IFNL3
+CHEMBL163,RITONAVIR,approved,"yes, acts on other seed genes",1,1,IFNL3
+CHEMBL2107549,BINDARIT,clinical trial,"yes, other links only",1,0,FABP4
+CHEMBL2109458,AMG-108,clinical trial,"yes, other links only",1,0,IL1A
+CHEMBL2143592,BMS-794833,clinical trial,"yes, node only",1,0,MERTK
+CHEMBL2109533,ORTICUMAB,clinical trial,no (new drug),1,1,OLR1
+CHEMBL218490,DORZOLAMIDE,approved,"yes, acts on other seed genes",1,0,CA12
+CHEMBL220491,BRINZOLAMIDE,approved,"yes, other links only",1,0,CA12
+CHEMBL220492,TOPIRAMATE,approved,"yes, acts on other seed genes",1,0,CA12
+CHEMBL218394,BOCEPREVIR,approved,"yes, other links only",1,1,IFNL3
+CHEMBL2220079,ACT-001,clinical trial,"yes, other links only",1,0,STAT3
+CHEMBL231068,FLIBANSERIN,approved,"yes, other links only",1,0,CYP2C19
+CHEMBL231813,TELAPREVIR,approved,"yes, other links only",1,1,IFNL3
+CHEMBL236025,ILOPROST,approved,no (new drug),1,0,PPARA
+CHEMBL2374220,LEDIPASVIR,approved,"yes, other links only",1,1,IFNL3
+CHEMBL24,ATENOLOL,approved,"yes, acts on other seed genes",1,0,ADRB3
+CHEMBL24038,RAGAGLITAZAR,clinical trial,"yes, acts on other seed genes",1,0,PPARA
+CHEMBL1093059,BARDOXOLONE,clinical trial,"yes, other links only",1,0,PPARG
+CHEMBL26,SULPIRIDE,approved,"yes, other links only",1,0,CA12
+CHEMBL293030,BUNOLOL,approved,no (new drug),1,0,ADRB3
+CHEMBL29757,D-ASPARTATE,clinical trial,"yes, other links only",1,0,SLC1A1
+CHEMBL295416,PIRINIXIC ACID,clinical trial,no (new drug),1,0,PPARA
+CHEMBL3137312,DASABUVIR,approved,"yes, other links only",1,1,IFNL3
+CHEMBL321582,BUCINDOLOL,clinical trial,"yes, other links only",1,0,ADRB3
+CHEMBL324665,CARAZOLOL,approved,no (new drug),1,0,ADRB3
+CHEMBL3127326,OMBITASVIR,approved,"yes, other links only",1,1,IFNL3
+CHEMBL3301622,GILTERITINIB,approved,"yes, other links only",1,0,MERTK
+CHEMBL3391662,PARITAPREVIR,approved,"yes, other links only",1,1,IFNL3
+CHEMBL3392776,C-188-9,clinical trial,"yes, other links only",1,0,STAT3
+CHEMBL339427,TUBOCURARINE,approved,"yes, node only",1,0,KCNN2
+CHEMBL3545062,VELPATASVIR,approved,"yes, other links only",1,1,IFNL3
+CHEMBL3545307,MERESTINIB,clinical trial,"yes, other links only",1,0,MERTK
+CHEMBL38943,GW501516,clinical trial,"yes, acts on other seed genes",1,0,PPARG
+CHEMBL3286830,LORLATINIB,approved,"yes, acts on other seed genes",1,0,FES
+CHEMBL398435,TICAGRELOR,approved,"yes, other links only",1,0,CYP2C19
+CHEMBL423,BETAXOLOL,approved,"yes, other links only",1,0,ADRB3
+CHEMBL428647,PACLITAXEL,approved,"yes, acts on other seed genes",1,0,TOP2A
+CHEMBL434200,TERTATOLOL,approved,"yes, other links only",1,0,ADRB3
+CHEMBL4544478,DENFIVONTINIB,clinical trial,"yes, other links only",1,0,MERTK
+CHEMBL456341,LENABASUM,clinical trial,"yes, other links only",1,0,CNR1
+CHEMBL457077,SALVIANOLIC ACID A,clinical trial,"yes, other links only",1,0,CA12
+CHEMBL460702,BMS-777607,clinical trial,"yes, other links only",1,0,MERTK
+CHEMBL4650330,RIMTUZALCAP,clinical trial,"yes, other links only",1,0,KCNN2
+CHEMBL471,SOTALOL,approved,"yes, other links only",1,0,ADRB3
+CHEMBL493682,DENOPAMINE,clinical trial,no (new drug),1,0,ADRB3
+CHEMBL499,TIMOLOL,approved,"yes, acts on other seed genes",1,0,ADRB3
+CHEMBL501849,SIMEPREVIR,approved,"yes, acts on other seed genes",1,1,IFNL3
+CHEMBL503,LOVASTATIN,approved,"yes, acts on other seed genes",1,0,NR1I2
+CHEMBL509336,RACTOPAMINE,clinical trial,"yes, node only",1,0,ADRB3
+CHEMBL3917975,CAMBRITAXESTAT,clinical trial,no (new drug),1,0,ENPP2
+CHEMBL5095165,SELONABANT,clinical trial,no (new drug),1,0,CNR1
+CHEMBL561057,SQ109,clinical trial,"yes, other links only",1,0,FDFT1
+CHEMBL603,ZAFIRLUKAST,approved,"yes, acts on other seed genes",1,0,PPARG
+CHEMBL566,URACIL,approved,"yes, other links only",1,0,TYMS
+CHEMBL642,ACEBUTOLOL,approved,"yes, other links only",1,0,ADRB3
+CHEMBL645,BISOPROLOL,approved,"yes, other links only",1,0,ADRB3
+CHEMBL649,nadolol,approved,"yes, other links only",1,0,ADRB3
+CHEMBL6068160,PACIBEKITUG,clinical trial,no (new drug),1,0,IL6
+CHEMBL74415,CANNABINOL,clinical trial,"yes, other links only",1,0,CNR1
+CHEMBL75753,XAMOTEROL,clinical trial,"yes, other links only",1,0,ADRB3
+CHEMBL77517,INDISULAM,clinical trial,"yes, acts on other seed genes",1,0,CA12
+CHEMBL865,VALDECOXIB,approved,"yes, other links only",1,0,CA12
+CHEMBL926,DOBUTAMINE,approved,"yes, other links only",1,0,ADRB3
+CHEMBL9324,TETRYLAMMONIUM,clinical trial,"yes, node only",1,0,KCNN2
+GtoPdb:2509,NO,approved,no (new drug),1,0,GUCY1A1
+CHEMBL6995,PRACTOLOL,approved,"yes, other links only",1,0,ADRB3
+ncit:C157079,ARFOLITIXORIN,approved,no (new drug),1,0,TYMS
+ncit:C278,ANTI-THYMOCYTE GLOBULIN,approved,no (new drug),1,0,MR1
+rxcui:1734628,ELBASVIR,approved,no (new drug),1,1,IFNL3
+rxcui:1294569,ESOMEPRAZOLE SODIUM,approved,no (new drug),1,0,CYP2C19
+rxcui:1939323,VOXILAPREVIR,approved,no (new drug),1,1,IFNL3
+rxcui:203179,DOXEPIN HYDROCHLORIDE,approved,no (new drug),1,0,CYP2C19
+rxcui:2103477,ADALIMUMAB-ADBM,approved,no (new drug),1,0,TNF
+rxcui:1790539,INFLIXIMAB-DYYB,approved,no (new drug),1,0,TNF
+rxcui:2103480,ETANERCEPT-SZZS,approved,no (new drug),1,0,TNF
+rxcui:214468,DAUNORUBICIN LIPOSOMAL,approved,no (new drug),1,0,TOP2A
+rxcui:225852,LEUCOVORIN CALCIUM,approved,no (new drug),1,0,TYMS
+rxcui:221100,FENOFIBRATE MICRONIZED,approved,no (new drug),1,0,PPARA
+rxcui:22759,DIACETYLRHEIN,approved,no (new drug),1,0,IL1B
+rxcui:236216,FORMOTEROL FUMARATE,approved,no (new drug),1,0,CYP2C19
+rxcui:253191,PANTOPRAZOLE SODIUM,approved,no (new drug),1,0,CYP2C19
+rxcui:71227,PHENYTOIN SODIUM,approved,no (new drug),1,0,CYP2C19

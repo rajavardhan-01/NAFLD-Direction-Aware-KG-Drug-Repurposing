@@ -1,0 +1,7 @@
+step,drugs,removed_at_step
+Drugs with >= 1 link to a seed gene (any action),1242,0
+... with >= 1 pharmacological-target link (coverage table),814,428
+... max phase >= 2,580,234
+... and not withdrawn,562,18
+... and no existing fibrosis-type liver use = repurposing candidates,516,46
+... and mechanism annotated = main list,321,195

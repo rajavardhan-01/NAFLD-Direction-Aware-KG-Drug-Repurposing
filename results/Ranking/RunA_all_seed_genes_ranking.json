@@ -1,0 +1,11 @@
+{
+  "run": "RunA_all_seed_genes",
+  "drugs_with_B_routes": 44,
+  "drugs_with_BB_routes": 44,
+  "removed_liver_contraindicated": 6,
+  "final_ranked_drugs": 38,
+  "final_rank_le_25": 27,
+  "final_drugs_treating_a_liver_disease": 1,
+  "strict_liver_treating_drugs": 1,
+  "strict_treat_liver_but_removed_ci": 1
+}

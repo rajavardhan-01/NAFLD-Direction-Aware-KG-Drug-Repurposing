@@ -1,0 +1,3 @@
+Gene_ID,Gene,main_stage,gene_direction,n_medicines,approved,examples
+ENSG00000197110,IFNL3,0_genetic_risk,not_applicable,14,14,BOCEPREVIR; DASABUVIR; ELBASVIR; GRAZOPREVIR; LEDIPASVIR; OMBITASVIR
+ENSG00000173391,OLR1,0_genetic_risk,not_applicable,1,0,ORTICUMAB

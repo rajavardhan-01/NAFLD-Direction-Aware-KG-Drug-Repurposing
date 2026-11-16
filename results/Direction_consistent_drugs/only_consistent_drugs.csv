@@ -1,0 +1,116 @@
+Drug_ID,n_consistent,n_inconsistent,n_not_decided,consistent_targets,inconsistent_targets,has_known_direction,direction_group,Drug,max_phase,is_approved,added_drug_node,liver_contraindicated,has_liver_indication,liver_indications,n_seed_genes,n_histology_genes
+CHEMBL2095222,6,0,0,COL1A2;COL3A1;COL5A1;COL6A2;LAMA2;LAMA3,,True,only consistent,OCRIPLASMIN,4.0,True,False,False,False,,6,6
+CHEMBL2108709,4,0,0,COL1A2;COL3A1;COL5A1;COL6A2,,True,only consistent,COLLAGENASE CLOSTRIDIUM HISTOLYTICUM,4.0,True,False,False,False,,4,4
+CHEMBL1614,2,0,0,ATP1A1;FXYD2,,True,only consistent,DESLANOSIDE,4.0,True,False,False,False,,2,2
+CHEMBL2093999,2,0,0,ATP1A1;FXYD2,,True,only consistent,ISTAROXIME,2.0,False,False,False,False,,2,2
+CHEMBL254219,2,0,0,ATP1A1;FXYD2,,True,only consistent,DIGITOXIN,4.0,True,False,False,False,,2,2
+CHEMBL3545057,2,0,0,ATP1A1;FXYD2,,True,only consistent,ACETYLDIGITOXIN,4.0,True,False,False,False,,2,2
+CHEMBL506569,2,0,0,ATP1A1;FXYD2,,True,only consistent,LANATOSIDE C,4.0,True,False,False,False,,2,2
+CHEMBL406050,1,0,1,TXN,,True,only consistent,PX-12,2.0,False,False,False,False,,2,2
+CHEMBL428647,1,0,2,NR1I2,,True,only consistent,PACLITAXEL,4.0,True,False,False,True,biliary tract cancer; cholangiocarcinoma; hepatocellular carcinoma; intrahepatic cholangiocarcinoma; liver cancer,2,2
+CHEMBL981,1,0,2,PPARA,,True,only consistent,FENOFIBRIC ACID,4.0,True,False,True,False,,3,2
+CHEMBL104,1,0,2,NR1I2,,True,only consistent,CLOTRIMAZOLE,4.0,True,False,False,False,,1,1
+CHEMBL1055,1,0,0,CA12,,True,only consistent,CHLORTHALIDONE,4.0,True,False,True,False,,1,1
+CHEMBL1096885,1,0,0,TOP2A,,True,only consistent,VALRUBICIN,4.0,True,False,False,False,,1,1
+CHEMBL1117,1,0,0,TOP2A,,True,only consistent,IDARUBICIN,4.0,True,False,False,True,hepatocellular carcinoma; liver cancer,1,1
+CHEMBL112570,1,0,0,RORA,,True,only consistent,CHOLESTEROL,4.0,True,False,False,False,,1,1
+CHEMBL1130,1,0,0,TYMS,,True,only consistent,DOXIFLURIDINE,3.0,False,False,False,False,,1,1
+CHEMBL118,1,0,2,CA12,,True,only consistent,CELECOXIB,4.0,True,False,False,True,chronic hepatitis B virus infection; hepatocellular carcinoma; liver cancer,1,1
+CHEMBL1186894,1,0,0,TOP2A,,True,only consistent,AMRUBICIN,3.0,False,False,False,False,,1,1
+CHEMBL1200475,1,0,0,TOP2A,,True,only consistent,DAUNORUBICIN CITRATE,4.0,True,False,False,False,,1,1
+CHEMBL1200645,1,0,0,TOP2A,,True,only consistent,ETOPOSIDE PHOSPHATE,4.0,True,False,False,False,,1,1
+CHEMBL1200778,1,0,0,TOP2A,,True,only consistent,DEXRAZOXANE HYDROCHLORIDE,4.0,True,False,False,False,,1,1
+CHEMBL1200814,1,0,0,CA12,,True,only consistent,ACETAZOLAMIDE SODIUM,4.0,True,False,False,False,,1,1
+CHEMBL1200976,1,0,0,TOP2A,,True,only consistent,IDARUBICIN HYDROCHLORIDE,4.0,True,False,False,True,hepatocellular carcinoma,1,1
+CHEMBL1201258,1,0,0,TYMS,,True,only consistent,pemetrexed,4.0,True,True,False,False,,1,1
+CHEMBL1201745,1,0,0,PPARA,,True,only consistent,CHOLINE FENOFIBRATE,4.0,True,False,False,False,,1,1
+CHEMBL1232583,1,0,1,PPARA,,True,only consistent,INDEGLITAZAR,2.0,False,False,False,False,,2,1
+CHEMBL1276308,1,0,1,NR1I2,,True,only consistent,MIFEPRISTONE,4.0,True,False,True,True,hepatitis C virus infection,1,1
+CHEMBL1335656,1,0,0,CA12,,True,only consistent,methazolamide,4.0,True,True,False,False,,1,1
+CHEMBL1417019,1,0,0,TOP2A,,True,only consistent,MITOXANTRONE HYDROCHLORIDE,4.0,True,False,False,True,hepatocellular carcinoma,1,1
+CHEMBL1511,1,0,2,NR1I2,,True,only consistent,ESTRADIOL VALERATE,4.0,True,False,True,False,,1,1
+CHEMBL1563,1,0,0,TOP2A,,True,only consistent,DAUNORUBICIN HYDROCHLORIDE,4.0,True,False,False,False,,1,1
+CHEMBL1697725,1,0,0,TXNRD1,,True,only consistent,AUROTHIOGLUCOSE,4.0,True,True,False,False,,1,1
+CHEMBL169896,1,0,0,TYMS,,True,only consistent,OSI-7904,2.0,False,False,False,False,,1,1
+CHEMBL17,1,0,0,CA12,,True,only consistent,DICHLORPHENAMIDE,4.0,True,False,True,False,,1,1
+CHEMBL1738,1,0,0,TOP2A,,True,only consistent,DEXRAZOXANE,4.0,True,False,False,True,Hepatoblastoma,1,1
+CHEMBL1743032,1,0,0,ITGB5,,True,only consistent,INTETUMUMAB,2.0,False,False,False,False,,1,1
+CHEMBL1773,1,0,0,TYMS,,True,only consistent,CAPECITABINE,4.0,True,False,False,True,bile duct carcinoma; biliary tract cancer; biliary tract neoplasm; cholangiocarcinoma; hepatocellular carcinoma; intrahepatic cholangiocarcinoma; liver cancer,1,1
+CHEMBL178,1,0,1,TOP2A,,True,only consistent,DAUNORUBICIN,4.0,True,False,False,True,chronic hepatitis B virus infection,1,1
+CHEMBL18,1,0,0,CA12,,True,only consistent,ETHOXZOLAMIDE,4.0,True,False,False,False,,1,1
+CHEMBL181954,1,0,1,PPARA,,True,only consistent,NAVEGLITAZAR,2.0,False,False,False,False,,2,1
+CHEMBL185,1,0,2,TYMS,,True,only consistent,FLUOROURACIL,4.0,True,False,False,True,Hepatoblastoma; bile duct cancer; biliary tract cancer; biliary tract neoplasm; cholangiocarcinoma; hepatocellular carcinoma; hilar cholangiocarcinoma; intrahepatic cholangiocarcinoma; liver cancer,1,1
+CHEMBL186179,1,0,1,PPARA,,True,only consistent,MURAGLITAZAR,3.0,False,False,False,False,,2,1
+CHEMBL191083,1,0,0,GUCY1A1,,True,only consistent,METHYLENE BLUE CATION,4.0,True,False,False,False,,1,1
+CHEMBL193,1,0,2,NR1I2,,True,only consistent,NIFEDIPINE,4.0,True,False,True,False,,1,1
+CHEMBL20,1,0,0,CA12,,True,only consistent,ACETAZOLAMIDE,4.0,True,False,True,True,hepatocellular carcinoma,1,1
+CHEMBL20883,1,0,1,TYMS,,True,only consistent,TEGAFUR,4.0,True,False,False,True,biliary tract cancer; biliary tract neoplasm; cholangiocarcinoma; hepatocellular carcinoma; liver disease,1,1
+CHEMBL2103796,1,0,0,TOP2A,,True,only consistent,BERUBICIN HYDROCHLORIDE,2.0,False,False,False,False,,1,1
+CHEMBL2104984,1,0,1,PPARA,,True,only consistent,SODELGLITAZAR,2.0,False,False,False,False,,2,1
+CHEMBL2107313,1,0,0,TOP2A,,True,only consistent,BECATECARIN,3.0,False,False,False,True,biliary tract cancer,1,1
+CHEMBL2107549,1,0,0,FABP4,,True,only consistent,BINDARIT,2.0,False,False,False,False,,1,1
+CHEMBL2107818,1,0,0,TOP2A,,True,only consistent,ALDOXORUBICIN,3.0,False,False,False,True,hepatocellular carcinoma,1,1
+CHEMBL2108018,1,0,0,EPCAM,,True,only consistent,ADECATUMUMAB,2.0,False,False,False,False,,1,1
+CHEMBL2108581,1,0,0,EPCAM,,True,only consistent,CATUMAXOMAB,4.0,True,False,False,False,,1,1
+CHEMBL2108784,1,0,0,BSG,,True,only consistent,ZIRALIMUMAB,2.0,False,False,False,False,,1,1
+CHEMBL2109224,1,0,0,ITGAM,,True,only consistent,ROVELIZUMAB,2.0,False,False,False,False,,1,1
+CHEMBL2109530,1,0,0,SPP1,,True,only consistent,ASK-8007,2.0,False,False,False,False,,1,1
+CHEMBL2109621,1,0,0,ITGB5,,True,only consistent,ABITUZUMAB,2.0,False,False,False,False,,1,1
+CHEMBL2110580,1,0,0,TOP2A,,True,only consistent,BERUBICIN,2.0,False,False,False,False,,1,1
+CHEMBL218490,1,0,1,CA12,,True,only consistent,DORZOLAMIDE,4.0,True,False,False,False,,1,1
+CHEMBL219586,1,0,0,PPARA,,True,only consistent,GW590735,2.0,False,False,False,False,,1,1
+CHEMBL220491,1,0,0,CA12,,True,only consistent,BRINZOLAMIDE,4.0,True,False,False,False,,1,1
+CHEMBL220492,1,0,2,CA12,,True,only consistent,TOPIRAMATE,4.0,True,False,False,True,liver disease,1,1
+CHEMBL225071,1,0,0,TYMS,,True,only consistent,RALTITREXED,4.0,True,False,False,True,Bile Duct Adenoma; hepatocellular carcinoma; liver cancer,1,1
+CHEMBL225072,1,0,0,TYMS,,True,only consistent,PEMETREXED,4.0,True,False,False,True,biliary tract cancer; liver cancer,1,1
+CHEMBL2354773,1,0,0,TXNRD1,,True,only consistent,AUROTHIOGLUCOSE,4.0,True,False,False,False,,1,1
+CHEMBL2360464,1,0,0,TYMS,,True,only consistent,PEMETREXED DISODIUM,4.0,True,False,False,False,,1,1
+CHEMBL240163,1,0,0,TOP2A,,True,only consistent,PAZUFLOXACIN,3.0,False,False,False,False,,1,1
+CHEMBL24038,1,0,1,PPARA,,True,only consistent,RAGAGLITAZAR,2.0,False,False,False,False,,2,1
+CHEMBL247951,1,0,0,PPARA,,True,only consistent,PEMAFIBRATE,4.0,True,False,False,False,,1,1
+CHEMBL26,1,0,0,CA12,,True,only consistent,SULPIRIDE,4.0,True,False,False,False,,1,1
+CHEMBL282686,1,0,1,PPARA,,True,only consistent,TESAGLITAZAR,3.0,False,False,False,False,,2,1
+CHEMBL293526,1,0,1,PPARA,,True,only consistent,REGLITAZAR,2.0,False,False,False,False,,2,1
+CHEMBL295416,1,0,0,PPARA,,True,only consistent,PIRINIXIC ACID,2.0,False,True,False,False,,1,1
+CHEMBL320775,1,0,0,TYMS,,True,only consistent,NOLATREXED,3.0,False,False,False,True,liver cancer,1,1
+CHEMBL328560,1,0,0,CA12,,True,only consistent,SULTHIAME,4.0,True,False,False,False,,1,1
+CHEMBL338604,1,0,0,TOP2A,,True,only consistent,C-1311,2.0,False,False,False,False,,1,1
+CHEMBL3544910,1,0,0,TXNRD1,,True,only consistent,MOTEXAFIN GADOLINIUM,3.0,False,False,False,False,,1,1
+CHEMBL3545093,1,0,0,PPARA,,True,only consistent,ZYH7,2.0,False,False,False,False,,1,1
+CHEMBL3545313,1,0,0,ACLY,,True,only consistent,BEMPEDOIC ACID,4.0,True,False,False,False,,1,1
+CHEMBL3545334,1,0,0,PPARA,,True,only consistent,AVE8134,2.0,False,False,False,False,,1,1
+CHEMBL3545337,1,0,0,TOP2A,,True,only consistent,C-1311,2.0,False,False,False,False,,1,1
+CHEMBL3545394,1,0,0,PPARA,,True,only consistent,DRF-10945,2.0,False,False,False,False,,1,1
+CHEMBL359744,1,0,0,TOP2A,,True,only consistent,DOXORUBICIN HYDROCHLORIDE,4.0,True,False,False,True,Hepatoblastoma; hepatocellular carcinoma; liver cancer,1,1
+CHEMBL3828074,1,0,0,ENPP2,,True,only consistent,ZIRITAXESTAT,3.0,False,False,False,False,,1,1
+CHEMBL3833344,1,0,0,TOP2A,,True,only consistent,GANCOTAMAB,2.0,False,False,False,False,,1,1
+CHEMBL3917975,1,0,0,ENPP2,,True,only consistent,CAMBRITAXESTAT,2.0,False,True,False,False,,1,1
+CHEMBL3989932,1,0,0,AGTR1,,True,only consistent,ANGIOTENSIN II ACETATE,4.0,True,False,False,False,,1,1
+CHEMBL40,1,0,3,NR1I2,,True,only consistent,PHENOBARBITAL,4.0,True,False,True,False,,1,1
+CHEMBL408403,1,0,0,AGTR1,,True,only consistent,ANGIOTENSIN II,4.0,True,False,False,True,hepatorenal syndrome,1,1
+CHEMBL424133,1,0,0,PPARA,,True,only consistent,LY-518674,2.0,False,False,False,False,,1,1
+CHEMBL4297404,1,0,1,PPARA,,True,only consistent,MK-0767,3.0,False,False,False,False,,2,1
+CHEMBL4297701,1,0,0,MARCKS,,True,only consistent,BIO-11006,2.0,False,False,False,False,,1,1
+CHEMBL4298089,1,0,0,GPC3,,True,only consistent,CODRITUZUMAB,2.0,False,False,False,True,hepatocellular carcinoma,1,1
+CHEMBL429876,1,0,0,ITGB5,,True,only consistent,CILENGITIDE,3.0,False,False,False,False,,1,1
+CHEMBL43,1,0,0,TOP2A,,True,only consistent,AMSACRINE,4.0,True,False,False,False,,1,1
+CHEMBL44657,1,0,1,TOP2A,,True,only consistent,ETOPOSIDE,4.0,True,False,True,True,Hepatoblastoma; hepatocellular carcinoma,1,1
+CHEMBL452231,1,0,1,TOP2A,,True,only consistent,TENIPOSIDE,4.0,True,False,False,False,,1,1
+CHEMBL457,1,0,1,PPARA,,True,only consistent,GEMFIBROZIL,4.0,True,False,True,False,,1,1
+CHEMBL4594485,1,0,0,CXCL12,,True,only consistent,OLAPTESED PEGOL,2.0,False,False,False,False,,1,1
+CHEMBL4650330,1,0,0,KCNN2,,True,only consistent,RIMTUZALCAP,2.0,False,False,False,False,,1,1
+CHEMBL481958,1,0,0,TOP2A,,True,only consistent,AMRUBICIN HYDROCHLORIDE,3.0,False,False,False,False,,1,1
+CHEMBL503,1,0,2,NR1I2,,True,only consistent,LOVASTATIN,4.0,True,False,False,False,,1,1
+CHEMBL519504,1,0,1,PPARA,,True,only consistent,ALEGLITAZAR,3.0,False,False,False,False,,2,1
+CHEMBL5314385,1,0,0,PPARA,,True,only consistent,CP-778875,2.0,False,False,False,False,,1,1
+CHEMBL5315053,1,0,0,TYMS,,True,only consistent,PEMETREXED MONOHYDRATE,4.0,True,False,False,False,,1,1
+CHEMBL53463,1,0,1,TOP2A,,True,only consistent,DOXORUBICIN,4.0,True,False,True,True,Hepatoblastoma; carcinoma of liver and intrahepatic biliary tract; cholangiocarcinoma; hepatocellular carcinoma; liver cancer,1,1
+CHEMBL5483015,1,0,0,TXNRD1,,True,only consistent,ARSENIC TRIOXIDE,4.0,True,False,False,True,hepatocellular carcinoma; liver cancer,1,1
+CHEMBL557555,1,0,0,PPARA,,True,only consistent,CIPROFIBRATE,4.0,True,False,False,False,,1,1
+CHEMBL565,1,0,1,PPARA,,True,only consistent,CLOFIBRATE,4.0,True,False,False,False,,1,1
+CHEMBL58,1,0,1,TOP2A,,True,only consistent,MITOXANTRONE,4.0,True,False,True,True,hepatocellular carcinoma,1,1
+CHEMBL592054,1,0,1,PPARA,,True,only consistent,IMIGLITAZAR,3.0,False,False,False,False,,2,1
+CHEMBL68117,1,0,0,TOP2A,,True,only consistent,VOSAROXIN,3.0,False,False,False,False,,1,1
+CHEMBL750,1,0,1,CA12,,True,only consistent,ZONISAMIDE,4.0,True,False,False,False,,1,1
+CHEMBL77517,1,0,1,CA12,,True,only consistent,INDISULAM,2.0,False,False,False,False,,1,1
+CHEMBL917,1,0,0,TYMS,,True,only consistent,FLOXURIDINE,4.0,True,False,False,True,cholangiocarcinoma; hepatocellular carcinoma; intrahepatic cholangiocarcinoma; liver cancer,1,1

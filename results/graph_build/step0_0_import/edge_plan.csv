@@ -1,0 +1,11 @@
+file,relation,file_rows,selected_rows,missing_endpoint_dropped,type,pattern,planned
+edges/drug_gene.parquet,all,36611,36611,0,ACTS_ON,(Drug)-[:ACTS_ON]->(Gene),36611
+edges/gene_gene.parquet,all,327924,327924,0,INTERACTS_WITH,(Gene)-[:INTERACTS_WITH]->(Gene),327924
+edges/pathway_gene.parquet,all,46977,46977,0,IN_PATHWAY,(Gene)-[:IN_PATHWAY]->(Pathway),46977
+edges/drug_disease.parquet,INDICATION,70380,58174,0,TREATS,(Drug)-[:TREATS]->(Disease),58174
+edges/drug_disease.parquet,OFF_LABEL_USE,70380,827,0,OFF_LABEL_FOR,(Drug)-[:OFF_LABEL_FOR]->(Disease),827
+edges/drug_disease.parquet,CONTRAINDICATION,70380,11379,0,CONTRAINDICATED_IN,(Drug)-[:CONTRAINDICATED_IN]->(Disease),11379
+edges/disease_gene.parquet,all,9734774,9734774,0,ASSOCIATED_WITH,(Gene)-[:ASSOCIATED_WITH]->(Disease),9734774
+edges/disease_disease.parquet,all,47892,47892,142,PARENT_OF,(Disease)-[:PARENT_OF]->(Disease),47750
+edges/disease_phenotype.parquet,all,157144,157144,0,HAS_PHENOTYPE,(Disease)-[:HAS_PHENOTYPE]->(Phenotype),157144
+edges/biological_process_gene.parquet,all,158410,158410,0,PARTICIPATES_IN,(Gene)-[:PARTICIPATES_IN]->(BiologicalProcess),158410

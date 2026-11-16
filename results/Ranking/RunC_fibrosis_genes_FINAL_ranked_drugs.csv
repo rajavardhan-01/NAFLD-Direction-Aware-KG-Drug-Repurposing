@@ -1,0 +1,26 @@
+Rank,Drug,Drug_ID,BB routes to NAFLD,B routes,Treats a liver disease,Liver diseases it treats,Current indications (TREATS)
+1,OCRIPLASMIN,CHEMBL2095222,470,26,False,,deep vein thrombosis; eye disease; macular degeneration; macular holes; retinal vein occlusion; stroke; uveitis
+2,COLLAGENASE CLOSTRIDIUM HISTOLYTICUM,CHEMBL2108709,459,26,False,,Dupuytren Contracture; Palmar Fibromatosis; Penile Fibromatosis; Tendinopathy; contracture; decubitus ulcer; diabetic foot; frozen shoulder; lipoma; ulcer disease
+3,ALEGLITAZAR,CHEMBL519504,38,1,False,,type 2 diabetes mellitus
+3,AVE8134,CHEMBL3545334,38,1,False,,
+3,CHOLINE FENOFIBRATE,CHEMBL1201745,38,1,False,,Combined hyperlipidemia; Disorder of lipid metabolism; cardiovascular disease; coronary artery disease
+3,CIPROFIBRATE,CHEMBL557555,38,1,False,,cardiovascular disease
+3,CLOFIBRATE,CHEMBL565,38,1,False,,Myocardial Ischemia; cardiovascular disease; hyperlipidemia; myocardial infarction
+3,CP-778875,CHEMBL5314385,38,1,False,,Disorder of lipid metabolism
+3,DRF-10945,CHEMBL3545394,38,1,False,,
+3,GW590735,CHEMBL219586,38,1,False,,Disorder of lipid metabolism
+3,IMIGLITAZAR,CHEMBL592054,38,1,False,,diabetes mellitus
+3,INDEGLITAZAR,CHEMBL1232583,38,1,False,,diabetes mellitus
+3,LY-518674,CHEMBL424133,38,1,False,,hypertension; metabolic syndrome
+3,MK-0767,CHEMBL4297404,38,1,False,,diabetes mellitus; metabolic syndrome; type 2 diabetes mellitus
+3,MURAGLITAZAR,CHEMBL186179,38,1,False,,Disorder of lipid metabolism; diabetes mellitus; type 2 diabetes mellitus
+3,NAVEGLITAZAR,CHEMBL181954,38,1,False,,type 2 diabetes mellitus
+3,PEMAFIBRATE,CHEMBL247951,38,1,False,,
+3,PIRINIXIC ACID,CHEMBL295416,38,1,False,,
+3,RAGAGLITAZAR,CHEMBL24038,38,1,False,,
+3,REGLITAZAR,CHEMBL293526,38,1,False,,
+3,SODELGLITAZAR,CHEMBL2104984,38,1,False,,metabolic syndrome; type 2 diabetes mellitus
+3,TESAGLITAZAR,CHEMBL282686,38,1,False,,type 2 diabetes mellitus
+3,ZYH7,CHEMBL3545093,38,1,False,,Disorder of lipid metabolism; Hypertriglyceridemia
+24,ASK-8007,CHEMBL2109530,32,4,False,,rheumatoid arthritis
+25,OLAPTESED PEGOL,CHEMBL4594485,18,4,False,,glioblastoma multiforme; pancreatic carcinoma

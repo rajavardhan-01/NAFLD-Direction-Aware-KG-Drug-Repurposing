@@ -1,0 +1,56 @@
+{
+  "step": "0.5 external directions",
+  "added": "2026-11-13T19:46:46+00:00",
+  "written": 62,
+  "release": "ChEMBL ChEMBL_37 mechanisms (REST API); # GtoPdb Version: 2026.3.1 - published: 2026-10-12; DGIdb 5 GraphQL API; queried 2026-11-13",
+  "before": {
+    "nodes_total": 164630,
+    "relationships_total": 10580080,
+    "nodes": {
+      "BiologicalProcess": 25754,
+      "Disease": 36753,
+      "Drug": 18671,
+      "Gene": 61306,
+      "Pathway": 2805,
+      "Phenotype": 19341
+    },
+    "relationships": {
+      "ACTS_ON": 36721,
+      "ASSOCIATED_WITH": 9734774,
+      "CONTRAINDICATED_IN": 11379,
+      "HAS_PHENOTYPE": 157144,
+      "INTERACTS_WITH": 327924,
+      "IN_PATHWAY": 46977,
+      "OFF_LABEL_FOR": 827,
+      "PARENT_OF": 47750,
+      "PARTICIPATES_IN": 158410,
+      "TREATS": 58174
+    }
+  },
+  "after": {
+    "nodes_total": 164630,
+    "relationships_total": 10580080,
+    "nodes": {
+      "BiologicalProcess": 25754,
+      "Disease": 36753,
+      "Drug": 18671,
+      "Gene": 61306,
+      "Pathway": 2805,
+      "Phenotype": 19341
+    },
+    "relationships": {
+      "ACTS_ON": 36721,
+      "ASSOCIATED_WITH": 9734774,
+      "CONTRAINDICATED_IN": 11379,
+      "HAS_PHENOTYPE": 157144,
+      "INTERACTS_WITH": 327924,
+      "IN_PATHWAY": 46977,
+      "OFF_LABEL_FOR": 827,
+      "PARENT_OF": 47750,
+      "PARTICIPATES_IN": 158410,
+      "TREATS": 58174
+    }
+  },
+  "backup": "backup_ACTS_ON_properties_before_write.csv",
+  "undo": "undo_external_properties.cypher"
+}

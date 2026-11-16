@@ -1,0 +1,15 @@
+{
+  "chembl_release": "ChEMBL_37",
+  "chembl_release_date": "2026-05-01",
+  "retrieved": "2026-11-13",
+  "added_drugs": 31,
+  "chembl_match": {
+    "graph ID": 13,
+    "preferred name": 9,
+    "synonym": 6,
+    "not found": 3
+  },
+  "added_drugs_with_chembl_id": 28,
+  "added_drugs_with_indication": 19,
+  "indication_rows": 354
+}

@@ -1,0 +1,5 @@
+run,drugs_with_B_routes,drugs_with_BB_routes,removed_liver_contraindicated,final_ranked_drugs,final_rank_le_25,final_drugs_treating_a_liver_disease,strict_liver_treating_drugs,strict_treat_liver_but_removed_ci
+RunA_all_seed_genes,44,44,6,38,27,1,1,1
+RunB_histology_genes,37,37,2,35,29,0,0,0
+RunC_fibrosis_genes,27,27,2,25,25,0,0,0
+RunD_seed_plus_GWAS,73,73,9,64,48,10,10,4

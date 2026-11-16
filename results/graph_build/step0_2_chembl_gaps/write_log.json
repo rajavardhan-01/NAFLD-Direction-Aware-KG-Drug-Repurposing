@@ -1,0 +1,35 @@
+{
+  "step": "0.2 ChEMBL drug-metadata gaps",
+  "verified": "2026-11-13T19:08:24+00:00",
+  "drugs_written": 2696,
+  "filled_by_field": {
+    "smiles": 2638,
+    "molecule_type": 2500,
+    "max_phase": 688,
+    "recovered_name": 938
+  },
+  "summary": {
+    "chembl_release": "ChEMBL_37 (2026-05-01)",
+    "drug_nodes": 18640,
+    "drugs_with_gap": 10609,
+    "chembl_accessions_asked": 7789,
+    "chembl_records_returned": 7665,
+    "gap_by_field_before": {
+      "smiles": 8378,
+      "molecule_type": 5457,
+      "max_phase": 7633,
+      "unnamed": 4122
+    },
+    "filled_by_chembl": {
+      "smiles": 2638,
+      "molecule_type": 2500,
+      "max_phase": 688,
+      "recovered_name": 938
+    },
+    "drugs_written": 2696
+  },
+  "drug_nodes_before_and_after": 18640,
+  "matches_plan": true,
+  "note": "written while step 0.0 relationships were still loading; verified by property counts",
+  "undo": "undo_chembl_gaps.cypher"
+}

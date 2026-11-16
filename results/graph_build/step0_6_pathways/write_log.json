@@ -1,0 +1,56 @@
+{
+  "step": "0.6 KEGG legacy + Hallmark pathways",
+  "added": "2026-11-13T19:51:36+00:00",
+  "pathways": 236,
+  "memberships": 20067,
+  "before": {
+    "nodes_total": 164630,
+    "relationships_total": 10580080,
+    "nodes": {
+      "BiologicalProcess": 25754,
+      "Disease": 36753,
+      "Drug": 18671,
+      "Gene": 61306,
+      "Pathway": 2805,
+      "Phenotype": 19341
+    },
+    "relationships": {
+      "ACTS_ON": 36721,
+      "ASSOCIATED_WITH": 9734774,
+      "CONTRAINDICATED_IN": 11379,
+      "HAS_PHENOTYPE": 157144,
+      "INTERACTS_WITH": 327924,
+      "IN_PATHWAY": 46977,
+      "OFF_LABEL_FOR": 827,
+      "PARENT_OF": 47750,
+      "PARTICIPATES_IN": 158410,
+      "TREATS": 58174
+    }
+  },
+  "after": {
+    "nodes_total": 164866,
+    "relationships_total": 10600147,
+    "nodes": {
+      "BiologicalProcess": 25754,
+      "Disease": 36753,
+      "Drug": 18671,
+      "Gene": 61306,
+      "Pathway": 3041,
+      "Phenotype": 19341
+    },
+    "relationships": {
+      "ACTS_ON": 36721,
+      "ASSOCIATED_WITH": 9734774,
+      "CONTRAINDICATED_IN": 11379,
+      "HAS_PHENOTYPE": 157144,
+      "INTERACTS_WITH": 327924,
+      "IN_PATHWAY": 67044,
+      "OFF_LABEL_FOR": 827,
+      "PARENT_OF": 47750,
+      "PARTICIPATES_IN": 158410,
+      "TREATS": 58174
+    }
+  },
+  "count_check_passed": true,
+  "undo": "undo_pathways.cypher"
+}

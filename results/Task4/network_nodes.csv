@@ -1,0 +1,49 @@
+id,label,node_type,stage,direction,top_enrichment_pathway,is_approved,n_seed_genes
+CHEMBL2095222,OCRIPLASMIN,drug,drug,,,1.0,6.0
+CHEMBL2108709,COLLAGENASE CLOSTRIDIUM HISTOLYTICUM,drug,drug,,,1.0,4.0
+CHEMBL406050,PX-12,drug,drug,,,0.0,2.0
+CHEMBL981,FENOFIBRIC ACID,drug,drug,,,1.0,3.0
+CHEMBL1200689,NITRIC OXIDE,drug,drug,,,1.0,2.0
+CHEMBL1614,DESLANOSIDE,drug,drug,,,1.0,2.0
+CHEMBL254219,DIGITOXIN,drug,drug,,,1.0,2.0
+CHEMBL3545057,ACETYLDIGITOXIN,drug,drug,,,1.0,2.0
+CHEMBL506569,LANATOSIDE C,drug,drug,,,1.0,2.0
+CHEMBL2093999,ISTAROXIME,drug,drug,,,0.0,2.0
+CHEMBL428647,PACLITAXEL,drug,drug,,,1.0,2.0
+CHEMBL1017,TELMISARTAN,drug,drug,,,1.0,2.0
+CHEMBL181954,NAVEGLITAZAR,drug,drug,,,0.0,2.0
+CHEMBL186179,MURAGLITAZAR,drug,drug,,,0.0,2.0
+CHEMBL24038,RAGAGLITAZAR,drug,drug,,,0.0,2.0
+CHEMBL282686,TESAGLITAZAR,drug,drug,,,0.0,2.0
+CHEMBL293526,REGLITAZAR,drug,drug,,,0.0,2.0
+CHEMBL4297404,MK-0767,drug,drug,,,0.0,2.0
+CHEMBL592054,IMIGLITAZAR,drug,drug,,,0.0,2.0
+CHEMBL1014,CANDESARTAN CILEXETIL,drug,drug,,,1.0,1.0
+CHEMBL1016,CANDESARTAN,drug,drug,,,0.0,1.0
+CHEMBL1069,VALSARTAN,drug,drug,,,1.0,1.0
+CHEMBL1096885,VALRUBICIN,drug,drug,,,1.0,1.0
+CHEMBL1117,IDARUBICIN,drug,drug,,,1.0,1.0
+CHEMBL1130,DOXIFLURIDINE,drug,drug,,,0.0,1.0
+CHEMBL1186894,AMRUBICIN,drug,drug,,,0.0,1.0
+CHEMBL1200475,DAUNORUBICIN CITRATE,drug,drug,,,1.0,1.0
+CHEMBL1200645,ETOPOSIDE PHOSPHATE,drug,drug,,,1.0,1.0
+CHEMBL1200670,SARALASIN ACETATE,drug,drug,,,1.0,1.0
+CHEMBL1200692,OLMESARTAN MEDOXOMIL,drug,drug,,,1.0,1.0
+ENSG00000144891,AGTR1,gene,4_HCC,decreasing,,,
+ENSG00000163399,ATP1A1,gene,2_NASH,increasing,,,
+ENSG00000164692,COL1A2,gene,3_fibrosis,increasing,Hallmark: Epithelial mesenchymal transition,,
+ENSG00000168542,COL3A1,gene,3_fibrosis,increasing,Hallmark: Epithelial mesenchymal transition,,
+ENSG00000130635,COL5A1,gene,3_fibrosis,increasing,Hallmark: Epithelial mesenchymal transition,,
+ENSG00000142173,COL6A2,gene,3_fibrosis,increasing,Hallmark: Epithelial mesenchymal transition,,
+ENSG00000137731,FXYD2,gene,3_fibrosis,increasing,,,
+ENSG00000164116,GUCY1A1,gene,3_fibrosis,increasing,,,
+ENSG00000196569,LAMA2,gene,3_fibrosis,increasing,Hallmark: Epithelial mesenchymal transition,,
+ENSG00000053747,LAMA3,gene,1_steatosis,increasing,Hallmark: Epithelial mesenchymal transition,,
+ENSG00000205362,MT1A,gene,2_NASH,decreasing,,,
+ENSG00000144852,NR1I2,gene,4_HCC,decreasing,,,
+ENSG00000186951,PPARA,gene,4_HCC,decreasing,,,
+ENSG00000132170,PPARG,gene,0_genetic_risk,not_applicable,,,
+ENSG00000131747,TOP2A,gene,3_fibrosis,increasing,Hallmark: E2F targets,,
+ENSG00000136810,TXN,gene,2_NASH,increasing,Reactome: NFE2L2 regulating anti-oxidant/detoxification enzymes,,
+ENSG00000198431,TXNRD1,gene,2_NASH,increasing,Hallmark: MTORC1 signaling,,
+ENSG00000176890,TYMS,gene,3_fibrosis,increasing,,,

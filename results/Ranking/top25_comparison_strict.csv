@@ -1,0 +1,11 @@
+Drug_ID,Drug,RunA,RunB,RunC,RunD,in_all_runs,in_n_runs,liver_diseases_it_treats
+CHEMBL428647,PACLITAXEL,1.0,,,9,False,2,biliary tract cancer; cholangiocarcinoma; hepatocellular carcinoma; intrahepatic cholangiocarcinoma; liver cancer
+CHEMBL1117,IDARUBICIN,,,,1,False,1,hepatocellular carcinoma; liver cancer
+CHEMBL1200976,IDARUBICIN HYDROCHLORIDE,,,,1,False,1,hepatocellular carcinoma
+CHEMBL1417019,MITOXANTRONE HYDROCHLORIDE,,,,1,False,1,hepatocellular carcinoma
+CHEMBL1738,DEXRAZOXANE,,,,1,False,1,Hepatoblastoma
+CHEMBL178,DAUNORUBICIN,,,,1,False,1,chronic hepatitis B virus infection
+CHEMBL2107313,BECATECARIN,,,,1,False,1,biliary tract cancer
+CHEMBL2107818,ALDOXORUBICIN,,,,1,False,1,hepatocellular carcinoma
+CHEMBL359744,DOXORUBICIN HYDROCHLORIDE,,,,1,False,1,Hepatoblastoma; hepatocellular carcinoma; liver cancer
+CHEMBL408403,ANGIOTENSIN II,,,,10,False,1,hepatorenal syndrome
