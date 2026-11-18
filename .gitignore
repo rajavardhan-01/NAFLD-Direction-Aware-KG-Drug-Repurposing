@@ -5,3 +5,4 @@ __pycache__/
 Paper2_seed_options.zip
 .venv/
 logs/
+results/Evaluation/inputs/gene_gene.csv

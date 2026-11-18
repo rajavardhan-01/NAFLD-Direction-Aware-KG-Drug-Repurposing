@@ -376,6 +376,25 @@ no decided link 25, only consistent 13, only inconsistent
 shown to act against the disease direction. This compares what the filter changes; it is not a measure of accuracy.
 Details: `results/Baseline_no_direction/comparison_summary.md`.
 
+### 5.10 Evaluation against six baselines (`results/Evaluation/`)
+
+The proposed method is compared with shortest path (SP), network proximity (NP), random walk with restart (RWR),
+metapath counting (MPC), degree-weighted path count (DWPC) and HeteSim on the same graph and the same 299 candidate
+drugs, with ablations, 100-repetition perturbation experiments (seed, edge and hub removal), an independent liver
+cohort (GEO GSE126848) and a literature grading of 113 drugs. Route counts of the offline engine reproduce the Neo4j
+result exactly. Result files: `main/` (rankings, overlap, cost, evidence table), `robust/`, `independent/`, `evidence/`
+(PubMed queries, records, grades), `tables/`. Order of the scripts:
+
+```
+NEO4J_PASSWORD=... NEO4J_DATABASE=neo4j python code/eval_export_graph.py   # export graph tables
+python code/eval_run.py              # main comparison, ablation, overlap
+python code/eval_evidence_fetch.py 20   # PubMed screen (then grade by hand in evidence/evidence_grades.csv)
+python code/eval_metrics.py          # evidence support and NDCG
+python code/eval_robust.py 100 8     # perturbation study (repetitions, processes)
+python code/eval_cost.py             # runtime and memory
+python code/eval_independent.py      # needs data/geo (GSE126848 counts and series matrix)
+python code/eval_tables.py && python code/eval_figures.py
+```
 ## 6. Limitations
 
 - **Direction is checked only at the drug -> target step.** Gene-gene interactions have no sign, so the gene-gene steps of a

@@ -1,0 +1,15 @@
+method,K,tied_at_cut,ranked
+SP,10,233,299
+SP,20,233,299
+NP,10,1,297
+NP,20,1,297
+RWR,10,9,299
+RWR,20,6,299
+MPC,10,11,116
+MPC,20,21,116
+DWPC,10,1,116
+DWPC,20,13,116
+HeteSim,10,3,250
+HeteSim,20,15,250
+Proposed,10,21,38
+Proposed,20,21,38

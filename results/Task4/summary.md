@@ -18,7 +18,7 @@ Seed genes: 280 (Task 1). Drug links: Task 2 (pharmacological-target links for t
 - Drugs hitting seed genes with any liver TREATS/OFF_LABEL_FOR use: 134;
   with a fibrosis-type liver use (excluded): 48;
   kept although they have another liver use: 85.
-- Candidates with a liver contraindication (kept here, removed in the ranking step): 48.
+- Liver contraindication (kept here, removed in the ranking step): 22 of the 321 final candidates (48 of the 516 drugs before the mechanism filter).
 - Drugs added in step 0.4 among the coverage table: 31; approved with no phase number (treated as phase 4):
   21; no phase number at all (cannot confirm phase >= 2, excluded): 0.
   Their existing uses come from ChEMBL indications (ChEMBL_37, 2026-05-01, retrieved 2026-11-13).

@@ -1,0 +1,9 @@
+Drug_ID,drug,method,signature
+CHEMBL750,ZONISAMIDE,HeteSim,size-matched (top 280 by FDR)
+CHEMBL3984441,NINGETINIB,HeteSim,size-matched (top 280 by FDR)
+CHEMBL3301622,GILTERITINIB,HeteSim,size-matched (top 280 by FDR)
+CHEMBL6622,ISOSORBIDE DINITRATE,HeteSim,size-matched (top 280 by FDR)
+CHEMBL730,NITROGLYCERIN,HeteSim,size-matched (top 280 by FDR)
+CHEMBL2109408,LAMPALIZUMAB,HeteSim,size-matched (top 280 by FDR)
+CHEMBL4250860,DANICOPAN,HeteSim,size-matched (top 280 by FDR)
+CHEMBL2107549,BINDARIT,HeteSim,size-matched (top 280 by FDR)

@@ -1,0 +1,8 @@
+method,runtime_s,extra_peak_MB
+SP,0.769,161.0
+NP,0.888,160.8
+RWR,0.037,54.0
+MPC,0.027,52.7
+DWPC,0.062,53.5
+HeteSim,0.057,52.2
+Proposed,0.028,53.9

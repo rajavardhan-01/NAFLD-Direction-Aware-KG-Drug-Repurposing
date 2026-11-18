@@ -250,7 +250,7 @@ Seed genes: 280 (Task 1). Drug links: Task 2 (pharmacological-target links for t
 - Drugs hitting seed genes with any liver TREATS/OFF_LABEL_FOR use: {int(hit.has_liver_indication.sum())};
   with a fibrosis-type liver use (excluded): {int(hit.has_fibrosis_type_liver_use.sum())};
   kept although they have another liver use: {int(f3.kept_with_other_liver_use.sum())}.
-- Candidates with a liver contraindication (kept here, removed in the ranking step): {int(f3.liver_contraindicated.sum())}.
+- Liver contraindication (kept here, removed in the ranking step): {int(f4.liver_contraindicated.sum())} of the {len(f4)} final candidates ({int(f3.liver_contraindicated.sum())} of the {len(f3)} drugs before the mechanism filter).
 - Drugs added in step 0.4 among the coverage table: {len(added_all)}; approved with no phase number (treated as phase 4):
   {int(added_all.phase_from_stage.sum())}; no phase number at all (cannot confirm phase >= 2, excluded): {int(added_all.max_phase.isna().sum())}.
   Their existing uses come from ChEMBL indications ({ind_meta['chembl_release']}, {ind_meta['chembl_release_date']}, retrieved {ind_meta['retrieved']}).

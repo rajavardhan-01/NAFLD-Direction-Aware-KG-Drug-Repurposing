@@ -1,0 +1,795 @@
+{
+ "retrieved": "2026-11-18",
+ "parents": {
+  "ABBV-3373": {
+   "query": "((\"abbv-3373\")[tiab]) AND (NAFLD[tiab] OR NASH[tiab] OR MASLD[tiab] OR MASH[tiab] OR \"fatty liver\"[tiab] OR steatohepatitis[tiab] OR \"liver fibrosis\"[tiab] OR \"hepatic fibrosis\"[tiab] OR \"liver steatosis\"[tiab] OR \"hepatic steatosis\"[tiab])",
+   "count": 0,
+   "returned": 0,
+   "records": []
+  },
+  "AFELIMOMAB": {
+   "query": "((\"afelimomab\")[tiab]) AND (NAFLD[tiab] OR NASH[tiab] OR MASLD[tiab] OR MASH[tiab] OR \"fatty liver\"[tiab] OR steatohepatitis[tiab] OR \"liver fibrosis\"[tiab] OR \"hepatic fibrosis\"[tiab] OR \"liver steatosis\"[tiab] OR \"hepatic steatosis\"[tiab])",
+   "count": 0,
+   "returned": 0,
+   "records": []
+  },
+  "ARHALOFENATE": {
+   "query": "((\"arhalofenate\")[tiab]) AND (NAFLD[tiab] OR NASH[tiab] OR MASLD[tiab] OR MASH[tiab] OR \"fatty liver\"[tiab] OR steatohepatitis[tiab] OR \"liver fibrosis\"[tiab] OR \"hepatic fibrosis\"[tiab] OR \"liver steatosis\"[tiab] OR \"hepatic steatosis\"[tiab])",
+   "count": 0,
+   "returned": 0,
+   "records": []
+  },
+  "ATX08-001": {
+   "query": "((\"atx08-001\")[tiab]) AND (NAFLD[tiab] OR NASH[tiab] OR MASLD[tiab] OR MASH[tiab] OR \"fatty liver\"[tiab] OR steatohepatitis[tiab] OR \"liver fibrosis\"[tiab] OR \"hepatic fibrosis\"[tiab] OR \"liver steatosis\"[tiab] OR \"hepatic steatosis\"[tiab])",
+   "count": 0,
+   "returned": 0,
+   "records": []
+  },
+  "AZ9773": {
+   "query": "((\"az9773\")[tiab]) AND (NAFLD[tiab] OR NASH[tiab] OR MASLD[tiab] OR MASH[tiab] OR \"fatty liver\"[tiab] OR steatohepatitis[tiab] OR \"liver fibrosis\"[tiab] OR \"hepatic fibrosis\"[tiab] OR \"liver steatosis\"[tiab] OR \"hepatic steatosis\"[tiab])",
+   "count": 0,
+   "returned": 0,
+   "records": []
+  },
+  "BALAGLITAZONE": {
+   "query": "((\"balaglitazone\")[tiab]) AND (NAFLD[tiab] OR NASH[tiab] OR MASLD[tiab] OR MASH[tiab] OR \"fatty liver\"[tiab] OR steatohepatitis[tiab] OR \"liver fibrosis\"[tiab] OR \"hepatic fibrosis\"[tiab] OR \"liver steatosis\"[tiab] OR \"hepatic steatosis\"[tiab])",
+   "count": 2,
+   "returned": 2,
+   "records": [
+    {
+     "pmid": "27631136",
+     "year": "2017",
+     "title": "Serum endotrophin identifies optimal responders to PPAR\u03b3 agonists in type 2 diabetes.",
+     "pubtypes": [
+      "Clinical Trial, Phase II",
+      "Journal Article",
+      "Randomized Controlled Trial"
+     ],
+     "humans": true,
+     "animals": false,
+     "abstract": "The treatment of type 2 diabetes with full peroxisome proliferator-activated receptor gamma (PPAR\u03b3) agonists improves insulin sensitivity, but is associated with weight gain, heart failure, peripheral oedema and bone loss. Endotrophin, the C-terminal fragment of the \u03b13 chain of procollagen type VI (also called Pro-C6), is involved in both adipose tissue matrix remodelling and metabolic control. We established a serum assay for endotrophin to assess if this novel adipokine could identify type 2 diabetic patients who respond optimally to PPAR\u03b3 agonists, improving the risk-to-benefit ratio. The BALLET trial (NCT00515632) compared the glucose-lowering effects and safety of the partial PPAR\u03b3 agonist balaglitazone with those of pioglitazone in individuals with type 2 diabetes on stable insulin therapy. The per protocol population (n\u2009=\u2009297) was stratified into tertiles based on baseline endotrophin levels. Participants were followed-up after 26\u00a0weeks, after which correlational analysis was carried out between endotrophin levels and measures of glucose control. This is a secondary post hoc analysis. Endotrophin was significantly associated with therapeutic response to balaglitazone and pioglitazone. At week 26, only individuals in the upper two tertiles showed significant reductions in HbA1c and fasting serum glucose compared with baseline. The OR for a 1% and a 0.5% reduction in HbA1c for individuals in the upper two tertiles were 3.83 (95% CI 1.62, 9.04) p\u2009<\u20090.01, and 3.85 (95% CI 1.94, 7.61) p\u2009<\u20090.001, respectively. Endotrophin levels correlated with adipose tissue mass, insulin resistance and fatty liver index. Notably, PPAR\u03b3-associated adverse effects, such as moderate-to-severe lower extremity oedema, only occurred in the lower tertile. Elevated endotrophin serum levels predict response to two insulin sensitisers and reduce the risk of associated adverse effects, thereby, identifying patients with type 2 diabetes who may profit from PPAR\u03b3 agonist treatment."
+    },
+    {
+     "pmid": "27765759",
+     "year": "2016",
+     "title": "Fibrogenesis assessed by serological type III collagen formation identifies patients with progressive liver fibrosis and responders to a potential antifibrotic therapy.",
+     "pubtypes": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Research Support, Non-U.S. Gov't"
+     ],
+     "humans": true,
+     "animals": false,
+     "abstract": "There are no approved treatments for liver fibrosis. To aid development of antifibrotic therapies, noninvasive biomarkers that can identify patients with progressive fibrosis and that permit monitoring of the response to antifibrotic therapy are much needed. Samples from a phase II antifibrotic trial of the glitazone farglitazar in patients with advanced hepatitis C, with matched follow-up liver biopsies, and from a phase III study of balaglitazone in patients with late-stage Type 2 diabetes (BALLET study) were analyzed for serological Pro-C3 levels in conjunction with other disease parameters. In the farglitazar study, a predefined cutoff value for Pro-C3 as a selection criterion led to the identification of subjects who 1) progressed by histological scores and 2) responded to therapy, as documented by attenuated fibrosis in liver biopsies. In the BALLET trial, subjects with the highest tertile of Pro-C3 levels responded to balaglitazone with reductions in levels of alanine aminotransferase and Pro-C3, as well as improved insulin sensitivity and lipid profile. Elevated Pro-C3 levels are indicative of active fibrogenesis and structural progression of fibrosis, and it can potentially identify patients most likely to benefit from antimetabolic and antifibrotic treatments. Serum Pro-C3 may facilitate patient selection and could help to speed up antifibrotic drug development and validation."
+    }
+   ]
+  },
+  "BARDOXOLONE METHYL": {
+   "query": "((\"bardoxolone\")[tiab]) AND (NAFLD[tiab] OR NASH[tiab] OR MASLD[tiab] OR MASH[tiab] OR \"fatty liver\"[tiab] OR steatohepatitis[tiab] OR \"liver fibrosis\"[tiab] OR \"hepatic fibrosis\"[tiab] OR \"liver steatosis\"[tiab] OR \"hepatic steatosis\"[tiab])",
+   "count": 6,
+   "returned": 6,
+   "records": [
+    {
+     "pmid": "37386884",
+     "year": "2023",
+     "title": "Discovery of NAFLD-Improving Agents by Promoting the Degradation of Keap1.",
+     "pubtypes": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+     ],
+     "humans": false,
+     "animals": true,
+     "abstract": "Activating Nrf2 through inhibiting Keap1 has been proven to alleviate oxidative stress and related diseases, including nonalcoholic fatty liver disease (NAFLD). Traditional Keap1 inhibitors could not avoid the \"off-target\" effects, but using proteolysis targeting chimera (PROTAC) technology to induce Keap1 degradation might be an effective strategy to find potential NAFLD improving agents. Thus, several PROTACs were designed and synthesized by harnessing CDDO as the Keap1 ligand in this study. PROTAC I-d exhibited optimal Keap1 degradation activity, which could increase the Nrf2 level and alleviate oxidative stress in free fatty acid-induced AML12 cells and the liver of mice fed with a methionine-choline-deficient diet. Moreover, compared with CDDO, PROTAC I-d displayed significant advantages in inhibiting hepatic steatosis, steatohepatitis, and fibrosis in the in vivo and in vitro models of NAFLD. In addition, PROTAC I-d also showed lower in vivo toxicity than CDDO. All these results suggested that PROTAC I-d might be a potential improving agent for NAFLD."
+    },
+    {
+     "pmid": "38599607",
+     "year": "2024",
+     "title": "Bardoxolone methyl prevents metabolic dysfunction-associated steatohepatitis by inhibiting macrophage infiltration.",
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "humans": false,
+     "animals": true,
+     "abstract": "Bardoxolone methyl (2-cyano-3,12-dioxooleana-1,9(11)-dien-28-oic acid methyl ester, CDDO-Me) is a potent activator of nuclear factor erythroid 2-related factor 2\u00a0(Nrf2), which induces the expression of antioxidative-associated genes. CDDO-Me exerts protective effects against chronic inflammatory diseases in the kidneys and lungs. However, its pharmacological effects on metabolic dysfunction-associated steatohepatitis (MASH) caused by fat accumulation remain unknown. In this study, we examined the hepatoprotective effects of CDDO-Me in a diet-induced MASH mouse model and elucidated its pharmacological mechanisms using RNA-seq analysis. CDDO-Me was orally administered to mice fed a choline-deficient, L-amino acid-defined, high-fat diet (CDAHFD), and histological, biochemical, and transcriptomic analyses were performed on livers of mice that developed MASH. CDDO-Me administration induced the expression of antioxidant genes and cholesterol transporters downstream of Nrf2 and significantly prevented the symptoms of MASH. Whole-transcriptome analysis revealed that CDDO-Me inhibited the inflammatory pathway that led to phagocyte recruitment, in addition to activating the Nrf2-dependent pathway. Among inflammatory pathways, CC chemokine ligands (CCL)3 and CCL4, which are downstream of NF-\u03baB and are associated with the recruitment of macrophages expressing CC chemokine receptors (CCR)1 and CCR5, were released into the blood in MASH mice. However, CDDO-Me directly inhibited the expression of CCL3-CCR1 and CCL4-CCR5 in macrophages. Overall, we revealed the potent hepatoprotective effect of CDDO-Me in a MASH mouse model and demonstrated that its pharmacological effects were closely associated with a reduction of macrophage infiltration, through CCL3-CCR1 and CCL4-CCR5 inhibition, in addition to Nrf2-mediated hepatoprotective effects."
+    },
+    {
+     "pmid": "37060561",
+     "year": "2023",
+     "title": "Complementary gene regulation by NRF1 and NRF2 protects against hepatic cholesterol overload.",
+     "pubtypes": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+     ],
+     "humans": false,
+     "animals": true,
+     "abstract": "Hepatic cholesterol overload promotes steatohepatitis. Insufficient understanding of liver stress defense impedes therapy development. Here, we elucidate the role of stress defense transcription factors, nuclear factor erythroid 2 related factor-1 (NRF1) and -2 (NRF2), in counteracting cholesterol-linked liver stress. Using a diet that increases liver cholesterol storage, expression profiles and phenotypes of liver from mice with hepatocyte deficiency of NRF1, NRF2, or both are compared with controls, and chromatin immunoprecipitation sequencing is undertaken to identify target genes. Results show NRF1 and NRF2 co-regulate genes that eliminate cholesterol and mitigate inflammation and oxidative damage. Combined deficiency, but not deficiency of either alone, results in severe steatohepatitis, hepatic cholesterol overload and crystallization, altered bile acid metabolism, and decreased biliary cholesterol. Moreover, therapeutic effects of NRF2-activating drug bardoxolone require NRF1 and are supplemented by NRF1 overexpression. Thus, we discover complementary gene programming by NRF1 and NRF2 that counteract cholesterol-associated fatty liver disease progression."
+    },
+    {
+     "pmid": "26001833",
+     "year": "2015",
+     "title": "Bardoxolone methyl prevents insulin resistance and the development of hepatic steatosis in mice fed a high-fat diet.",
+     "pubtypes": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+     ],
+     "humans": false,
+     "animals": true,
+     "abstract": "High-fat (HF) diet-induced obesity is a major risk factor for the development of insulin resistance and hepatic steatosis. We examined the hypothesis that bardoxolone methyl (BM) would prevent the development of insulin resistance and hepatic steatosis in mice fed a HF diet. C57BL/6J male mice were fed a lab chow (LC), HF (40% fat), or HF diet supplemented with 10\u2009mg/kg/day BM orally for 21 weeks. Glucose metabolism was assessed using a glucose tolerance test (GTT) and insulin sensitivity test (IST). Signalling molecules involved in insulin resistance, inflammation, and lipid metabolism were examined in liver tissue via western blotting and RT-PCR. BM prevented HF diet-induced insulin resistance and alterations in the protein levels of protein tyrosine phosphatase 1B (PTP1B), forkhead box protein O1 (FOXO1) and BDNF, and expression of the insulin receptor (IR), IRS-1 and glucose-6-phosphatase (G6Pase) genes. Furthermore, BM prevented fat accumulation in the liver and decreases in the \u03b2-oxidation gene, peroxisomal acyl-coenzyme A oxidase 1 (ACOX) in mice fed a HF diet. In the livers of HF fed mice, BM administration prevented HF diet-induced macrophage infiltration, inflammation as indicated by reduced IL-6 and signal transducer and activator of transcription 3 (STAT3) protein levels and TNF\u03b1 mRNA expression, and increased nuclear factor-like 2 (Nrf2) mRNA expression and nuclear protein levels. These findings suggest that BM prevents HF diet induced insulin resistance and the development of hepatic steatosis in mice fed a chronic HF diet through modulation of molecules involved in insulin signalling, lipid metabolism and inflammation in the liver."
+    },
+    {
+     "pmid": "39125617",
+     "year": "2024",
+     "title": "Protective Effects of Hepatocyte Stress Defenders, Nrf1 and Nrf2, against MASLD Progression.",
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "humans": true,
+     "animals": true,
+     "abstract": "Progression of metabolic dysfunction-associated steatites liver disease (MASLD) to steatohepatitis (MASH) is driven by stress-inducing lipids that promote liver inflammation and fibrosis, and MASH can lead to cirrhosis and hepatocellular carcinoma. Previously, we showed coordinated defenses regulated by transcription factors, nuclear factor erythroid 2-related factor-1 (Nrf1) and -2 (Nrf2), protect against hepatic lipid stress. Here, we investigated protective effects of hepatocyte Nrf1 and Nrf2 against MASH-linked liver fibrosis and tumorigenesis. Male and female mice with flox alleles for genes encoding Nrf1 (Nfe2l1), Nrf2 (Nfe2l2), or both were fed a MASH-inducing diet enriched with high fat, fructose, and cholesterol (HFFC) or a control diet for 24-52 weeks. During this period, hepatocyte Nrf1, Nrf2, or combined deficiency for ~7 days, ~7 weeks, and ~35 weeks was induced by administering mice hepatocyte-targeting adeno-associated virus (AAV) expressing Cre recombinase. The effects on MASH, markers of liver fibrosis and proliferation, and liver tumorigenesis were compared to control mice receiving AAV-expressing green fluorescent protein. Also, to assess the impact of Nrf1 and Nrf2 induction on liver fibrosis, HFFC diet-fed C57bl/6J mice received weekly injections of carbon tetrachloride, and from week 16 to 24, mice were treated with the Nrf2-activating drug bardoxolone, hepatocyte overexpression of human NRF1 (hNRF1), or both, and these groups were compared to control. Compared to the control diet, 24-week feeding with the HFFC diet increased bodyweight as well as liver weight, steatosis, and inflammation. It also increased hepatocyte proliferation and a marker of liver damage, p62. Hepatocyte Nrf1 and combined deficiency increased liver steatosis in control diet-fed but not HFFC diet-fed mice, and increased liver inflammation under both diet conditions. Hepatocyte Nrf1 deficiency also increased hepatocyte proliferation, whereas combined deficiency did not, and this also occurred for p62 level in control diet-fed conditions. In 52-week HFFC diet-fed mice, 35 weeks of hepatocyte Nrf1 deficiency, but not combined deficiency, resulted in more liver tumors in male mice, but not in female mice. In contrast, hepatocyte Nrf2 deficiency had no effect on any of these parameters. However, in the 15-week CCL4-exposed and 24-week HFFC diet-fed mice, Nrf2 induction with bardoxolone reduced liver steatosis, inflammation, fibrosis, and proliferation. Induction of hepatic Nrf1 activity with hNRF1 enhanced the effect of bardoxolone on steatosis and may have stimulated liver progenitor cells. Physiologic Nrf1 delays MASLD progression, Nrf2 induction alleviates MASH, and combined enhancement synergistically protects against steatosis and may facilitate liver repair."
+    },
+    {
+     "pmid": "39467090",
+     "year": "2025",
+     "title": "Pathological Microenvironment-Remodeling Nanoparticles to Alleviate Liver Fibrosis: Reversing Hepatocytes-Hepatic Stellate Cells Malignant Crosstalk.",
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "humans": true,
+     "animals": true,
+     "abstract": "During the onset and malignant development of liver fibrosis, the pernicious interplay between damaged hepatocytes and activated hepatic stellate cells (HSCs) induce a self-perpetuating vicious cycle, deteriorating fibrosis progression and posing a grave threat to public health. The secretions released by damaged hepatocytes and activated HSCs interact through autocrine or paracrine mechanisms, involving multiple signaling pathways. This interaction creates a harsh microenvironment and weakens the therapeutic efficacy of single-cell-centric drugs. Herein, a malignant crosstalk-blocking strategy is prompted to remodel vicious cellular interplay and reverse pathological microenvironment to put an end to liver fibrosis. Collagenases modified, bardoxolone and siTGF-\u03b2 co-delivered nanoparticles (C-NPs/BT) are designed to penetrate the deposited collagen barriers and further regulate the cellular interactions through upregulating anti-oxidative stress capacity and eliminating the pro-fibrogenic effects of TGF-\u03b2. The C-NPs/BT shows successful remodeling of vicious cellular crosstalk and significant disease regression in animal models. This study presents an innovative strategy to modulate cellular interactions for enhanced anti-fibrotic therapy and suggests a promising approach for treating other chronic liver diseases."
+    }
+   ]
+  },
+  "CERTOLIZUMAB PEGOL": {
+   "query": "((\"certolizumab\")[tiab]) AND (NAFLD[tiab] OR NASH[tiab] OR MASLD[tiab] OR MASH[tiab] OR \"fatty liver\"[tiab] OR steatohepatitis[tiab] OR \"liver fibrosis\"[tiab] OR \"hepatic fibrosis\"[tiab] OR \"liver steatosis\"[tiab] OR \"hepatic steatosis\"[tiab])",
+   "count": 3,
+   "returned": 3,
+   "records": [
+    {
+     "pmid": "30060508",
+     "year": "2018",
+     "title": "Harmful Effects and Potential Benefits of Anti-Tumor Necrosis Factor (TNF)-\u03b1 on the Liver.",
+     "pubtypes": [
+      "Journal Article",
+      "Review"
+     ],
+     "humans": true,
+     "animals": true,
+     "abstract": "Anti-tumor necrosis factor (TNF)-\u03b1 agents represent an effective treatment for chronic inflammatory diseases. However, some concerns about their potentially undesirable effects on liver function have been reported. On the other hand, evidence of their therapeutic effects on certain liver diseases is accumulating. Many data showed the safety of anti-TNF-\u03b1 in patients with chronic hepatitis B and C and in liver transplanted patients even if a strict follow-up and prophylaxis are recommended in well-defined subgroups. On the other side, anti-TNF-\u03b1-induced liver injury is not a rare event. However, it is often reversible after anti-TNF-\u03b1 withdrawal. Anti-TNF-\u03b1 agents have been tested in advanced stages of severe alcoholic hepatitis and non-alcoholic fatty liver disease. Limited data on the efficacy of anti-TNF-\u03b1 in patients with autoimmune hepatitis and primary biliary cholangitis are also available. In this review, we explored the hepatic safety concerns in patients receiving anti-TNF-\u03b1 agents with and without pre-existent hepatic diseases. In addition, the available evidence on their potential benefits in the treatment of specific hepatic diseases is discussed."
+    },
+    {
+     "pmid": "32377366",
+     "year": "2020",
+     "title": "Antitumour necrosis factor-\u03b1 agents and development of new-onset cirrhosis or non-alcoholic fatty liver disease: a retrospective cohort.",
+     "pubtypes": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+     ],
+     "humans": true,
+     "animals": false,
+     "abstract": "Elevated tumour necrosis factor (TNF)-\u03b1 has been implicated in the progression of liver fibrosis and pathogenesis of non-alcoholic fatty liver disease (NAFLD). We aim to investigate the impact of anti-TNF-\u03b1 agents on the development of cirrhosis and NAFLD. This retrospective cohort study used a US claims database between 1 January 2010 and 31 December 2016. We identified adult patients with ankylosing spondylitis, inflammatory bowel disease, psoriatic arthritis or rheumatoid arthritis. Anti-TNF-\u03b1 agents of interest included adalimumab, certolizumab, etanercept, golimumab and infliximab. The primary composite outcome was the development of new-onset cirrhosis, NAFLD or non-alcoholic steatohepatitis (NASH). The secondary outcomes were the development of (1) cirrhosis and (2) NAFLD or NASH. Propensity score for anti-TNF-\u03b1 agent use was generated by logistic regression. Cox proportional hazard models adjusting for the propensity score were used with regard to time-varying anti-TNF-\u03b1 agent exposure. This study included 226\u2009555 incident patients with immune-related diseases. During the median 1.5 years follow-up, there was an increased hazard with anti-TNF-\u03b1 agent use in regard to liver outcomes (composite outcome HR: 1.47, 95%\u2009CI 1.27 to 1.70; cirrhosis HR 1.47, 95%\u2009CI 0.96 to 2.23; NAFLD or NASH HR 1.53, 95%\u2009CI 1.32 to 1.77). The composite outcome hazard was increased for each immune-related disease (HR 1.25-1.90). In the short term, we did not observe a beneficial effect of anti-TNF-\u03b1 agent use for development of cirrhosis, NAFLD or NASH in patients with immune-related diseases."
+    },
+    {
+     "pmid": "31474792",
+     "year": "2019",
+     "title": "High prevalence of non-alcoholic fatty liver disease in patients with inflammatory bowel disease receiving anti-tumor necrosis factor therapy.",
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "humans": false,
+     "animals": false,
+     "abstract": "Non-alcoholic fatty liver disease (NAFLD) is common in patients with inflammatory bowel disease (IBD). This study evaluated the prevalence of NAFLD and the associated risk factors among IBD patients who received anti-tumor necrosis factor (TNF) therapy. Adult IBD patients receiving anti-TNF therapy (infliximab, adalimumab, certolizumab, golimumab) were enrolled. Hepatic steatosis was assessed by abdominal ultrasound. Patients with a history of excessive alcohol or recent steroid use were excluded. Univariate and multivariate analysis were performed. Eighty patients, 55% male, mean age 42\u00b115 years, were enrolled. The sonographic prevalence of NAFLD was 54% (43/80), significantly higher than the general prevalence in the US adult population (30%) (P<0.0001). NAFLD patients had a significantly higher proportion of males, as well as greater body weight and body mass index, compared to non-NAFLD. The Crohns disease activity index (CDAI) was significantly higher among patients with NAFLD. Multivariate analysis demonstrated that a higher CDAI was independently associated with NAFLD, with an odds ratio of 1.6 (95% confidence interval 1.05-2.44; P=0.03). The presence of IBD is strongly associated with NAFLD. We identified a high prevalence of NAFLD among IBD patients receiving anti-TNF. CDAI was independently associated with hepatic steatosis. Further studies are still needed to evaluate the pathophysiology of NAFLD development and disease progression among IBD populations."
+    }
+   ]
+  },
+  "CIGLITAZONE": {
+   "query": "((\"ciglitazone\")[tiab]) AND (NAFLD[tiab] OR NASH[tiab] OR MASLD[tiab] OR MASH[tiab] OR \"fatty liver\"[tiab] OR steatohepatitis[tiab] OR \"liver fibrosis\"[tiab] OR \"hepatic fibrosis\"[tiab] OR \"liver steatosis\"[tiab] OR \"hepatic steatosis\"[tiab])",
+   "count": 3,
+   "returned": 3,
+   "records": [
+    {
+     "pmid": "34447968",
+     "year": "2021",
+     "title": "Effect of ciglitazone on adipogenic transdifferentiation of bovine skeletal muscle satellite cells.",
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "humans": false,
+     "animals": false,
+     "abstract": "Ciglitazone is a member of the thiazolidinedione family, and specifically binds to peroxisome proliferator-activated receptor-\u03b3 (PPAR\u03b3), thereby promoting adipocyte differentiation. We hypothesized that ciglitazone as a PPAR\u03b3 ligand in the absence of an adipocyte differentiation cocktail would increase adiponectin and adipogenic gene expression in bovine satellite cells (BSC). Muscle-derived BSCs were isolated from six, 18-month-old Yanbian Yellow Cattle. The BSC were cultured for 96 h in differentiation medium containing 5 \u00b5M ciglitazone (CL), 10 \u00b5M ciglitazone (CM), or 20 \u00b5M ciglitazone (CH). Control (CON) BSC were cultured only in a differentiation medium (containing 2% horse serum). The presence of myogenin, desmin, and paired box 7 (Pax7) proteins was confirmed in the BSC by immunofluorescence staining. The CL, CM, and CH treatments produced higher concentrations of triacylglycerol and lipid droplet accumulation in myotubes than those of the CON treatment. Ciglitazone treatments significantly increased the relative expression of PPAR\u03b3, CCAAT/enhancer-binding protein alpha (C/EBP\u03b1), C/EBP\u03b2, fatty acid synthase, stearoyl-CoA desaturase, and perilipin 2. Ciglitazone treatments increased gene expression of Pax3 and Pax7 and decreased expression of myogenic differentiation-1, myogenin, myogenic regulatory factor-5, and myogenin-4 (p < 0.01). Adiponectin concentration caused by ciglitazone treatments was significantly greater than CON (p < 0.01). RNA sequencing showed that 281 differentially expressed genes (DEGs) were found in the treatments of ciglitazone. DEGs gene ontology (GO) analysis showed that the top 10 GO enrichment significantly changed the biological processes such as protein trimerization, negative regulation of cell proliferation, adipocytes differentiation, and cellular response to external stimulus. Kyoto Encyclopedia of Genes and Genomes pathway analysis showed that DEGs were involved in the p53 signaling pathway, PPAR signaling pathway, biosynthesis of amino acids, tumor necrosis factor signaling pathway, non-alcoholic fatty liver disease, PI3K-Akt signaling pathway, and Wnt signaling pathway. These results indicate that ciglitazone acts as PPAR\u03b3 agonist, effectively increases the adiponectin concentration and adipogenic gene expression, and stimulates the conversion of BSC to adipocyte-like cells in the absence of adipocyte differentiation cocktail."
+    },
+    {
+     "pmid": "11851003",
+     "year": "2002",
+     "title": "[Thiazolidinediones and PPARgamma system in repair of liver damage].",
+     "pubtypes": [
+      "Comparative Study",
+      "Journal Article",
+      "Review"
+     ],
+     "humans": true,
+     "animals": false,
+     "abstract": "PPAR-gamma belongs to the nuclear hormone receptor superfamily and its ligands include antidiabetic drugs of the thiazolidindione class, and endogenous molecules, including eicosanoids and fatty acids. PPAR-gamma is involved in the pathophysiology of obesity and type II diabetes. More recently, accumulating evidence suggests its role in atherosclerosis, inflammation and cancer. Recent data obtained in cellular models of liver fibrosis indicate that PPAR-gamma activation results in the inhibition of the processes leading to the development of liver fibrosis. These studies identify potential novel therapeutic strategies for the treatment of liver fibrosis."
+    },
+    {
+     "pmid": "15917308",
+     "year": "2005",
+     "title": "Inhibition of adult liver progenitor (oval) cell growth and viability by an agonist of the peroxisome proliferator activated receptor (PPAR) family member gamma, but not alpha or delta.",
+     "pubtypes": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+     ],
+     "humans": false,
+     "animals": true,
+     "abstract": "Multifaceted evidence links the development of liver tumours to the activation and proliferation of adult liver progenitor (oval) cells during the early stages of chronic liver injury. The aim of this study was to examine the role of the peroxisome proliferator activated receptors (PPARs): PPARalpha, delta and gamma, in mediating the behaviour of liver progenitor cells during pre-neoplastic disease and to investigate their potential as therapeutic targets for the treatment of chronic liver injury. We observed increased liver expression of PPARalpha and gamma in concert with expanding oval cell numbers during the first 21 days following commencement of the choline deficient, ethionine supplemented (CDE) dietary model of carcinogenic liver injury in mice. Both primary and immortalized liver progenitor cells were found to express PPARalpha, delta and gamma, but not gamma2, the alternate splice form of PPARgamma. WY14643 (PPARalpha agonist), GW501516 (PPARdelta agonist) and ciglitazone (PPARgamma agonist) were tested for their ability to modulate the behaviour of p53-immortalized liver (PIL) progenitor cell lines in vitro. Both PPARdelta and gamma agonists induced dose-dependent growth inhibition and apoptosis of PIL cells. In contrast, the PPARalpha agonist had no effect on PIL cell growth. None of the drugs affected the maturation of PIL cells along either the hepatocytic or biliary lineages, as judged by their patterns of hepatic gene expression prior to and following treatment. Administration of the PPARgamma agonist ciglitazone to mice fed with the CDE diet for 14 days resulted in a significantly diminished oval cell response and decreased fibrosis compared with those receiving placebo. In contrast, GW501516 did not affect oval cell numbers or liver fibrosis, but inhibited CDE-induced hepatic steatosis. In summary, PPARgamma agonists reduce oval cell proliferation and fibrosis during chronic liver injury and may be useful in the prevention of hepatocellular carcinoma."
+    }
+   ]
+  },
+  "CLOFIBRATE": {
+   "query": "((\"clofibrate\")[tiab]) AND (NAFLD[tiab] OR NASH[tiab] OR MASLD[tiab] OR MASH[tiab] OR \"fatty liver\"[tiab] OR steatohepatitis[tiab] OR \"liver fibrosis\"[tiab] OR \"hepatic fibrosis\"[tiab] OR \"liver steatosis\"[tiab] OR \"hepatic steatosis\"[tiab])",
+   "count": 32,
+   "returned": 32,
+   "records": [
+    {
+     "pmid": "37146924",
+     "year": "2023",
+     "title": "Roles of the peroxisome proliferator-activated receptors (PPARs) in the pathogenesis of nonalcoholic fatty liver disease (NAFLD).",
+     "pubtypes": [
+      "Journal Article",
+      "Review",
+      "Research Support, Non-U.S. Gov't"
+     ],
+     "humans": true,
+     "animals": false,
+     "abstract": "Non-alcoholic fatty liver disease (NAFLD) encompasses a spectrum of disease phenotypes which start with simple steatosis and lipid accumulation in the hepatocytes - a typical histological lesions characteristic. It may progress to non-alcoholic steatohepatitis (NASH) that is characterized by hepatic inflammation and/or fibrosis and subsequent onset of NAFLD-related cirrhosis and hepatocellular carcinoma (HCC). Due to the central role of the liver in metabolism, NAFLD is regarded as a result of and contribution to the metabolic abnormalities seen in the metabolic syndrome. Peroxisome proliferator-activated receptors (PPARs) has three subtypes, which govern the expression of genes responsible for energy metabolism, cellular development, inflammation, and differentiation. The agonists of PPAR\u03b1, such as fenofibrate and clofibrate, have been used as lipid-lowering drugs in clinical practice. Thiazolidinediones (TZDs) - ligands of PPAR\u03b3, such as rosiglitazone and pioglitazone, are also used in the treatment of type 2 diabetes (T2D) with insulin resistance (IR). Increasing evidence suggests that PPAR\u03b2/\u03b4 agonists have potential therapeutic effects in improving insulin sensitivity and lipid metabolism disorders. In addition, PPARs ligands have been considered as potential therapeutic drugs for hypertension, atherosclerosis (AS) or diabetic nephropathy. Their crucial biological roles dictate the significance of PPARs-targeting in medical research and drug discovery. Here, it reviews the biological activities, ligand selectivity and biological functions of the PPARs family, and discusses the relationship between PPARs and the pathogenesis of NAFLD and metabolic syndrome. This will open new possibilities for PPARs application in medicine, and provide a new idea for the treatment of fatty liver and related diseases."
+    },
+    {
+     "pmid": "7150624",
+     "year": "1982",
+     "title": "Accumulation of adipocyte cholesterol during hypolipidemic drug treatment in cholesterol-fed rats.",
+     "pubtypes": [
+      "Journal Article",
+      "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "humans": false,
+     "animals": true,
+     "abstract": "An attempt was made to mobilize adipose tissue cholesterol independently of triacylglycerol by feeding cholesterol to intact Fischer 344 rats to 'load' adipocytes followed by hypolipidemic drug treatment in order to lower plasma cholesterol and, hence, adipocyte cholesterol. In this strain of rat, body weight and adipocyte sizes remain relatively constant after 1 year of age. Therefore, alterations in adipocyte cholesterol can be ascribed to factors other than cell size. Both oxandrolone and combined cholestyramine/clofibrate treatment caused significant reductions in plasma cholesterol in cholesterol-fed rats, but cholesterol concentrations in liver were reduced only by cholestyramine/clofibrate treatment. Oxandrolone enhanced the development of liver fatty liver in the cholesterol-fed rats, but cholestyramine/clofibrate significantly reduced liver triacylglycerol concentrations. Adipocyte cholesterol in the epididymal depot was significantly elevated, not lowered, in both concentrations. Adipocyte cholesterol in the epididymal depot was significantly elevated, not lowered, in both groups of drug-treated animals. Subcutaneous adipocytes from rats receiving drug treatment also contained more cholesterol, especially in rats given oxandrolone. Increments in adipocyte cholesterol were associated with decreases in the absolute amounts of apolipoproteins, A-I and A-IV, as measured by densitometric scanning of electrophoretic gels. Under the present experimental conditions, changes in plasma cholesterol scanning of electrophoretic gels. Under the present experimental conditions, changes in plasma cholesterol concentration did not adequately reflect the cholesterol content of either liver or adipose tissue."
+    },
+    {
+     "pmid": "25896250",
+     "year": "2015",
+     "title": "Inhibition of Dexamethasone-induced Fatty Liver Development by Reducing miR-17-5p Levels.",
+     "pubtypes": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+     ],
+     "humans": true,
+     "animals": true,
+     "abstract": "Steatosis is a pivotal event in the initiation and progression of nonalcoholic fatty liver disease (NAFLD) which can be driven by peroxisome proliferator-activated receptor-\u03b1 (PPAR-\u03b1) dysregulation. Through examining the effect of PPAR-\u03b1 on fatty liver development, we found that PPAR-\u03b1 is a target of miR-17-5p. Transgenic mice expressing miR-17 developed fatty liver and produced higher levels of triglyceride and cholesterol but lower levels of PPAR-\u03b1. Ectopic expression of miR-17 enhanced cellular steatosis. Gain-of-function and loss-of-function experiments confirmed PPAR-\u03b1 as a target of miR-17-5p. On the other hand, PPAR-\u03b1 bound to the promoter of miR-17 and promoted its expression. The feed-back loop between miR-17-5p and PPAR-\u03b1 played a key role in the induction of steatosis and fatty liver development. Mice with high levels of miR-17-5p were sensitive to Dexamethasone-induced fatty liver formation. Inhibition of miR-17-5p suppressed this process and enhanced PPAR-\u03b1 expression in mice treated with Dexamethasone. Clofibrate, Ciprofibrate, and WY-14643: three agents used for treatment of metabolic disorders, were found to promote PPAR-\u03b1 expression while decreasing miR-17-5p levels and inhibiting steatosis. Our studies show that miR-17-5p inhibitor and agents used in metabolic disorders may be applied in combination with Dexamethasone in the treatment of anti-inflammation, immunosuppression, and cancer patients."
+    },
+    {
+     "pmid": "28714405",
+     "year": "2017",
+     "title": "Emerging Targets to Relieve Fat Stress-Induced Liver Diseases: UDCA, Tocotrienol, \u03c9-3 PUFAs, and IgY Targeted NPC1L1 Cholesterol Transporter.",
+     "pubtypes": [
+      "Journal Article",
+      "Review"
+     ],
+     "humans": true,
+     "animals": true,
+     "abstract": "Fat stress-induced liver disease is a hepatic manifestation of metabolic syndrome initiated by excess fat accumulation and encompasses a wide spectrum of diseases from non-alcoholic fatty liver disease to nonalcoholic steatohepatitis, a precursor lesion progressing to more aggressive liver cirrhosis and hepatocellular carcinoma. Although the incidence of these fat stress-induced liver diseases is rapidly increasing worldwide in parallel with the growing epidemics of obesity and metabolic diseases, its exact pathogenesis is not well defined. Although obesity, sedentary life-style, altered dietary pattern, insulin resistance, altered intestinal barrier function, inflammatory cytokines, and oxidative stress have been acknowledged as contributing factors because of the indefinite pathogenesis of metabolic diseases, the only reliable treatment is lifestyle intervention composed of restrictive diet and exercise. Additionally, some existing medications such as pioglitazone and antioxidants such as vitamin E were reported to be effective; in this review, several novel agents especifically targeting nonalcoholic fatty liver disease pathogenesis under clinical trial will be introduced. These include an NPC1L1 blocker (ezetimibe), which significantly improved histological and symptomatic scores associated with steatohepatitis and fibrosis; clofibrate, phentoxyfylline, ursodeoxycholic acid, and tocopherol, all of which are prescribed to relieve fat stress; and additional IgY targeted NPC1L1, tocotrienol, ursodeoxycholic acid, and \u03c9-3 polyunsaturated fatty acids, which are actively under investigation to confirm the safety of long-term use."
+    },
+    {
+     "pmid": "5080087",
+     "year": "1972",
+     "title": "Studies on the mechanism of inhibition of acute alcoholic fatty liver by clofibrate.",
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "humans": false,
+     "animals": true,
+     "abstract": ""
+    },
+    {
+     "pmid": "8675165",
+     "year": "1996",
+     "title": "Ursodeoxycholic acid or clofibrate in the treatment of non-alcohol-induced steatohepatitis: a pilot study.",
+     "pubtypes": [
+      "Comparative Study",
+      "Journal Article"
+     ],
+     "humans": true,
+     "animals": false,
+     "abstract": "Non-alcohol-induced steatohepatitis (NASH) is characterized by elevated serum aminotransferase activities with hepatic steatosis, inflammation, and occasionally fibrosis that may progress to cirrhosis. No established treatment exists for this potentially serious disorder. Our aim was to conduct a pilot study to evaluate the safety and estimate the efficacy of ursodeoxycholic acid (UDCA) and clofibrate in the treatment of NASH. Forty patients were diagnosed with NASH based on a compatible liver biopsy with other causes of liver disease, including alcohol abuse, excluded by history, serum tests, and use of ultrasound. Twenty-four patients received 13 to 15 mg/kg/d of UDCA for 12 months. Sixteen patients with hypertriglyceridemia were placed on clofibrate, 2 g/day for 12 months. Twenty-five women and 15 men entered the study. Six of 40 patients (15%) withdrew because of side effects. Four additional patients were withdrawn because of noncompliance; one of them later required liver transplantation. In the UDCA group, the decreases in mean serum levels of alkaline phosphatase, alanine transaminase (ALT), and gamma-glutamyl transpeptidase (GGT) as well as histological grade of steatosis were significant. Among the patients treated with clofibrate, no change from baseline was found in mean ALT, aspartate transaminase (AST), GGT, bilirubin, triglycerides, and cholesterol, or in histological grade of steatosis, inflammation, or fibrosis after 12 months of treatment as compared with entry. Alkaline phosphatase activities decreased significantly from baseline. Despite the known lipid-lowering effects of clofibrate, it did not appear to be of clinical benefit in the treatment of NASH in this 1-year pilot study. However, treatment of NASH with UDCA for 12 months resulted in significant improvement in alkaline phosphatase, ALT, GGT, and hepatic steatosis. The possible benefit of UDCA therapy should be further investigated in the context of a randomized, controlled trial."
+    },
+    {
+     "pmid": "40330554",
+     "year": "2025",
+     "title": "Elucidating the mechanistic relationships between peroxisome proliferator-activated receptors and hepatic fibrosis using the ROBOKOP knowledge graph.",
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "humans": false,
+     "animals": false,
+     "abstract": "We developed the Reasoning Over Biomedical Objects linked in Knowledge Oriented Pathways (ROBOKOP) application as an open-source knowledge graph system to support evidence-based biomedical discovery and hypothesis generation. This study aimed to apply ROBOKOP to suggest biological mechanisms that might explain the hypothesized relationship between exposure to the herbicide and lipid-lowering drug clofibrate, an activator of peroxisome proliferator-activated receptor-\u03b1 (PPARA), and hepatic fibrosis. We queried ROBOKOP to first establish that it could demonstrate a relationship between clofibrate and PPARA as a validation test and second to identify intermediary genes and biological processes or activities that might relate the activation of PPARA by clofibrate to hepatic fibrosis. Queries of ROBOKOP returned several paths relating clofibrate, PPARA, and hepatic fibrosis. One path suggested the following: clofibrate - affects / increases_ expression_ of / increases_ activity_ of / increases_ response_ to / decreases_ response_ to / is_ related_ to - PPARA - is_ actively_ involved_ in - cellular response to lipid - actively_ involves - CCL2 - is_ genetically_ associated_ with - hepatic fibrosis. This result established a relationship between clofibrate and PPARA and further suggested that PPARA is actively involved in the cellular response to lipids, which actively involves the chemokine ligand CCL2, a gene genetically associated with hepatic fibrosis; thus, we can infer that PPARA, upon activation by clofibrate, plays a role in hepatic fibrosis. We conclude that ROBOKOP can be used to derive insights into biological mechanisms that might explain relationships between environmental exposures and liver toxicity."
+    },
+    {
+     "pmid": "24098813",
+     "year": "2013",
+     "title": "Fatty liver is associated with transcriptional downregulation of stearoyl-CoA desaturase and impaired protein dimerization.",
+     "pubtypes": [
+      "Comparative Study",
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+     ],
+     "humans": false,
+     "animals": true,
+     "abstract": "We evaluated the modulation of liver stearoyl-CoA desaturase-1 (Scd1) by dietary factors and insulin resistance (IR) in two experimental models of high-fat diet (HFD)-induced nonalcoholic fatty liver disease (NAFLD). The first model included Sprague Dawley (SD) rats that developed NAFLD without IR, and the second one included a rat model of genetic IR and cardiovascular disease, the spontaneously hypertensive rats (SHR) and its normotensive, insulin-sensitive control Wistar-Kyoto (WKY). The adult rats were given standard chow diet (CD) or HFD for 10 weeks. In all the animals, we explored the hepatic Scd1 transcriptional activity and protein levels. HFD-fed rats of both strains developed severe NAFLD. Liver abundance of Scd1 mRNA was significantly decreased in HFD-fed rats regardless of the strain; SD-CD: 235\u00b1195 vs. SD-HFD 4.5\u00b12.9, p<0.0004, and SHR-CD: 75.6\u00b110.8 vs. SHR-HFD: 4.48\u00b117.4, and WKY-CD: 168.7\u00b117.4 vs. WKY-HFD: 12.9\u00b117.4, p<0.000001 (mean\u00b1SE, ANCOVA adjusted by HOMA). Analysis of liver Scd1 protein expression showed a particular pattern in the HFD groups, characterized by the presence of high levels of a monomeric protein band (32.2-36.6 Kda, p<0.003) and decreased levels of a dimeric protein band (61.9-66.1 Kda, p<0.02) regardless of the rat strain. Pharmacologic intervention with the peroxisome proliferator-activated receptor \u03b1 agonist clofibrate reverted the liver phenotype and significantly modified the hepatic Scd1 transcriptional activity and protein expression. Diet-induced fatty liver is associated with the downregulation of hepatic Scd1 transcript and de-dimerization of the protein, and these changes were not much affected by the status of peripheral IR."
+    },
+    {
+     "pmid": "18299183",
+     "year": "2008",
+     "title": "High concentrations of stavudine impair fatty acid oxidation without depleting mitochondrial DNA in cultured rat hepatocytes.",
+     "pubtypes": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+     ],
+     "humans": true,
+     "animals": true,
+     "abstract": "The antiretroviral nucleoside reverse-transcriptase inhibitor (NRTI) stavudine (d4T) can induce mild to severe liver injuries such as steatosis (i.e. triglyceride accumulation), steatohepatitis and liver failure. NRTI-induced toxicity has been ascribed to the inhibition of mitochondrial DNA (mtDNA) replication causing mtDNA depletion and respiratory chain dysfunction. This can secondarily impair the tricarboxylic acid cycle and fatty acid oxidation (FAO), thus leading to lactic acidosis and hepatic steatosis. However, NRTIs could also impair mitochondrial function and induce hepatic steatosis through other mechanisms. In this study, we sought to determine whether d4T could inhibit mitochondrial FAO and induce triglyceride accumulation through a mtDNA-independent mechanism. Since human tumoral and non-tumoral hepatic cell lines were unable to efficiently oxidize palmitic acid, the effects of d4T on mitochondrial FAO were assessed on cultured rat hepatocytes. Our results showed that 750 microM of d4T significantly inhibited palmitic acid oxidation after 48 or 72 h of culture, without inducing cell death. Importantly, high concentrations of zidovudine and zalcitabine (two other NRTIs that can induce hepatic steatosis), or beta-aminoisobutyric acid (a d4T metabolite), did not impair FAO in rat hepatocytes. D4T-induced FAO inhibition was observed without mtDNA depletion and lactate production, and was fully prevented with l-carnitine or clofibrate coincubation. l-carnitine also prevented the accretion of neutral lipids within rat hepatocytes. High concentrations of d4T were unable to inhibit FAO on freshly isolated liver mitochondria. Moreover, a microarray analysis was performed to clarify the mechanism whereby d4T can inhibit mitochondrial FAO and induce triglyceride accumulation in rat hepatocytes. The microarray data, confirmed by quantitative real-time PCR analysis, showed that d4T increased the expression of sterol regulatory element-binding protein-1c (SREBP1c) and reduced that of microsomal triglyceride transfer protein (MTP). Finally, d4T-induced alteration of SREBP1c and MTP expression was partially prevented by l-carnitine. Thus, short-term incubation with high concentrations of d4T can rapidly induce accumulation of neutral lipids within rat hepatocytes, which can be fully prevented by l-carnitine. Furthermore, our investigations suggested that lipid accumulation could be the consequence of a dual mechanism, namely a mtDNA-independent impairment of mitochondrial FAO and a reduction of lipid export from the hepatocytes."
+    },
+    {
+     "pmid": "4835600",
+     "year": "1974",
+     "title": "Production and prevention of fatty liver in rats fed clofibrate and orotic acid diets containing sucrose.",
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "humans": false,
+     "animals": true,
+     "abstract": ""
+    },
+    {
+     "pmid": "16400395",
+     "year": "2005",
+     "title": "[Hypolipidemic therapy in special situations: hypothyroidism and liver disease].",
+     "pubtypes": [
+      "English Abstract",
+      "Journal Article"
+     ],
+     "humans": true,
+     "animals": false,
+     "abstract": "Hypothyroidism is common in the elderly, especially among women. It should be suspected in the presence of classic signals and symptoms, and can be detected by an elevation of serum thyroid stimulating hormone (TSH). Lipid abnormalities in the presence of subclinical hypothyroidism are of minor importance. However, the importance of specific treatment (hormone replacement) increases with the magnitude of thyroid disturbance. Some hypolipidemic agents can aggravate prior liver disease, however, recent studies have shown that statins might be useful in the presence of steatohepatitis. Some associations of hypolipidemic drugs can increase liver enzymes, and careful monitoring is recommended."
+    },
+    {
+     "pmid": "32298755",
+     "year": "2020",
+     "title": "The offspring from rats fed a fatty diet display impairments in the activation of liver peroxisome proliferator activated receptor alpha and features of fatty liver disease.",
+     "pubtypes": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+     ],
+     "humans": false,
+     "animals": true,
+     "abstract": "Maternal obesity programs liver derangements similar to those of NAFLD. Our main goal was to evaluate whether these liver anomalies were related to aberrant PPAR\u03b1 function. Obesity was induced in female Albino-Wistar rats by a fatty diet (FD rats). Several parameters related to NAFLD were evaluated in both plasma and livers from fetuses of 21 days of gestation and 140-day-old offspring. FD fetuses and offspring developed increased levels of AST and ALT, signs of inflammation and oxidative and nitrative stress-related damage. FD offspring showed dysregulation of Plin2, CD36, Cyp4A, Aco, Cpt-1, Hadha and Acaa2 mRNA levels, genes involved in lipid metabolism and no catabolic effect of the PPAR\u03b1 agonist clofibrate. These results suggest that the FD offspring is prone to develop fatty liver, a susceptibility that can be linked to PPAR\u03b1 dysfunction, and that this could in turn be related to the liver impairments programmed by maternal obesity."
+    },
+    {
+     "pmid": "5009387",
+     "year": "1972",
+     "title": "Precursors of plasma triglyceride fatty acid in humans. Effects of glucose consumption, clofibrate administration, and alcoholic fatty liver.",
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "humans": true,
+     "animals": false,
+     "abstract": ""
+    },
+    {
+     "pmid": "32124935",
+     "year": "2020",
+     "title": "CYP4A11 is involved in the development of nonalcoholic fatty liver disease via ROS\u2011induced lipid peroxidation and inflammation.",
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "humans": true,
+     "animals": false,
+     "abstract": "Nonalcoholic fatty liver disease (NAFLD) is a fat metabolism disorder that occurs in liver cells. The development of NAFLD is considered to be associated with hepatic oxidative stress. The present study aimed to investigate the role of cytochrome P450 4A11 (CYP4A11) in the pathogenesis of NAFLD. The levels of plasma CYP4A11 and lipid peroxidation products levels exhibited a high correlation, and were increased significantly compared with those from normal subjects. Further in\u00a0vitro studies demonstrated that the expression levels of CYP4A11 and the content of reactive oxygen species (ROS) were increased in free fatty acid (FFA)\u2011stimulated HepG2 cells. Clofibrate, a CYP4A11 inducer, aggravated cell damage. Opposite results were observed for the CYP4A11 inhibitor HET0016, which attenuated apoptosis in FFA\u2011treated cells. Furthermore, CYP4A11 gene overexpression and silencing were used to investigate the effects on inflammatory cytokine secretion. The data demonstrated that CYP4A11 promoted an increase in the mRNA expression of tumor necrosis factor\u00a0\u03b1, interleukin (IL)\u20111\u03b2 and IL\u20116 in response to FFA. In addition, western blot analysis highlighted that CYP4A11 caused an upregulation of phosphorylated p65 levels and therefore affected the NF\u2011\u03baB signaling pathway. The data demonstrated that CYP4A11 may metabolize fatty acids to promote the production of ROS and accelerate the progression of NAFLD."
+    },
+    {
+     "pmid": "7406947",
+     "year": "1980",
+     "title": "Effects of p-chlorophenoxyisobutyric acid (CPIB) on the human liver.",
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "humans": true,
+     "animals": false,
+     "abstract": "Serial liver biopsies were carried out in 67 patients with HLP and/or fatty liver before, during short- and long-term therapy with CPIB and after termination of therapy. Results (1) Decrease of liver glycogen from 4.17% to 2.69% (wet weight, P less than 0.02). (2) Insignificant changes of liver triglyceride content. (3) Significant decrease of manganese, while the concentrations of zinc and copper in the liver biopsy specimens remained unchanged. (4) No signs of liver intoxication or cancerogeneous effects of light-microscopic pictures. (5) Significant increases in numbers of mitochondria and cristae as well as a hypertrophy of endoplasmic reticulum with longer lasting therapy. (6) Striking focal proliferation of cristae mitochondriales in 3 cases on longterm treatment. (7) Regression of the mitochondrial alterations after termination of the CPIB therapy. Our findings suggest that an increased number of mitochondria and of their inner membranes in the liver cells induced by CPIB could play an important role in the hypolipidemic action of the drug."
+    },
+    {
+     "pmid": "839735",
+     "year": "1977",
+     "title": "Reversal of orotic acid-induced fatty liver in rats by clofibrate.",
+     "pubtypes": [
+      "Journal Article",
+      "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "humans": false,
+     "animals": true,
+     "abstract": "The addition of 1 per cent orotic acid to a sucrose-enriched semipurified diet results in markedly fatty liver when fed to rats for 7 to 22 days. Light microscopy reveals lipid droplets, mostly small, distributed throughout the cytoplasm of all hepatocytes. Electron microscopy shows that all the endoplasmic reticulum (ER) is broken into vesicles. Within the interior (cisterna) of each vesicle one or more lipid droplets are present. Morphologic signs of normal lipid transport (ER to Golgi apparatus to space of Disse) disappear: the Golgi elements are flattened and lack very low density lipoproteins particles; the Golgi-derived secretory vacuoles are not present. Biochemical analyses show an increase in hepatic triacylglycerol levels, to approximately 8 times the levels of sucrose-fed controls by the 7th day, 18 times by the 15th day, and 25 times by the 22nd day. Hepatic cholesterol levels increase, 2- to 4-fold. Serum triacylglycerol levels fall markedly; serum cholesterol levels are reduced. Immunoelectrophoretic determinations show that the apoprotein B component of plasma lipoproteins is practically absent at 7 days and increases slightly at 22 days. Reversal of an orotic acid-induced fatty liver is achieved by adding ethyl chlorophenoxyisobutyrate (clofibrate or CPIB) to the diet. By 8 to 16 days the ER of the hepatocytes returns to its usual parallel configuration and lipid droplets are not seen within its cisternae. Morphologic features of normal lipid transport reappear. GERL becomes prominent, distended with small particles, interpreted as lipid undergoing degradation. Lipid-containing residual bodies are common. Peroxisomes are more numerous than in hepatocytes of control rats. Liver triacylglycerol levels approach sucrose-fed control levels, and serum triacylglycerol levels return to chow-fed control levels. Hepatic cholesterol levels are similar to those of sucrose-fed and chow-fed controls, whereas serum cholesterol levels are lower. Serum apoprotein B levels return to chow-fed control levels. A sequence of events terminating in the removal of lipid from the hepatocytes is suggested by observation of morphologic changes following chlorophenoxyisobutyrate administration. This appears to involve transport of lipid into the cytosol where it accumulates as large spheres. Extensive accumulations of smooth ER appear. The cytosol lipid then disappears as the rough ER develops. Peroxisomes and mitochondria are prominent during the reversal process."
+    },
+    {
+     "pmid": "10567467",
+     "year": "1999",
+     "title": "20 electron microscopic cytochemistry of peroxisomes in suppression of fatty liver by dehydroepiandrosterone-acetate, phenobarbital, and/or clofibrate.",
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "humans": false,
+     "animals": false,
+     "abstract": ""
+    },
+    {
+     "pmid": "18488193",
+     "year": "2008",
+     "title": "Drug metabolizing enzyme induction pathways in experimental non-alcoholic steatohepatitis.",
+     "pubtypes": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+     ],
+     "humans": false,
+     "animals": true,
+     "abstract": "Non-alcoholic steatohepatitis (NASH) is a disease that compromises hepatic function and the capacity to metabolize numerous drugs. Aryl hydrocarbon receptor (AhR), constitutive androstane receptor (CAR), pregnane X receptor (PXR), peroxisome proliferator-activated receptor alpha (PPARalpha), and nuclear factor-E2 related factor 2 (Nrf2) are xenobiotic activated transcription factors that regulate induction of a number of drug metabolizing enzymes (DMEs). The purpose of the current study was to determine whether experimental NASH alters the xenobiotic activation of these transcription factors and induction of downstream DME targets Cyp1A1, Cyp2B10, Cyp3A11, Cyp4A14 and NAD(P)H:quinone oxidoreductase 1 (Nqo1), respectively. Mice fed normal rodent chow or methionine-choline-deficient (MCD) diet for 8 weeks were then treated with microsomal enzyme inducers beta-naphoflavone (BNF), 1,4-bis-[2-(3,5-dichloropyridyloxy)] benzene (TCPOBOP), pregnenolone-16alpha-carbonitrile (PCN), clofibrate (CFB) or oltipraz (OPZ), known activators of AhR, CAR, PXR, PPARalpha and Nrf2, respectively. Results of this study show that (1) Hepatic PXR mRNA levels were significantly increased (1.4-fold) in mice fed MCD diet, while AhR, CAR, PPARalpha and Nrf2 were not affected. (2) The MCD diet did not alter hepatic inducibility of Cyp1A1, Cyp2B10, Cyp3A11 mRNA levels by their respective microsomal inducers. (3) Constitutive levels of Cyp4A14 mRNA were significantly increased in mice fed the MCD diet, yet further induction by clofibrate was not observed. (4) Hepatic Nqo1 mRNA levels were significantly increased by the MCD diet; however, additional induction of Nqo1 was still achievable following treatment with the Nrf2 activator OPZ."
+    },
+    {
+     "pmid": "18188449",
+     "year": "2008",
+     "title": "PPARalpha activation is essential for HCV core protein-induced hepatic steatosis and hepatocellular carcinoma in mice.",
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "humans": false,
+     "animals": true,
+     "abstract": "Transgenic mice expressing HCV core protein develop hepatic steatosis and hepatocellular carcinoma (HCC), but the mechanism underlying this process remains unclear. Because PPARalpha is a central regulator of triglyceride homeostasis and mediates hepatocarcinogenesis in rodents, we determined whether PPARalpha contributes to HCV core protein-induced diseases. We generated PPARalpha-homozygous, -heterozygous, and -null mice with liver-specific transgenic expression of the core protein gene (Ppara(+/+):HCVcpTg, Ppara(+/-):HCVcpTg, and Ppara(-/-):HCVcpTg mice. Severe steatosis was unexpectedly observed only in Ppara(+/+):HCVcpTg mice, which resulted from enhanced fatty acid uptake and decreased mitochondrial beta-oxidation due to breakdown of mitochondrial outer membranes. Interestingly, HCC developed in approximately 35% of 24-month-old Ppara(+/+):HCVcpTg mice, but tumors were not observed in the other genotypes. These phenomena were found to be closely associated with sustained PPARalpha activation. In Ppara(+/-):HCVcpTg mice, PPARalpha activation and the related changes did not occur despite the presence of a functional Ppara allele. However, long-term treatment of these mice with clofibrate, a PPARalpha activator, induced HCC with mitochondrial abnormalities and hepatic steatosis. Thus, our results indicate that persistent activation of PPARalpha is essential for the pathogenesis of hepatic steatosis and HCC induced by HCV infection."
+    },
+    {
+     "pmid": "15200495",
+     "year": "2004",
+     "title": "Ligand-induced expression of peroxisome proliferator-activated receptor alpha and activation of fatty acid oxidation enzymes in fatty liver.",
+     "pubtypes": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+     ],
+     "humans": false,
+     "animals": true,
+     "abstract": "Peroxisome proliferator-activated receptor alpha (PPARalpha) regulates lipid metabolism upon activation by ligands. Peroxisome proliferator-activated receptor alpha may play a role in the pathogenesis of fatty liver disease. The aim of this study was to assess the PPARalpha expression pattern and mitochondrial/peroxisomal enzyme activities in response to high fat diet (HFD) and clofibrate, a well known PPARalpha ligand. Four groups of Wistar-Albino rats were included: (1) rats fed a control diet (CD) for 6 weeks, (2) rats fed CD (6 weeks) plus clofibrate (last 2 weeks), (3) rats fed HFD for 6 weeks, and (4) rats fed HFD (6 weeks) plus clofibrate (last 2 weeks). Peroxisome proliferator-activated receptor alpha expression was evaluated by immunohistochemistry. Fatty acid beta-oxidation (peroxisomal-acyl-CoA-oxidase and mitochondrial-acyl-CoA-dehydrogenase) and catalase enzyme activities, and malondialdehyde and glutathion levels were measured spectrophotometrically in liver tissues. All animals were fed HFD but only 2/12 animals were fed HFD plus clofibrate-developed fatty liver. Both HFD and clofibrate induced PPARalpha expression, clofibrate induction being more prominent than HFD. Clofibrate plus HFD did not further increase PPARalpha expression. Activities of peroxisomal-acyl-CoA-oxidase and mitochondrial-acyl-CoA-dehydrogenase enzymes were not induced by HFD alone. Clofibrate increased the activity of these enzymes in both CD- and HFD-fed animals. However, an increase of acyl-CoA-oxidase activity was blunted in rats fed HFD. Catalase activity and malondialdehyde levels were increased but glutathion levels were unchanged in rats fed HFD plus clofibrate. Clofibrate was a more potent inducer of PPARalpha expression than HFD in our rat fatty liver model. The finding of blunted peroxisomal enzyme response to clofibrate in fatty livers suggests that alterations in postreceptor events may exist and further contribute to liver steatosis. Clofibrate seems to stabilize glutathion content and this might contribute to the prevention of liver steatosis."
+    },
+    {
+     "pmid": "3240333",
+     "year": "1988",
+     "title": "Effects of ciprofibrate and fenofibrate on liver lipids and lipoprotein synthesis in normo- and hyperlipidemic rats.",
+     "pubtypes": [
+      "Comparative Study",
+      "Journal Article"
+     ],
+     "humans": false,
+     "animals": true,
+     "abstract": "The plasma lipoprotein and liver lipid composition, and the lipid, cholesterol and apolipoprotein synthesis have been studied in normal and diet-induced hyperlipidemic rats, receiving ciprofibrate (2.5 mg/kg body weight) or fenofibrate (50 mg/kg b.w.) for 8 days. Ciprofibrate is about 25-fold more active than fenofibrate in reducing plasma triglyceride and cholesterol concentrations both in normolipemic and in hyperlipemic rats. In normolipemic rats ciprofibrate reduced the concentration and the lipid content of all lipoprotein classes. The incorporation of [14C]palmitate and [3H]leucine into the lipoproteins was reduced by ciprofibrate and fenofibrate. The reduction in lipoprotein production was confirmed by prevention of Triton-induced hyperlipemia. Liver and plasma cholesterol synthesis estimated by 3H2O and [14C]mevalonate incorporation indicated an inhibitory effect on HMG-CoA reductase. Administration of ciprofibrate or fenofibrate to rats fed a fat and cholesterol-rich diet partially prevented liver steatosis and hyperlipemia. Both drugs reduced the overproduction of lower density lipoproteins. The ratio of (VLDL + LDL)-cholesterol/HDL-cholesterol which was increased by the diet alone from 0.4 (normal) to 11 remained close to the normal value in the animals receiving ciprofibrate. In the hyperlipemic animals, ciprofibrate reduced the incorporation of [3H]oleate into the liver and plasma glycerolipid and increased cholesterol esterification. Ciprofibrate efficiently reduces plasma levels of cholesterol, triglyceride and phospholipid. Cholesterol and glycerolipid synthesis in the liver were significantly reduced leading to a lower lipoprotein secretion rate in both normolipidemic and diet-induced hyperlipidemic rats."
+    },
+    {
+     "pmid": "5034198",
+     "year": "1972",
+     "title": "A comparison of hypolipidemic drugs in the prevention of an orotic acid fatty liver.",
+     "pubtypes": [
+      "Comparative Study",
+      "Journal Article"
+     ],
+     "humans": false,
+     "animals": true,
+     "abstract": ""
+    },
+    {
+     "pmid": "26621169",
+     "year": "2015",
+     "title": "Effects of tomato pulp on hepatic steatosis in the rats fed with high fat diet.",
+     "pubtypes": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+     ],
+     "humans": false,
+     "animals": true,
+     "abstract": "Hepatic steatosis is one of the most common causes of chronic liver injury. This study was aimed to evaluate the protective effects of Solanumlycopersicum (tomato) pulp on high fat diet-induced hepatic steatosis in rats. Male Wistar rats were treated in 4 experimental groups including: healthy control group given standard diet, high fat diet group for induction of hepatic steatosis, high fat diet plus Clofibrate as positive control, and high fat diet plus tomato pulp for protection of liver steatosis. Finally, the groups were compared considering serum lipid profile, serum biomarkers of liver tissue injury and liver histopathological changes. The lipid peroxidation product and the activities of antioxidant enzymes were measured as the indicators of antioxidation in liver. Rats fed with the high fat diet showed hypertriglyceridemia, hypercholesterolemia, increased activities of hepatocellular enzymes, significant decline in antioxidants, and elevated lipid peroxidation indices in liver. Tomato pulp treatment significantly reduced elevated markers of liver injury and malondialdehyde level, as well as brought back the liver antioxidants and the excessive accumulation of lipids in serum towards normal. The results showed that tomato pulp exerted protective effects against hepatic steatosis in rats fed with high fat diet, possibly through its antioxidant actions (Tab. 5, Fig. 2, Ref. 40)."
+    },
+    {
+     "pmid": "7288287",
+     "year": "1981",
+     "title": "Circadian variation of 3-hydroxy-3-methylglutaryl coenzyme A reductase activity in swine liver and ileum.",
+     "pubtypes": [
+      "Journal Article",
+      "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "humans": false,
+     "animals": true,
+     "abstract": "The temporal variation of HMG-CoA reductase activity in the liver and intestine of swine was investigated. The thin-layer chromatographic method widely used in the assay of the reductase was successfully applied to the porcine enzymes. Parallel circadian rhythms were demonstrated in both hepatic and ileal reductases from mash-fed animals. Peak activity occurred approximately 6 hr after feeding, 2.7-fold over the basal level in the liver, and 1.6-fold in the ileum. A milk-cholesterol diet caused a marked depression of both rhythms (90% in liver, 50% in ileum); however, the hourly variation in activity persisted in both organs. Cholestyramine was found to elevate hepatic activity (2.7-fold throughout the rhythm) without affecting that of the intestine. Clofibrate had no effect on either enzyme at any time during the cycle despite a 34% reduction in serum cholesterol concentrations."
+    },
+    {
+     "pmid": "24983671",
+     "year": "2014",
+     "title": "Inhibition of CYP4A reduces hepatic endoplasmic reticulum stress and features of diabetes in mice.",
+     "pubtypes": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+     ],
+     "humans": true,
+     "animals": true,
+     "abstract": "Endoplasmic reticulum (ER) stress is implicated in the development of type 2 diabetes mellitus. ER stress activates the unfolded protein response pathway, which contributes to apoptosis and insulin resistance. We investigated the roles of cytochrome P450 4A (CYP4A) in the regulation of hepatic ER stress, insulin resistance, and the development of diabetes in mice. We used mass spectrometry to compare levels of CYP450 proteins in livers from C57BL/6J and C57BL/KsJ-db/db (db/db) mice; findings were confirmed by immunoblot and real-time PCR analyses.\u00a0To create a model of diet-induced diabetes, C57BL/6J mice were placed on high-fat diets. Mice were given intraperitoneal injections of an inhibitor (HET0016) or an inducer (clofibrate) of CYP4A, or tail injections of small hairpin RNAs against CYP4A messenger RNA; liver tissues were collected and analyzed for ER stress, insulin resistance, and apoptosis. The effect of HET0016 and CYP4A knockdown also were analyzed in HepG2 cells. Levels of the CYP4A isoforms were highly up-regulated in livers of db/db mice compared with C57BL/6J mice. Inhibition of CYP4A in db/db and mice on high-fat diets reduced features of diabetes such as insulin hypersecretion, hepatic steatosis, and increased glucose tolerance. CYP4A inhibition reduced levels of ER stress, insulin resistance, and apoptosis in the livers of diabetic mice; it also restored hepatic functions. Inversely, induction of CYP4A accelerated ER stress, insulin resistance, and apoptosis in livers of db/db mice. CYP4A proteins are up-regulated in livers of mice with genetically induced and diet-induced diabetes. Inhibition of CYP4A in mice reduces hepatic ER stress, apoptosis, insulin resistance, and steatosis. Strategies to reduce levels or activity of CYP4A proteins in liver might be developed for treatment of patients with type 2 diabetes."
+    },
+    {
+     "pmid": "20682321",
+     "year": "2010",
+     "title": "Stress signaling in the methionine-choline-deficient model of murine fatty liver disease.",
+     "pubtypes": [
+      "Comparative Study",
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+     ],
+     "humans": false,
+     "animals": true,
+     "abstract": "Stress signaling, both within and outside the endoplasmic reticulum, has been linked to metabolic dysregulation and hepatic steatosis. Methionine-choline-deficient (MCD) diets cause severe fatty liver disease and have the potential to cause many types of cellular stress. The purpose of this study was to characterize hepatic stress in MCD-fed mice and explore the relationship between MCD-mediated stress and liver injury. Stress signaling was examined in mice fed MCD formulas for 4-21 days. Signaling also was evaluated in mice fed MCD formulas supplemented with clofibrate, which inhibits hepatic triglyceride accumulation. The role of the pro-apoptotic stress protein C/EBP homologous protein (CHOP) in MCD-mediated liver injury was assessed by comparing the responses of wild-type and CHOP-deficient mice to an MCD diet. MCD feeding caused steatohepatitis coincident with the activation of cJun N-terminal kinase and caspase-12. In contrast, MCD feeding did not activate inositol-requiring protein-1 and actually suppressed the expression of X-box protein-1s. MCD feeding caused weak stimulation of double-stranded RNA-activated protein kinase-like endoplasmic reticulum-resident kinase, but robust activation of general control nonderepressible-2, followed by the phosphorylation of eukaryotic initiating factor-2\u03b1 and induction of CHOP. Clofibrate eliminated MCD-mediated hepatic steatosis but did not inhibit diet-induced stress. CHOP deficiency did not alleviate, and in fact worsened, MCD-mediated liver disease. MCD feeding causes an integrated stress response in the liver rather than a classic unfolded protein response. This stress response does not by itself lead to liver injury. CHOP, despite its identity as a mediator of stress-related cell death, does not play a central role in the pathogenesis of MCD-mediated liver disease."
+    },
+    {
+     "pmid": "10067169",
+     "year": "1998",
+     "title": "Preventive effects of dehydroepiandrosterone acetate on the fatty liver induced by orotic acid in male rats.",
+     "pubtypes": [
+      "Comparative Study",
+      "Journal Article"
+     ],
+     "humans": false,
+     "animals": true,
+     "abstract": "Preventive effects of dehydroepiandrosteone acetate (DHEA-A) and clofibrate (positive control substance) on the fatty liver induced by orotic acid (OA) were examined on the male Sprague-Dawley rats fed a high sucrose based diet containing 1% OA and this diet further mixed with 0.5% DHEA-A or 0.5% clofibrate for 2 weeks. Numerous lipid droplets were observed in the hepatocytes of the rats treated with OA alone, but not in those treated with DHEA-A or clofibrate. In comparison to the group with OA alone, the DHEA-A or clofibrate treated rats showed a larger relative liver weight (to body weight) which was accompanied by increased peroxisomes in the hepatocytes. These results indicate that DHEA-A, as well as clofibrate, may prevent OA-induced fatty liver."
+    },
+    {
+     "pmid": "17967931",
+     "year": "2008",
+     "title": "Expression of hepatic UDP-glucuronosyltransferase 1A1 and 1A6 correlated with increased expression of the nuclear constitutive androstane receptor and peroxisome proliferator-activated receptor alpha in male rats fed a high-fat and high-sucrose diet.",
+     "pubtypes": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+     ],
+     "humans": false,
+     "animals": true,
+     "abstract": "Rats that consumed a high-fat and high-sucrose (HF1) diet or a high-fat (HF2) diet developed hepatic steatosis. The alteration in nutritional status affected hepatic cytochrome P450 and UDP-glucuronosyltransferase (UGT) levels. Messenger RNA and protein levels of UGT1A1 and UGT1A6 in the liver but not the jejunum were increased in male rats fed the HF1 diet. These protein levels did not increase in HF2-fed male rats or HF1-fed female rats. In contrast, the CYP1A2 protein level was decreased in the HF1 but not HF2 diet group, whereas CYP2E1 and CYP4A protein levels were elevated in the HF2 but not HF1 diet group. No significant difference in the organic anion transporter polypeptide (Oatp) 1, Oatp2, multidrug resistance-associated protein (Mrp) 2, or Mrp3 protein levels was found between the standard and HF1 diet groups of male rats. Consumption of the HF1 diet affected the in vivo metabolism of acetaminophen (APAP) such that the area under the APAP-glucuronide plasma concentration-time curve was elevated 2.1-fold in male rats but not female rats. In liver cell nuclei of male rats but not female rats, constitutive androstane receptor (CAR) and proliferator-activated receptor alpha (PPARalpha) protein levels were significantly enhanced by intake of the HF1 diet. Additionally, administration of the PPARalpha agonist clofibrate to male rats up-regulated UGT1A1 and UGT1A6 and down-regulated CYP1A2 in the liver. Taken together, these results indicate that nutritional status may gender-specifically influence the expression and activation of CAR and PPARalpha in liver cell nuclei, and this effect appears to be associated with alterations in UGT1A1 and UGT1A6 expression."
+    },
+    {
+     "pmid": "15016835",
+     "year": "2004",
+     "title": "Alcoholic liver injury in the rat is associated with reduced expression of peroxisome proliferator-alpha (PPARalpha)-regulated genes and is ameliorated by PPARalpha activation.",
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "humans": false,
+     "animals": true,
+     "abstract": "Alcoholic liver disease is associated with a state of hepatic fatty acid overload. We examined the effect of ethanol and different types of dietary fat on the expression of mRNA for liver fatty acid binding protein (L-FABP), peroxisome proliferator-activated receptor-alpha (PPARalpha), and peroxisomal fatty acyl CoA oxidase (FACO). Four groups of rats (n = 5) were fed intragastrically, a liquid diet with or without ethanol (10-16 g/kg/day) for 4 weeks. Pair-fed controls received isocaloric amounts of dextrose. The source of fat was either corn oil or fish oil. Ethanolfed rats developed fatty liver, necrosis, and inflammation; the changes were more severe in the fish oil-ethanol (FE) rats. PPARalpha mRNA levels were not different between groups, although there was a trend toward increased levels in ethanol-fed rats. We calculated L-FABP/PPARalpha and FACO/PPARalpha ratios as a measure of FACO and L-FABP up-regulation relative to PPARalpha expression. Both FACO/PPARalpha and L-FABP/PPARalpha ratios were significantly decreased in FE rats. However, only L-FABP/PPARalpha was decreased in corn oil plus ethanol rats. Also, the level of L-FABP/mRNA correlated inversely with the degree of fatty liver in ethanol-fed rats. Since expression of PPARalpha response genes was impaired in ethanol-fed rats, we determined whether activation of PPARalpha would normalize the PPARalpha response and prevent the pathological changes in ethanol-fed rats. Treatment with clofibrate, a PPARalpha-activating ligand, led to a marked decrease in fatty liver and complete abrogation of necroinflammatory changes in FE rats. Also, nuclear factor kappaB activation and up-regulation of tumor necrosis factor-alpha and cyclooxygenase-2 was also abolished in clofibrate-treated rats. We conclude that adaptive gene regulation of FACO and L-FABP by PPARalpha is impaired in ethanol-fed rats and that treatment with clofibrate, a PPARalpha ligand, prevents alcohol-induced pathological liver injury, possibly by reversing the above changes."
+    },
+    {
+     "pmid": "18501395",
+     "year": "2008",
+     "title": "Nonalcoholic steatohepatitic (NASH) mice are protected from higher hepatotoxicity of acetaminophen upon induction of PPARalpha with clofibrate.",
+     "pubtypes": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+     ],
+     "humans": false,
+     "animals": true,
+     "abstract": "The objective was to investigate if the hepatotoxic sensitivity in nonalcoholic steatohepatitic mice to acetaminophen (APAP) is due to downregulation of nuclear receptor PPARalpha via lower cell division and tissue repair. Male Swiss Webster mice fed methionine and choline deficient diet for 31 days exhibited NASH. On the 32nd day, a marginally toxic dose of APAP (360 mg/kg, ip) yielded 70% mortality in steatohepatitic mice, while all non steatohepatitic mice receiving the same dose survived. (14)C-APAP covalent binding, CYP2E1 protein, and enzyme activity did not differ from the controls, obviating increased APAP bioactivation as the cause of amplified APAP hepatotoxicity. Liver injury progressed only in steatohepatitic livers between 6 and 24 h. Cell division and tissue repair assessed by (3)H-thymidine incorporation and PCNA were inhibited only in the steatohepatitic mice given APAP suggesting that higher sensitivity of NASH liver to APAP-induced hepatotoxicity was due to lower tissue repair. The hypothesis that impeded liver tissue repair in steatohepatitic mice was due to downregulation of PPARalpha was tested. PPARalpha was downregulated in NASH. To investigate whether downregulation of PPARalpha in NASH is the critical mechanism of compromised liver tissue repair, PPARalpha was induced in steatohepatitic mice with clofibrate (250 mg/kg for 3 days, ip) before injecting APAP. All clofibrate pretreated steatohepatitic mice receiving APAP exhibited lower liver injury, which did not progress and the mice survived. The protection was not due to lower bioactivation of APAP but due to higher liver tissue repair. These findings suggest that inadequate PPARalpha expression in steatohepatitic mice sensitizes them to APAP hepatotoxicity."
+    },
+    {
+     "pmid": "4070342",
+     "year": "1985",
+     "title": "Effect of the antilipolytic compound acipimox on peroxisome marker enzymes, lipid pattern and biotransformation related functions in rat liver.",
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "humans": false,
+     "animals": true,
+     "abstract": "The antilipolytic drug acipimox (5-methylpyrazine-2-carboxylic acid 4-oxide) was given to male rats for 1 week at 500, 1000 and 2000 mg/kg/day and for 2, 6 and 7 months at 20, 100 and 500 mg/kg/day. The peroxisome proliferative effect was evaluated determining the activity of catalase and carnitine acetyltransferase, the rate of cyanide-insensitive palmitoyl CoA oxidation and the electrophoretic profile of liver polypeptides. Hepatic lipid content and distribution were evaluated after 2 and 6 months' treatment. The effect on liver detoxificating function was evaluated by assaying glutathione, cytochrome P-450, glutathione-S-transferase and glutathione-reductase activities after 7 months' treatment. Sub-acute and chronic treatment with a wide range of acipimox doses did not cause hepatomegaly, liver peroxisome proliferation or liver steatosis and did not change some important biochemical variables related to detoxification and biotransformation mechanisms. Acipimox given to rats does not have the negative side-effects of other compounds and seems a safe blood lipid lowering drug."
+    },
+    {
+     "pmid": "4411261",
+     "year": "1974",
+     "title": "[Therapy of fatty liver].",
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "humans": true,
+     "animals": false,
+     "abstract": ""
+    }
+   ]
+  },
+  "DB959": {
+   "query": "((\"db959\")[tiab]) AND (NAFLD[tiab] OR NASH[tiab] OR MASLD[tiab] OR MASH[tiab] OR \"fatty liver\"[tiab] OR steatohepatitis[tiab] OR \"liver fibrosis\"[tiab] OR \"hepatic fibrosis\"[tiab] OR \"liver steatosis\"[tiab] OR \"hepatic steatosis\"[tiab])",
+   "count": 0,
+   "returned": 0,
+   "records": []
+  },
+  "EFATUTAZONE": {
+   "query": "(((efatutazone[tiab]) OR (CS-7017[tiab]))) AND (NAFLD[tiab] OR NASH[tiab] OR MASLD[tiab] OR MASH[tiab] OR \"fatty liver\"[tiab] OR steatohepatitis[tiab] OR \"liver fibrosis\"[tiab] OR \"hepatic fibrosis\"[tiab] OR \"liver steatosis\"[tiab] OR \"hepatic steatosis\"[tiab])",
+   "count": 0,
+   "returned": 0,
+   "records": []
+  },
+  "ETALOCIB": {
+   "query": "((\"etalocib\")[tiab]) AND (NAFLD[tiab] OR NASH[tiab] OR MASLD[tiab] OR MASH[tiab] OR \"fatty liver\"[tiab] OR steatohepatitis[tiab] OR \"liver fibrosis\"[tiab] OR \"hepatic fibrosis\"[tiab] OR \"liver steatosis\"[tiab] OR \"hepatic steatosis\"[tiab])",
+   "count": 0,
+   "returned": 0,
+   "records": []
+  },
+  "GOLIMUMAB": {
+   "query": "((\"golimumab\")[tiab]) AND (NAFLD[tiab] OR NASH[tiab] OR MASLD[tiab] OR MASH[tiab] OR \"fatty liver\"[tiab] OR steatohepatitis[tiab] OR \"liver fibrosis\"[tiab] OR \"hepatic fibrosis\"[tiab] OR \"liver steatosis\"[tiab] OR \"hepatic steatosis\"[tiab])",
+   "count": 3,
+   "returned": 3,
+   "records": [
+    {
+     "pmid": "30060508",
+     "year": "2018",
+     "title": "Harmful Effects and Potential Benefits of Anti-Tumor Necrosis Factor (TNF)-\u03b1 on the Liver.",
+     "pubtypes": [
+      "Journal Article",
+      "Review"
+     ],
+     "humans": true,
+     "animals": true,
+     "abstract": "Anti-tumor necrosis factor (TNF)-\u03b1 agents represent an effective treatment for chronic inflammatory diseases. However, some concerns about their potentially undesirable effects on liver function have been reported. On the other hand, evidence of their therapeutic effects on certain liver diseases is accumulating. Many data showed the safety of anti-TNF-\u03b1 in patients with chronic hepatitis B and C and in liver transplanted patients even if a strict follow-up and prophylaxis are recommended in well-defined subgroups. On the other side, anti-TNF-\u03b1-induced liver injury is not a rare event. However, it is often reversible after anti-TNF-\u03b1 withdrawal. Anti-TNF-\u03b1 agents have been tested in advanced stages of severe alcoholic hepatitis and non-alcoholic fatty liver disease. Limited data on the efficacy of anti-TNF-\u03b1 in patients with autoimmune hepatitis and primary biliary cholangitis are also available. In this review, we explored the hepatic safety concerns in patients receiving anti-TNF-\u03b1 agents with and without pre-existent hepatic diseases. In addition, the available evidence on their potential benefits in the treatment of specific hepatic diseases is discussed."
+    },
+    {
+     "pmid": "32377366",
+     "year": "2020",
+     "title": "Antitumour necrosis factor-\u03b1 agents and development of new-onset cirrhosis or non-alcoholic fatty liver disease: a retrospective cohort.",
+     "pubtypes": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+     ],
+     "humans": true,
+     "animals": false,
+     "abstract": "Elevated tumour necrosis factor (TNF)-\u03b1 has been implicated in the progression of liver fibrosis and pathogenesis of non-alcoholic fatty liver disease (NAFLD). We aim to investigate the impact of anti-TNF-\u03b1 agents on the development of cirrhosis and NAFLD. This retrospective cohort study used a US claims database between 1 January 2010 and 31 December 2016. We identified adult patients with ankylosing spondylitis, inflammatory bowel disease, psoriatic arthritis or rheumatoid arthritis. Anti-TNF-\u03b1 agents of interest included adalimumab, certolizumab, etanercept, golimumab and infliximab. The primary composite outcome was the development of new-onset cirrhosis, NAFLD or non-alcoholic steatohepatitis (NASH). The secondary outcomes were the development of (1) cirrhosis and (2) NAFLD or NASH. Propensity score for anti-TNF-\u03b1 agent use was generated by logistic regression. Cox proportional hazard models adjusting for the propensity score were used with regard to time-varying anti-TNF-\u03b1 agent exposure. This study included 226\u2009555 incident patients with immune-related diseases. During the median 1.5 years follow-up, there was an increased hazard with anti-TNF-\u03b1 agent use in regard to liver outcomes (composite outcome HR: 1.47, 95%\u2009CI 1.27 to 1.70; cirrhosis HR 1.47, 95%\u2009CI 0.96 to 2.23; NAFLD or NASH HR 1.53, 95%\u2009CI 1.32 to 1.77). The composite outcome hazard was increased for each immune-related disease (HR 1.25-1.90). In the short term, we did not observe a beneficial effect of anti-TNF-\u03b1 agent use for development of cirrhosis, NAFLD or NASH in patients with immune-related diseases."
+    },
+    {
+     "pmid": "31474792",
+     "year": "2019",
+     "title": "High prevalence of non-alcoholic fatty liver disease in patients with inflammatory bowel disease receiving anti-tumor necrosis factor therapy.",
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "humans": false,
+     "animals": false,
+     "abstract": "Non-alcoholic fatty liver disease (NAFLD) is common in patients with inflammatory bowel disease (IBD). This study evaluated the prevalence of NAFLD and the associated risk factors among IBD patients who received anti-tumor necrosis factor (TNF) therapy. Adult IBD patients receiving anti-TNF therapy (infliximab, adalimumab, certolizumab, golimumab) were enrolled. Hepatic steatosis was assessed by abdominal ultrasound. Patients with a history of excessive alcohol or recent steroid use were excluded. Univariate and multivariate analysis were performed. Eighty patients, 55% male, mean age 42\u00b115 years, were enrolled. The sonographic prevalence of NAFLD was 54% (43/80), significantly higher than the general prevalence in the US adult population (30%) (P<0.0001). NAFLD patients had a significantly higher proportion of males, as well as greater body weight and body mass index, compared to non-NAFLD. The Crohns disease activity index (CDAI) was significantly higher among patients with NAFLD. Multivariate analysis demonstrated that a higher CDAI was independently associated with NAFLD, with an odds ratio of 1.6 (95% confidence interval 1.05-2.44; P=0.03). The presence of IBD is strongly associated with NAFLD. We identified a high prevalence of NAFLD among IBD patients receiving anti-TNF. CDAI was independently associated with hepatic steatosis. Further studies are still needed to evaluate the pathophysiology of NAFLD development and disease progression among IBD populations."
+    }
+   ]
+  },
+  "INT131": {
+   "query": "((\"INT131\")[tiab]) AND (NAFLD[tiab] OR NASH[tiab] OR MASLD[tiab] OR MASH[tiab] OR \"fatty liver\"[tiab] OR steatohepatitis[tiab] OR \"liver fibrosis\"[tiab] OR \"hepatic fibrosis\"[tiab] OR \"liver steatosis\"[tiab] OR \"hepatic steatosis\"[tiab])",
+   "count": 3,
+   "returned": 3,
+   "records": [
+    {
+     "pmid": "28611668",
+     "year": "2017",
+     "title": "Selective Tissue Distribution Mediates Tissue-Dependent PPAR\u03b3 Activation and Insulin Sensitization by INT131, a Selective PPAR\u03b3 Modulator.",
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "humans": false,
+     "animals": false,
+     "abstract": "The mechanisms underlying the enhancement of insulin sensitivity by selective peroxisome proliferator-activated receptor \u03b3 modulators (sPPAR\u03b3Ms) are still not completely known. Here, the representative sPPAR\u03b3M, INT131, was used as a probe to investigate the insulin-sensitizing mechanisms of sPPAR\u03b3M in the context of tissue selective compound distribution and PPAR\u03b3 regulation. First, 30 mg kg-1 INT131 was observed to produce an insulin-sensitizing effect comparable to that of 10 mg kg-1 rosiglitazone (RSG) in both db/db and DIO mice using the oral glucose and insulin tolerance tests. Similar to RSG, INT131 significantly increased brown adipose tissue (BAT) mass and adipocyte size and up-regulated the expression of BAT-specific genes. Compared with RSG, INT131 exhibited greater potency in inducing white adipose tissue (WAT) browning, decreasing adipocyte size, and increasing BAT-specific and function-related gene expression in subcutaneous WAT (sWAT). However, it did not induce hepatomegaly or hepatic steatosis, which is associated with lower levels of lipogenic genes expression. Pharmacokinetic analysis reveals that in contrast with RSG, INT131 shows higher Cmax, and much longer residency time (AUC0-12h), as well relatively lower elimination rate in adipose tissues and skeletal muscle, this demonstrated INT131 distributed predominantly in adipose tissue. Whereas, INT131 was less abundant in the liver. These results thus suggest that the tissue-selective distribution underlies INT131's selective PPAR\u03b3 modulation. Compounds favoring adipose tissue may aid in development of better, safer sPPAR\u03b3M to address the insulin resistance of diabetes."
+    },
+    {
+     "pmid": "32151660",
+     "year": "2020",
+     "title": "Current and emerging pharmacological options for the treatment of nonalcoholic steatohepatitis.",
+     "pubtypes": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Review"
+     ],
+     "humans": true,
+     "animals": true,
+     "abstract": "Nonalcoholic fatty liver disease (NAFLD) is a highly prevalent disease and important unmet medical need. Current guidelines recommend, under specific restrictions, pioglitazone or vitamin E in patients with NASH and significant fibrosis, but the use of both remains off-label. We summarize evidence on medications for the treatment of nonalcoholic steatohepatitis (NASH), since NASH has been mainly associated with higher morbidity and mortality. Some of these medications are currently in phase 3 clinical trials, including obeticholic acid (a farnesoid X receptor agonist), elafibranor (a peroxisome proliferator activated receptor [PPAR]-\u03b1/\u03b4 dual agonist), cenicriviroc (a CC chemokine receptor antagonist), MSDC-0602\u202fK (a PPAR sparing modulator), selonsertib (an apoptosis signal-regulating kinase-1 inhibitor) and resmetirom (a thyroid hormone receptor agonist). A significant research effort is also targeting PPARs and selective PPAR modulators, including INT131 and pemafibrate, with the expectation that novel drugs may have beneficial effects similar to those of pioglitazone, but without the associated adverse effects. Whether these and other medications could offer tangible therapeutic benefits, alone or in combination, apparently on a background of lifestyle modification, i.e. exercise and a healthy dietary pattern (e.g. Mediterranean diet) remain to be proven. In conclusion, major advances are expected for the treatment of NASH."
+    },
+    {
+     "pmid": "24428677",
+     "year": "2014",
+     "title": "New peroxisome proliferator-activated receptor agonists: potential treatments for atherogenic dyslipidemia and non-alcoholic fatty liver disease.",
+     "pubtypes": [
+      "Journal Article",
+      "Review"
+     ],
+     "humans": true,
+     "animals": true,
+     "abstract": "Novel peroxisome proliferator-activated receptor (PPAR) modulators (selective PPAR modulators [SPPARMs]) and dual PPAR agonists may have an important role in the treatment of cardiometabolic disorders owing to lipid-modifying, insulin-sensitizing and anti-inflammatory effects. This review summarizes the efficacy of new PPAR agonists and SPPARMs that are under development for the treatment of atherogenic dyslipidemia and non-alcoholic fatty liver disease (NAFLD). ABT-335 is a new formulation of fenofibrate that has been approved for concomitant use with statins. K-877, a SPPARM-\u03b1 with encouraging preliminary results in modulating atherogenic dyslipidemia, and INT131, a SPPARM-\u03b3 with predominantly insulin-sensitizing actions, may also have favorable lipid-modifying effects. Although the development of dual PPAR-\u03b1/\u03b3 agonists (glitazars) and the SPPARM-\u03b4 GW501516 has been abandoned because of safety issues, another SPPARM-\u03b4 (MBX-8025) and a dual PPAR-\u03b1/\u03b4 agonist (GFT-505) have shown promising efficacy in decreasing plasma triglyceride and increasing high-density lipoprotein cholesterol concentrations, as well as improving insulin sensitivity and liver function. The beneficial effects of GFT-505 are complemented by preclinical findings that indicate reduction of hepatic fat accumulation, inflammation and fibrosis, making it a promising candidate for the treatment of NAFLD/nonalcoholic steatohepatitis (NASH). Long-term trials are required to test the efficacy and safety of these new PPAR agonists in reducing cardiovascular outcomes and treating NAFLD/NASH."
+    }
+   ]
+  },
+  "LENERCEPT": {
+   "query": "((\"lenercept\")[tiab]) AND (NAFLD[tiab] OR NASH[tiab] OR MASLD[tiab] OR MASH[tiab] OR \"fatty liver\"[tiab] OR steatohepatitis[tiab] OR \"liver fibrosis\"[tiab] OR \"hepatic fibrosis\"[tiab] OR \"liver steatosis\"[tiab] OR \"hepatic steatosis\"[tiab])",
+   "count": 0,
+   "returned": 0,
+   "records": []
+  },
+  "LERIGLITAZONE": {
+   "query": "(((leriglitazone[tiab]) OR (MIN-102[tiab]))) AND (NAFLD[tiab] OR NASH[tiab] OR MASLD[tiab] OR MASH[tiab] OR \"fatty liver\"[tiab] OR steatohepatitis[tiab] OR \"liver fibrosis\"[tiab] OR \"hepatic fibrosis\"[tiab] OR \"liver steatosis\"[tiab] OR \"hepatic steatosis\"[tiab])",
+   "count": 0,
+   "returned": 0,
+   "records": []
+  },
+  "MBX-2044": {
+   "query": "((\"mbx-2044\")[tiab]) AND (NAFLD[tiab] OR NASH[tiab] OR MASLD[tiab] OR MASH[tiab] OR \"fatty liver\"[tiab] OR steatohepatitis[tiab] OR \"liver fibrosis\"[tiab] OR \"hepatic fibrosis\"[tiab] OR \"liver steatosis\"[tiab] OR \"hepatic steatosis\"[tiab])",
+   "count": 0,
+   "returned": 0,
+   "records": []
+  },
+  "MK-0533": {
+   "query": "((\"mk-0533\")[tiab]) AND (NAFLD[tiab] OR NASH[tiab] OR MASLD[tiab] OR MASH[tiab] OR \"fatty liver\"[tiab] OR steatohepatitis[tiab] OR \"liver fibrosis\"[tiab] OR \"hepatic fibrosis\"[tiab] OR \"liver steatosis\"[tiab] OR \"hepatic steatosis\"[tiab])",
+   "count": 0,
+   "returned": 0,
+   "records": []
+  },
+  "NERELIMOMAB": {
+   "query": "((\"nerelimomab\")[tiab]) AND (NAFLD[tiab] OR NASH[tiab] OR MASLD[tiab] OR MASH[tiab] OR \"fatty liver\"[tiab] OR steatohepatitis[tiab] OR \"liver fibrosis\"[tiab] OR \"hepatic fibrosis\"[tiab] OR \"liver steatosis\"[tiab] OR \"hepatic steatosis\"[tiab])",
+   "count": 0,
+   "returned": 0,
+   "records": []
+  },
+  "NETOGLITAZONE": {
+   "query": "((\"netoglitazone\")[tiab]) AND (NAFLD[tiab] OR NASH[tiab] OR MASLD[tiab] OR MASH[tiab] OR \"fatty liver\"[tiab] OR steatohepatitis[tiab] OR \"liver fibrosis\"[tiab] OR \"hepatic fibrosis\"[tiab] OR \"liver steatosis\"[tiab] OR \"hepatic steatosis\"[tiab])",
+   "count": 0,
+   "returned": 0,
+   "records": []
+  },
+  "OMS405": {
+   "query": "((\"oms405\")[tiab]) AND (NAFLD[tiab] OR NASH[tiab] OR MASLD[tiab] OR MASH[tiab] OR \"fatty liver\"[tiab] OR steatohepatitis[tiab] OR \"liver fibrosis\"[tiab] OR \"hepatic fibrosis\"[tiab] OR \"liver steatosis\"[tiab] OR \"hepatic steatosis\"[tiab])",
+   "count": 0,
+   "returned": 0,
+   "records": []
+  },
+  "ONERCEPT": {
+   "query": "((\"onercept\")[tiab]) AND (NAFLD[tiab] OR NASH[tiab] OR MASLD[tiab] OR MASH[tiab] OR \"fatty liver\"[tiab] OR steatohepatitis[tiab] OR \"liver fibrosis\"[tiab] OR \"hepatic fibrosis\"[tiab] OR \"liver steatosis\"[tiab] OR \"hepatic steatosis\"[tiab])",
+   "count": 0,
+   "returned": 0,
+   "records": []
+  },
+  "OZORALIZUMAB": {
+   "query": "((\"ozoralizumab\")[tiab]) AND (NAFLD[tiab] OR NASH[tiab] OR MASLD[tiab] OR MASH[tiab] OR \"fatty liver\"[tiab] OR steatohepatitis[tiab] OR \"liver fibrosis\"[tiab] OR \"hepatic fibrosis\"[tiab] OR \"liver steatosis\"[tiab] OR \"hepatic steatosis\"[tiab])",
+   "count": 0,
+   "returned": 0,
+   "records": []
+  },
+  "PEGSUNERCEPT": {
+   "query": "((\"pegsunercept\")[tiab]) AND (NAFLD[tiab] OR NASH[tiab] OR MASLD[tiab] OR MASH[tiab] OR \"fatty liver\"[tiab] OR steatohepatitis[tiab] OR \"liver fibrosis\"[tiab] OR \"hepatic fibrosis\"[tiab] OR \"liver steatosis\"[tiab] OR \"hepatic steatosis\"[tiab])",
+   "count": 0,
+   "returned": 0,
+   "records": []
+  },
+  "PLACULUMAB": {
+   "query": "((\"placulumab\")[tiab]) AND (NAFLD[tiab] OR NASH[tiab] OR MASLD[tiab] OR MASH[tiab] OR \"fatty liver\"[tiab] OR steatohepatitis[tiab] OR \"liver fibrosis\"[tiab] OR \"hepatic fibrosis\"[tiab] OR \"liver steatosis\"[tiab] OR \"hepatic steatosis\"[tiab])",
+   "count": 0,
+   "returned": 0,
+   "records": []
+  },
+  "REMTOLUMAB": {
+   "query": "((\"remtolumab\")[tiab]) AND (NAFLD[tiab] OR NASH[tiab] OR MASLD[tiab] OR MASH[tiab] OR \"fatty liver\"[tiab] OR steatohepatitis[tiab] OR \"liver fibrosis\"[tiab] OR \"hepatic fibrosis\"[tiab] OR \"liver steatosis\"[tiab] OR \"hepatic steatosis\"[tiab])",
+   "count": 0,
+   "returned": 0,
+   "records": []
+  },
+  "RIVOGLITAZONE": {
+   "query": "((\"rivoglitazone\")[tiab]) AND (NAFLD[tiab] OR NASH[tiab] OR MASLD[tiab] OR MASH[tiab] OR \"fatty liver\"[tiab] OR steatohepatitis[tiab] OR \"liver fibrosis\"[tiab] OR \"hepatic fibrosis\"[tiab] OR \"liver steatosis\"[tiab] OR \"hepatic steatosis\"[tiab])",
+   "count": 0,
+   "returned": 0,
+   "records": []
+  }
+ }
+}

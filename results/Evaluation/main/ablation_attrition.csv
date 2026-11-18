@@ -1,0 +1,5 @@
+filter,drugs_retained,start_links,drugs_with_BB_routes,BB_routes
+none,299,359,116,18805
+decidable,144,157,39,4493
+consistent_any,103,116,38,4457
+proposed,103,116,38,4457

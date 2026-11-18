@@ -1,0 +1,47 @@
+parent,grade,evidence,model,pmid,flags
+CANDESARTAN,3,Randomised open-label trial: histological fibrosis improved on candesartan,human alcoholic liver fibrosis (2012),22364262,"fibrosis endpoint, not NAFLD; animal NASH support also"
+FENOFIBRATE,3,"Randomised trial in NAFLD: ALT and AST fell, similar to pioglitazone and exercise arms",human NAFLD (2017),29023319,"surrogate endpoint (enzymes); no histology"
+PEMAFIBRATE,3,"Randomised placebo-controlled trial: liver stiffness (MRE) fell, liver fat did not; further trials vs omega-3 lower fatty liver index",human NAFLD/MASLD (2021-2025),34528723,"mixed endpoints"
+ADALIMUMAB,2,Anti-TNF agents slightly reversed NASH histology score in rats,rat NASH (2014),25910299,"weak effect; did not prevent NASH"
+ALEGLITAZAR,2,Reduced hepatic fibrogenesis in cirrhotic rats,rat cirrhosis (2018),29929914,"human post-hoc study retracted and not counted"
+BARDOXOLONE,2,Prevented MASH in mice,mouse MASH (2024),38599607,
+BEMPEDOIC ACID,2,Inhibition of ATP-citrate lyase improved NASH and fibrosis,mouse NASH (2022),35675800,"later work: steatosis effect independent of ACLY"
+CANNABIDIOL,2,Reduced steatotic liver disease and CCl4 fibrosis,mouse MASLD and fibrosis (2024-2026),38711461,
+CELECOXIB,2,Attenuated steatosis and inflammation in HFD-induced NASH rats,rat NASH (2011),21643627,"conflicting: pro-fibrotic in rat fibrosis model (PMID 16420518)"
+CIPROFIBRATE,2,Reversed choline-deficiency steatohepatitis in rats,rat NASH (2002),12073774,"conflicting: increased hepatic lipid in a human trial (PMID 37670579)"
+ERITORAN,2,Attenuated hepatic inflammation and fibrosis in chronic liver injury,mouse fibrosis (2021),34205789,
+ETANERCEPT,2,Ameliorated NASH features in high-fat high-fructose rats,rat NASH (2022),36418417,
+GW501516,2,PPARdelta agonist improved steatohepatitis and protected from fibrosis,mouse MCD steatohepatitis and fibrosis (2006-2012),22538808,
+INFLIXIMAB,2,Reversed steatosis in high-fat-diet rats,rat steatosis (2007),17761893,
+LABETALOL,2,Co-delivered with retinoic acid in a nanoplatform it reduced steatosis and fibrosis,mouse NAFLD (2024),39342261,"combination; effect not attributable to labetalol alone"
+MESALAMINE,2,Anti-fibrotic in induced liver fibrosis in rats,rat fibrosis (2018),29738702,"hepatotoxicity case reports"
+MURAGLITAZAR,2,Improved fatty liver in db/db mice,mouse steatosis (2006),16380499,
+PACLITAXEL,2,Low dose prevented thioacetamide and bile-duct-ligation fibrosis,rat fibrosis (2018-2021),33749060,"cytotoxic drug; not a NAFLD model"
+RAGAGLITAZAR,2,Eliminated fatty liver in fat-fed rats,rat steatosis (2003),12556350,
+RIOCIGUAT,2,Reduced fibrogenesis in cirrhotic rats,rat cirrhosis (2018),29921982,"did not speed regression in a 2026 study"
+TESAGLITAZAR,2,Ameliorated NAFLD in diabetic LDLR-deficient mice,mouse NAFLD (2012),23226761,
+ACADESINE,1,AICAR reversed lipid accumulation in HepG2 cells,HepG2 steatosis model (2024-2026),41272939,
+CILENGITIDE,1,Integrin alphavbeta3 inhibition suppressed stellate-cell activation in vitro,hepatic stellate cells (2007),17258347,"conflicting: worsened fibrosis in vivo (PMID 19725105)"
+LANATOSIDE C,1,Reduced triglyceride and AST in a fatty-acid-induced cell model,virtual screen plus cell model (2026),41540533,
+DAUNORUBICIN,0,Reports of steatohepatitis caused by chemotherapy,human case series (2018),29181701,"harm signal"
+DOXIFLURIDINE,0,Oral fluorouracil drugs increased hepatic fat,human colon cancer (2005),15935970,"harm signal"
+FLOXURIDINE,0,Fatty liver after hepatic artery infusion,human (1990-2013),22961714,"harm signal"
+CHOLESTEROL,0,Endogenous molecule; hits describe pathophysiology not treatment,,,"not a therapeutic"
+NITRIC OXIDE,0,Endogenous mediator; hits describe pathophysiology not treatment,,,"not a therapeutic"
+INDOMETHACIN,0,Only a letter without abstract found,,21433038,"insufficient"
+PIRINIXIC ACID,0,No disease-relevant positive study in the screened hits,,,"insufficient"
+CLOFIBRATE,2,Inhibited acute alcoholic fatty liver in rats,rat alcoholic steatosis (1972),5080087,"old alcoholic-steatosis model; conflicting: fatty liver in clofibrate plus orotic acid diet (PMID 4835600)"
+CERTOLIZUMAB,0,Cohort data show no benefit and a higher hazard of NAFLD/cirrhosis on anti-TNF agents,human cohort (2020),32377366,"harm signal (observational)"
+GOLIMUMAB,0,Cohort data show no benefit and a higher hazard of NAFLD/cirrhosis on anti-TNF agents,human cohort (2020),32377366,"harm signal (observational)"
+BALAGLITAZONE,0,Only serum-biomarker analyses within trials,,,"insufficient"
+CIGLITAZONE,0,Only a general review of thiazolidinediones and liver repair,,,"insufficient"
+INT131,0,Only reviews and pharmacokinetics,,,"insufficient"
+BINDARIT,2,Delivered with laminarin it prevented high-fat-diet obesity and fatty liver,mouse (2020),32863944,"formulation study"
+DANICOPAN,2,Complement factor D inhibition by danicopan reported to reduce MAFLD features,mouse/cell MAFLD (2025),41308544,"single study"
+MIBAVADEMAB,2,Leptin-receptor antibody improved hepatic steatosis in compassionate-use lipodystrophy patients,human lipodystrophy case-level (2023),37992152,"not NAFLD population"
+MITOXANTRONE,2,Improved high-fat-diet hepatic steatosis in broilers,chicken steatosis (2022),36007336,"non-mammalian model; cytotoxic drug"
+TEGAFUR,0,Tegafur-uracil reported to cause hepatic fibrosis and fat,human case reports (2002-2017),28883709,"harm signal"
+TOPIRAMATE,0,Worsened liver damage in NAFLD rats,rat NAFLD (2024-2026),37919963,"harm signal"
+DOXORUBICIN,0,Hits concern chemotherapy or other topics; no therapeutic evidence for NAFLD,,,"insufficient"
+PEMETREXED,0,Case reports and pharmacokinetics only,,,"insufficient"
+SALMETEROL,0,Library screen only,,,"insufficient"

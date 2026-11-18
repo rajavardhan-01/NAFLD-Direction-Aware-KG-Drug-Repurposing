@@ -1,0 +1,3 @@
+signature,seeds,increasing,decreasing,stage_NASH,seed_overlap_with_original,pathways_linked,pathways_shared_with_original,eligible_pathways,candidate_links_to_seeds,consistent,inconsistent,undecided,drugs_direction_consistent
+full signature,956,315,641,943,54,33,10,31,163,71,30,62,66
+size-matched (top 280 by FDR),280,72,208,280,9,6,0,6,10,1,5,4,1
