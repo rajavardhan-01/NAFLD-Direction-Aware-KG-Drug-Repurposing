@@ -1,0 +1,7 @@
+group,Drug,Gene,annotated_direction,M,opposite_only,negative,pmids_contradiction
+excluded_78,ERITORAN,TLR4,down,4,0,2,36066991;26813341
+excluded_78,ERITORAN TETRASODIUM,TLR4,down,4,0,2,36066991;26813341
+excluded_78,BARDOXOLONE METHYL,PPARG,down,3,1,0,21289052
+excluded_78,INDOMETHACIN,PPARA,unknown,3,0,1,15591138
+retained_38,OCRIPLASMIN,LAMA2,down,2,1,0,29214073
+retained_38,OCRIPLASMIN,LAMA3,down,2,1,0,29214073

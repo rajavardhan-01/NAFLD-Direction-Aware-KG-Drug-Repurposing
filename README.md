@@ -395,6 +395,15 @@ python code/eval_cost.py             # runtime and memory
 python code/eval_independent.py      # needs data/geo (GSE126848 counts and series matrix)
 python code/eval_tables.py && python code/eval_figures.py
 ```
+
+### 5.11 Independent pharmacological and mechanistic evaluation (`results/Evaluation/mechanistic/`)
+
+Steps 1-6 of the faculty request: the 116 conventional-MPC drugs split into 38 retained and 78 excluded, their 532
+drug-target pairs (163 on seed genes), an independent PubMed search for each seed pair, M0-M4 grading (our working
+definitions, rule based and audited by hand), and a comparison of retained, excluded, MPC and annotation-only groups with
+confidence intervals, contradictory evidence and target-family sensitivity. Scripts `code/mech_step1_2_export.py`,
+`mech_step3_collect.py`, `mech_step4_grade.py`, `mech_step5_6_compare.py`; details and results in
+`results/Evaluation/mechanistic/README.md`.
 ## 6. Limitations
 
 - **Direction is checked only at the drug -> target step.** Gene-gene interactions have no sign, so the gene-gene steps of a

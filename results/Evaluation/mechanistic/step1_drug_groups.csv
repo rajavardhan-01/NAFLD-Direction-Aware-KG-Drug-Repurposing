@@ -1,0 +1,117 @@
+mpc_rank,Drug,Drug_ID,mpc_BB_routes,mpc_B_routes,direction_group,n_consistent_links,n_inconsistent_links,n_undecided_links,retained_by_filter,proposed_rank,proposed_BB_routes,annotation_only_group,liver_contraindicated,group_reason,group
+1,OCRIPLASMIN,CHEMBL2095222,633,29,only consistent,6,0,0,True,1.0,633.0,True,False,retained,retained_38
+2,COLLAGENASE CLOSTRIDIUM HISTOLYTICUM,CHEMBL2108709,595,29,only consistent,4,0,0,True,2.0,595.0,True,False,retained,retained_38
+5,ALEGLITAZAR,CHEMBL519504,315,6,only consistent,1,0,1,True,4.0,96.0,True,False,retained,retained_38
+5,IMIGLITAZAR,CHEMBL592054,315,6,only consistent,1,0,1,True,4.0,96.0,True,False,retained,retained_38
+5,INDEGLITAZAR,CHEMBL1232583,315,6,only consistent,1,0,1,True,4.0,96.0,True,False,retained,retained_38
+5,MK-0767,CHEMBL4297404,315,6,only consistent,1,0,1,True,4.0,96.0,True,False,retained,retained_38
+5,MURAGLITAZAR,CHEMBL186179,315,6,only consistent,1,0,1,True,4.0,96.0,True,False,retained,retained_38
+5,NAVEGLITAZAR,CHEMBL181954,315,6,only consistent,1,0,1,True,4.0,96.0,True,False,retained,retained_38
+5,RAGAGLITAZAR,CHEMBL24038,315,6,only consistent,1,0,1,True,4.0,96.0,True,False,retained,retained_38
+5,REGLITAZAR,CHEMBL293526,315,6,only consistent,1,0,1,True,4.0,96.0,True,False,retained,retained_38
+5,SODELGLITAZAR,CHEMBL2104984,315,6,only consistent,1,0,1,True,4.0,96.0,True,False,retained,retained_38
+5,TESAGLITAZAR,CHEMBL282686,315,6,only consistent,1,0,1,True,4.0,96.0,True,False,retained,retained_38
+16,PACLITAXEL,CHEMBL428647,238,2,only consistent,1,0,2,True,25.0,94.0,True,False,retained,retained_38
+61,PX-12,CHEMBL406050,146,1,only consistent,1,0,1,True,3.0,130.0,True,False,retained,retained_38
+63,CLOTRIMAZOLE,CHEMBL104,128,2,only consistent,1,0,2,True,25.0,94.0,True,False,retained,retained_38
+68,LOVASTATIN,CHEMBL503,116,2,only consistent,1,0,2,True,25.0,94.0,True,False,retained,retained_38
+69,CLOFIBRATE,CHEMBL565,110,3,only consistent,1,0,1,True,4.0,96.0,True,False,retained,retained_38
+70,AVE8134,CHEMBL3545334,96,3,only consistent,1,0,0,True,4.0,96.0,True,False,retained,retained_38
+70,CHOLINE FENOFIBRATE,CHEMBL1201745,96,3,only consistent,1,0,0,True,4.0,96.0,True,False,retained,retained_38
+70,CIPROFIBRATE,CHEMBL557555,96,3,only consistent,1,0,0,True,4.0,96.0,True,False,retained,retained_38
+70,CP-778875,CHEMBL5314385,96,3,only consistent,1,0,0,True,4.0,96.0,True,False,retained,retained_38
+70,DRF-10945,CHEMBL3545394,96,3,only consistent,1,0,0,True,4.0,96.0,True,False,retained,retained_38
+70,GW590735,CHEMBL219586,96,3,only consistent,1,0,0,True,4.0,96.0,True,False,retained,retained_38
+70,LY-518674,CHEMBL424133,96,3,only consistent,1,0,0,True,4.0,96.0,True,False,retained,retained_38
+70,PEMAFIBRATE,CHEMBL247951,96,3,only consistent,1,0,0,True,4.0,96.0,True,False,retained,retained_38
+70,PIRINIXIC ACID,CHEMBL295416,96,3,only consistent,1,0,0,True,4.0,96.0,True,False,retained,retained_38
+70,ZYH7,CHEMBL3545093,96,3,only consistent,1,0,0,True,4.0,96.0,True,False,retained,retained_38
+83,ACETYLDIGITOXIN,CHEMBL3545057,88,2,only consistent,2,0,0,True,28.0,88.0,True,False,retained,retained_38
+83,DESLANOSIDE,CHEMBL1614,88,2,only consistent,2,0,0,True,28.0,88.0,True,False,retained,retained_38
+83,DIGITOXIN,CHEMBL254219,88,2,only consistent,2,0,0,True,28.0,88.0,True,False,retained,retained_38
+83,ISTAROXIME,CHEMBL2093999,88,2,only consistent,2,0,0,True,28.0,88.0,True,False,retained,retained_38
+83,LANATOSIDE C,CHEMBL506569,88,2,only consistent,2,0,0,True,28.0,88.0,True,False,retained,retained_38
+88,ASK-8007,CHEMBL2109530,77,5,only consistent,1,0,0,True,33.0,77.0,True,False,retained,retained_38
+89,ABITUZUMAB,CHEMBL2109621,74,3,only consistent,1,0,0,True,34.0,74.0,True,False,retained,retained_38
+89,CILENGITIDE,CHEMBL429876,74,3,only consistent,1,0,0,True,34.0,74.0,True,False,retained,retained_38
+89,INTETUMUMAB,CHEMBL1743032,74,3,only consistent,1,0,0,True,34.0,74.0,True,False,retained,retained_38
+109,BIO-11006,CHEMBL4297701,37,3,only consistent,1,0,0,True,37.0,37.0,True,False,retained,retained_38
+111,OLAPTESED PEGOL,CHEMBL4594485,25,4,only consistent,1,0,0,True,38.0,25.0,True,False,retained,retained_38
+3,MESALAMINE,CHEMBL704,401,3,no decided link,0,0,2,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+4,INDOMETHACIN,CHEMBL6,352,7,no decided link,0,0,5,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+5,GW501516,CHEMBL38943,315,6,no decided link,0,0,2,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+17,CANNABIDIOL,CHEMBL190461,224,3,no decided link,0,0,3,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+18,ARHALOFENATE,CHEMBL2103824,219,3,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+18,ATX08-001,CHEMBL3545278,219,3,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+18,BALAGLITAZONE,CHEMBL2103991,219,3,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+18,BALSALAZIDE,CHEMBL1201346,219,3,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+18,BALSALAZIDE DISODIUM,CHEMBL1200760,219,3,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+18,BARDOXOLONE,CHEMBL1093059,219,3,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+18,BARDOXOLONE METHYL,CHEMBL1762621,219,3,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+18,CIGLITAZONE,CHEMBL7002,219,3,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+18,DB959,CHEMBL3545176,219,3,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+18,EFATUTAZONE,CHEMBL3545280,219,3,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+18,EFATUTAZONE HYDROCHLORIDE,CHEMBL3545279,219,3,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+18,ETALOCIB,CHEMBL329123,219,3,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+18,INT131,CHEMBL1236924,219,3,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+18,LERIGLITAZONE,CHEMBL1267,219,3,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+18,MBX-2044,CHEMBL3545020,219,3,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+18,MK-0533,CHEMBL490029,219,3,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+18,NETOGLITAZONE,CHEMBL93747,219,3,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+18,OLSALAZINE,CHEMBL425,219,3,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+18,OLSALAZINE SODIUM,CHEMBL1201013,219,3,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+18,OMS405,CHEMBL5095027,219,3,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+18,RIVOGLITAZONE,CHEMBL2104753,219,3,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+39,BINTRAFUSP ALFA,CHEMBL4298024,203,10,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+39,FRESOLIMUMAB,CHEMBL1743022,203,10,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+39,LUSPATERCEPT,CHEMBL3039545,203,10,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+39,LY-2382770,CHEMBL2109585,203,10,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+39,METELIMUMAB,CHEMBL2108431,203,10,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+44,ABBV-3373,CHEMBL4297572,196,5,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+44,ADALIMUMAB,CHEMBL1201580,196,5,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+44,AFELIMOMAB,CHEMBL2108887,196,5,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+44,AZ9773,CHEMBL2109587,196,5,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+44,CERTOLIZUMAB PEGOL,CHEMBL1201831,196,5,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+44,CLENBUTEROL,CHEMBL49080,196,5,no decided link,0,0,2,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+44,ETANERCEPT,CHEMBL1201572,196,5,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+44,GOLIMUMAB,CHEMBL1201833,196,5,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+44,INFLIXIMAB,CHEMBL1201581,196,5,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+44,LENERCEPT,CHEMBL2108208,196,5,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+44,NERELIMOMAB,CHEMBL2108566,196,5,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+44,ONERCEPT,CHEMBL2107911,196,5,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+44,OZORALIZUMAB,CHEMBL1743054,196,5,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+44,PEGSUNERCEPT,CHEMBL1743057,196,5,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+44,PLACULUMAB,CHEMBL2108739,196,5,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+44,REMTOLUMAB,CHEMBL4297863,196,5,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+60,AGANIRSEN,CHEMBL2108296,163,1,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+62,DAUNORUBICIN,CHEMBL178,144,1,only consistent,1,0,1,False,,,False,False,"excluded: direction-consistent, but its consistent targets have no B route, so BB is never searched (its MPC B routes come from undecided targets)",excluded_78
+64,LUTIKIZUMAB,CHEMBL4594518,124,2,no decided link,0,0,2,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+64,RILONACEPT,CHEMBL1201830,124,2,no decided link,0,0,2,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+66,ERITORAN,CHEMBL501259,117,3,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+66,ERITORAN TETRASODIUM,CHEMBL3301672,117,3,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+80,CANAKINUMAB,CHEMBL1201834,90,2,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+80,GEVOKIZUMAB,CHEMBL1743026,90,2,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+80,OLMESARTAN,CHEMBL1516,90,1,only inconsistent,0,1,1,False,,,False,False,excluded: all decided links inconsistent with the disease direction,excluded_78
+92,TUROFEXORATE ISOPROPYL,CHEMBL454138,52,1,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+93,BMS-777607,CHEMBL460702,45,1,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+93,DENFIVONTINIB,CHEMBL4544478,45,1,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+93,GILTERITINIB,CHEMBL3301622,45,1,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+93,MERESTINIB,CHEMBL3545307,45,1,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+93,MK-2461,CHEMBL1822792,45,1,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+93,NINGETINIB,CHEMBL3984441,45,1,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+99,CLAZAKIZUMAB,CHEMBL2108589,41,1,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+99,ELSILIMOMAB,CHEMBL2108591,41,1,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+99,OLOKIZUMAB,CHEMBL1743050,41,1,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+99,PACIBEKITUG,CHEMBL6068160,41,1,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+99,PF-04236921,CHEMBL2109613,41,1,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+99,SILTUXIMAB,CHEMBL1743070,41,1,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+99,SIRUKUMAB,CHEMBL1743071,41,1,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+99,ZILTIVEKIMAB,CHEMBL4297732,41,1,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+107,CELECOXIB,CHEMBL118,40,1,only consistent,1,0,2,False,,,False,False,"excluded: direction-consistent, but its consistent targets have no B route, so BB is never searched (its MPC B routes come from undecided targets)",excluded_78
+108,LORLATINIB,CHEMBL3286830,38,1,only inconsistent,0,1,1,False,,,True,False,excluded: all decided links inconsistent with the disease direction,excluded_78
+110,MIBAVADEMAB,CHEMBL4650509,26,1,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+112,LAPAQUISTAT ACETATE,CHEMBL435224,23,4,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+112,SQ109,CHEMBL561057,23,4,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+114,F19 131I,CHEMBL2109643,9,1,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+114,SIBROTUZUMAB,CHEMBL2108882,9,1,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
+114,SIMLUKAFUSP ALFA,CHEMBL4298090,9,1,no decided link,0,0,1,False,,,False,False,excluded: no decided drug direction on any seed link,excluded_78
