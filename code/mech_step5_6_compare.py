@@ -42,7 +42,8 @@ def boot_mean(x, B=10000):
 
 groups = pd.read_csv(OUT / "step1_drug_groups.csv")
 pg = pd.read_csv(OUT / "step4_pair_grades.csv")
-# contradictory evidence: automatic flags were reviewed by hand (step4_manual_review.csv); only confirmed ones count
+# contradictory evidence: automatic flags were re-read with an AI assistant, not verified by a human expert
+# (decisions in step4_manual_review.csv; the file name is historical); only confirmed ones count
 rev = pd.read_csv(OUT / "step4_manual_review.csv")
 conf = set(zip(rev[rev.decision == "confirmed"].Drug, rev[rev.decision == "confirmed"].Gene))
 pg["contradiction_auto"] = pg.contradictory_evidence

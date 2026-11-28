@@ -16,7 +16,7 @@ python code/mech_step3_collect.py        # step 3: PubMed search, about 25 minut
 python code/mech_step4_grade.py          # step 4: M0-M4 grades from the records
 python code/mech_step5_6_compare.py      # steps 5-6: groups, intervals, contradictions, family analysis
 ```
-Step 5-6 reads `step4_manual_review.csv` (the hand review of the automatic contradiction flags) and rewrites
+Step 5-6 reads `step4_manual_review.csv` (the AI-assisted re-reading of the automatic contradiction flags; the file name is historical, no human expert has verified it) and rewrites
 `step4_pair_grades.csv` with the confirmed flags, so always run step 4 before step 5-6.
 
 ## Steps 1-2: groups and pairs
@@ -44,10 +44,10 @@ databases that built the graph and not the source signature paper. Retrieved 202
 Drug-level grade = best M over the drug's seed-gene pairs. Reviews, editorials, comments, letters, meta-analyses and
 retracted papers are not counted.
 
-Validation by hand: a first, looser version gave 93 of 163 pairs M3 and was rejected after an audit (genetics papers,
+AI-assisted validation (not verified by a human expert): a first, looser version gave 93 of 163 pairs M3 and was rejected after an audit (genetics papers,
 clinical-trial mentions). The sentence-level version was audited again on 14 random M3 pairs: 11 supported, 3 not
 (simlukafusp alfa-FAP is weak, paclitaxel-TOP2A cites another molecule, clofibrate-CYP2E1 is indirect), so precision of
-M3 is roughly 80%. The 42 automatic contradiction flags were all read by hand (`step4_manual_review.csv`): 6 confirmed
+M3 is roughly 80%. The 42 automatic contradiction flags were all re-read with the AI assistant (`step4_manual_review.csv`): 6 confirmed
 (eritoran-TLR4 in two drug entries, bardoxolone methyl-PPARG, indomethacin-PPARA, ocriplasmin-LAMA2, ocriplasmin-LAMA3),
 36 rejected.
 

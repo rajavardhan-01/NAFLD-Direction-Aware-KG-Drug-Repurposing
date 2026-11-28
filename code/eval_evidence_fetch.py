@@ -2,7 +2,7 @@
 
 One fixed query per drug (drug name in title/abstract AND a liver-disease term), the same for every drug and
 blind to the method and rank that selected it. Writes results/Evaluation/evidence/pubmed_hits.json (per drug: counts
-and up to 8 records with title, year, publication types, MeSH flags and the abstract) for manual grading.
+and up to 8 records with title, year, publication types, MeSH flags and the abstract) for grading.
 
     python code/eval_evidence_fetch.py
 """

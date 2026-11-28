@@ -381,14 +381,14 @@ Details: `results/Baseline_no_direction/comparison_summary.md`.
 The proposed method is compared with shortest path (SP), network proximity (NP), random walk with restart (RWR),
 metapath counting (MPC), degree-weighted path count (DWPC) and HeteSim on the same graph and the same 299 candidate
 drugs, with ablations, 100-repetition perturbation experiments (seed, edge and hub removal), an independent liver
-cohort (GEO GSE126848) and a literature grading of 113 drugs. Route counts of the offline engine reproduce the Neo4j
+cohort (GEO GSE126848) and a literature grading of 113 drugs (AI-assisted, not verified by a human expert). Route counts of the offline engine reproduce the Neo4j
 result exactly. Result files: `main/` (rankings, overlap, cost, evidence table), `robust/`, `independent/`, `evidence/`
 (PubMed queries, records, grades), `tables/`. Order of the scripts:
 
 ```
 NEO4J_PASSWORD=... NEO4J_DATABASE=neo4j python code/eval_export_graph.py   # export graph tables
 python code/eval_run.py              # main comparison, ablation, overlap
-python code/eval_evidence_fetch.py 20   # PubMed screen (then grade by hand in evidence/evidence_grades.csv)
+python code/eval_evidence_fetch.py 20   # PubMed screen (then grade into evidence/evidence_grades.csv; ours: AI-assisted, no human check)
 python code/eval_metrics.py          # evidence support and NDCG
 python code/eval_robust.py 100 8     # perturbation study (repetitions, processes)
 python code/eval_cost.py             # runtime and memory
@@ -400,7 +400,7 @@ python code/eval_tables.py && python code/eval_figures.py
 
 Steps 1-6 of the faculty request: the 116 conventional-MPC drugs split into 38 retained and 78 excluded, their 532
 drug-target pairs (163 on seed genes), an independent PubMed search for each seed pair, M0-M4 grading (our working
-definitions, rule based and audited by hand), and a comparison of retained, excluded, MPC and annotation-only groups with
+definitions, rule based, with an AI-assisted audit that no human expert has verified), and a comparison of retained, excluded, MPC and annotation-only groups with
 confidence intervals, contradictory evidence and target-family sensitivity. Scripts `code/mech_step1_2_export.py`,
 `mech_step3_collect.py`, `mech_step4_grade.py`, `mech_step5_6_compare.py`; details and results in
 `results/Evaluation/mechanistic/README.md`.
