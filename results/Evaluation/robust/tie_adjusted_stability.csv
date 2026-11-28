@@ -1,0 +1,43 @@
+kind,level,method,reps,unperturbed_drug_overlap,unperturbed_family_overlap,family_overlap,loss,proposed_minus_method_loss,ci_low,ci_high,reading
+seeds,0.05,DWPC,100,1.0,1.0,0.8004,0.1996,0.0404,-0.0044,0.0853,no clear difference
+seeds,0.05,HeteSim,100,0.8764,1.0,0.7358,0.2642,-0.0242,-0.0806,0.0323,no clear difference
+seeds,0.05,MPC,100,0.5837,1.0,0.8111,0.1889,0.0511,0.0001,0.102,proposed loses more
+seeds,0.05,NP,100,1.0,1.0,0.7782,0.2218,0.0182,-0.0408,0.0772,no clear difference
+seeds,0.05,Proposed,100,0.3703,0.9117,0.6717,0.24,,,,
+seeds,0.05,RWR,100,0.6331,1.0,0.8513,0.1487,0.0913,0.0319,0.1508,proposed loses more
+seeds,0.1,DWPC,100,1.0,1.0,0.7269,0.2731,0.0571,0.0061,0.1081,proposed loses more
+seeds,0.1,HeteSim,100,0.8764,1.0,0.6491,0.3509,-0.0207,-0.0859,0.0446,no clear difference
+seeds,0.1,MPC,100,0.5837,1.0,0.6648,0.3352,-0.005,-0.0682,0.0581,no clear difference
+seeds,0.1,NP,100,1.0,1.0,0.6566,0.3434,-0.0132,-0.0773,0.0509,no clear difference
+seeds,0.1,Proposed,100,0.3703,0.9117,0.5815,0.3302,,,,
+seeds,0.1,RWR,100,0.6331,1.0,0.8325,0.1675,0.1627,0.0998,0.2255,proposed loses more
+seeds,0.15,DWPC,100,1.0,1.0,0.6283,0.3717,0.0455,-0.01,0.1011,no clear difference
+seeds,0.15,HeteSim,100,0.8764,1.0,0.5453,0.4547,-0.0375,-0.1013,0.0262,no clear difference
+seeds,0.15,MPC,100,0.5837,1.0,0.5245,0.4755,-0.0583,-0.1097,-0.0069,proposed loses less
+seeds,0.15,NP,100,1.0,1.0,0.5525,0.4475,-0.0303,-0.0895,0.029,no clear difference
+seeds,0.15,Proposed,100,0.3703,0.9117,0.4945,0.4172,,,,
+seeds,0.15,RWR,100,0.6331,1.0,0.7219,0.2781,0.1391,0.0762,0.202,proposed loses more
+seeds,0.2,DWPC,100,1.0,1.0,0.5856,0.4144,0.0303,-0.0259,0.0866,no clear difference
+seeds,0.2,HeteSim,100,0.8764,1.0,0.5387,0.4613,-0.0165,-0.0796,0.0465,no clear difference
+seeds,0.2,MPC,100,0.5837,1.0,0.4566,0.5434,-0.0986,-0.1434,-0.0539,proposed loses less
+seeds,0.2,NP,100,1.0,1.0,0.477,0.523,-0.0783,-0.1318,-0.0248,proposed loses less
+seeds,0.2,Proposed,100,0.3703,0.9117,0.4669,0.4447,,,,
+seeds,0.2,RWR,100,0.6331,1.0,0.5857,0.4143,0.0304,-0.0287,0.0895,no clear difference
+edges,0.05,DWPC,100,1.0,1.0,0.8018,0.1982,0.0475,0.0018,0.0932,proposed loses more
+edges,0.05,HeteSim,100,0.8764,1.0,0.7949,0.2051,0.0406,-0.0117,0.093,no clear difference
+edges,0.05,MPC,100,0.5837,1.0,0.89,0.11,0.1357,0.0894,0.1821,proposed loses more
+edges,0.05,NP,100,1.0,1.0,0.6682,0.3318,-0.0861,-0.1452,-0.0269,proposed loses less
+edges,0.05,Proposed,100,0.3703,0.9117,0.6659,0.2457,,,,
+edges,0.05,RWR,100,0.6331,1.0,0.8914,0.1086,0.1371,0.0768,0.1975,proposed loses more
+edges,0.1,DWPC,100,1.0,1.0,0.7083,0.2917,0.0781,0.0306,0.1255,proposed loses more
+edges,0.1,HeteSim,100,0.8764,1.0,0.6597,0.3403,0.0295,-0.023,0.0819,no clear difference
+edges,0.1,MPC,100,0.5837,1.0,0.7188,0.2812,0.0885,0.0419,0.1351,proposed loses more
+edges,0.1,NP,100,1.0,1.0,0.559,0.441,-0.0713,-0.1226,-0.02,proposed loses less
+edges,0.1,Proposed,100,0.3703,0.9117,0.5419,0.3697,,,,
+edges,0.1,RWR,100,0.6331,1.0,0.8178,0.1822,0.1876,0.1273,0.2478,proposed loses more
+edges,0.2,DWPC,100,1.0,1.0,0.5289,0.4711,-0.0325,-0.0831,0.018,no clear difference
+edges,0.2,HeteSim,100,0.8764,1.0,0.5361,0.4639,-0.0254,-0.0803,0.0295,no clear difference
+edges,0.2,MPC,100,0.5837,1.0,0.4417,0.5583,-0.1198,-0.1593,-0.0803,proposed loses less
+edges,0.2,NP,100,1.0,1.0,0.3975,0.6025,-0.164,-0.2136,-0.1143,proposed loses less
+edges,0.2,Proposed,100,0.3703,0.9117,0.4731,0.4386,,,,
+edges,0.2,RWR,100,0.6331,1.0,0.6713,0.3287,0.1098,0.0481,0.1716,proposed loses more

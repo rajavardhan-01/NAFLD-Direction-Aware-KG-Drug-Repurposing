@@ -397,6 +397,11 @@ in the paper are exact averages over all tie orders (`main/exact_tie_values.csv`
 `tables/evidence_all_configs.csv` estimate the same averages from 500 random orders, so some values differ slightly
 and can round differently.
 
+**Stability and tied scores.** With no perturbation, the top-10 family overlap of the proposed method with itself is
+0.91 because of tied scores (1.00 for NP, RWR, MPC, DWPC and HeteSim), so raw overlap alone overstates its extra
+instability. `robust/tie_adjusted_stability.csv` gives each method's loss from its own unperturbed value and the paired
+differences. At 10% seed removal the proposed method loses clearly more only than RWR and DWPC.
+
 Order of the scripts:
 
 ```
@@ -406,6 +411,7 @@ python code/eval_evidence_fetch.py 20   # PubMed screen (then grade into evidenc
 python code/eval_metrics.py          # evidence support and NDCG
 python code/eval_exact_ties.py       # same measures as exact averages over tied scores (paper values)
 python code/eval_robust.py 100 8     # perturbation study (repetitions, processes)
+python code/eval_tie_adjusted.py     # stability measured from each method's unperturbed value
 python code/eval_cost.py             # runtime and memory
 python code/eval_independent.py      # needs data/geo (GSE126848 counts and series matrix)
 python code/eval_tables.py && python code/eval_figures.py
