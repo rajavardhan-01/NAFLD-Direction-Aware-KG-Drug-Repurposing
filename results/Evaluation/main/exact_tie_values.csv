@@ -1,0 +1,73 @@
+scenario,method,K,support,ndcg,human,animal,in_vitro,harm,ranked
+base,NP,10,0.3,0.1398,0.0,2.0,1.0,1.0,297
+base,NP,20,0.2,0.1286,0.0,3.0,1.0,1.0,297
+base,RWR,10,0.1667,0.1262,1.1111,0.5556,0.0,0.0,299
+base,RWR,20,0.2333,0.1979,2.0,2.6667,0.0,0.0,299
+base,MPC,10,0.3727,0.176,0.0,3.7273,0.0,0.0,116
+base,MPC,20,0.4143,0.2439,0.0,8.2857,0.0,0.0,116
+base,DWPC,10,0.0,0.0,0.0,0.0,0.0,0.0,116
+base,DWPC,20,0.2346,0.0987,0.0,3.6923,1.0,0.4615,116
+base,HeteSim,10,0.0667,0.0082,0.0,0.0,0.6667,0.0,250
+base,HeteSim,20,0.11,0.0214,0.0,0.2,2.0,0.1333,250
+base,Proposed,10,0.2667,0.154,0.6667,2.0,0.0,0.0,38
+base,Proposed,20,0.3238,0.2385,1.619,4.8571,0.0,0.0,38
+base,Decidable-only,10,0.2667,0.154,0.6667,2.0,0.0,0.0,39
+base,Decidable-only,20,0.3238,0.2385,1.619,4.8571,0.0,0.0,39
+base,Consistent-any,10,0.2667,0.154,0.6667,2.0,0.0,0.0,38
+base,Consistent-any,20,0.3238,0.2385,1.619,4.8571,0.0,0.0,38
+base,Direction-aware DWPC,10,0.1333,0.0176,0.0,0.0,1.3333,0.0,38
+base,Direction-aware DWPC,20,0.2,0.1053,1.3333,0.6667,2.0,0.0,38
+borderline four set to 0,NP,10,0.3,0.1398,0.0,2.0,1.0,1.0,297
+borderline four set to 0,NP,20,0.2,0.1286,0.0,3.0,1.0,1.0,297
+borderline four set to 0,RWR,10,0.1667,0.1262,1.1111,0.5556,0.0,0.0,299
+borderline four set to 0,RWR,20,0.2333,0.1979,2.0,2.6667,0.0,0.0,299
+borderline four set to 0,MPC,10,0.3727,0.176,0.0,3.7273,0.0,0.0,116
+borderline four set to 0,MPC,20,0.4143,0.2439,0.0,8.2857,0.0,0.0,116
+borderline four set to 0,DWPC,10,0.0,0.0,0.0,0.0,0.0,0.0,116
+borderline four set to 0,DWPC,20,0.2346,0.0987,0.0,3.6923,1.0,0.4615,116
+borderline four set to 0,HeteSim,10,0.0667,0.0082,0.0,0.0,0.6667,0.0,250
+borderline four set to 0,HeteSim,20,0.11,0.0214,0.0,0.2,2.0,0.1333,250
+borderline four set to 0,Proposed,10,0.2333,0.1395,0.6667,1.6667,0.0,0.0,38
+borderline four set to 0,Proposed,20,0.2833,0.2161,1.619,4.0476,0.0,0.0,38
+borderline four set to 0,Decidable-only,10,0.2333,0.1395,0.6667,1.6667,0.0,0.0,39
+borderline four set to 0,Decidable-only,20,0.2833,0.2161,1.619,4.0476,0.0,0.0,39
+borderline four set to 0,Consistent-any,10,0.2333,0.1395,0.6667,1.6667,0.0,0.0,38
+borderline four set to 0,Consistent-any,20,0.2833,0.2161,1.619,4.0476,0.0,0.0,38
+borderline four set to 0,Direction-aware DWPC,10,0.1333,0.0176,0.0,0.0,1.3333,0.0,38
+borderline four set to 0,Direction-aware DWPC,20,0.2,0.1053,1.3333,0.6667,2.0,0.0,38
+borderline four set to 1,NP,10,0.3,0.1398,0.0,2.0,1.0,1.0,297
+borderline four set to 1,NP,20,0.2,0.1286,0.0,3.0,1.0,1.0,297
+borderline four set to 1,RWR,10,0.1667,0.1262,1.1111,0.5556,0.0,0.0,299
+borderline four set to 1,RWR,20,0.2333,0.1979,2.0,2.6667,0.0,0.0,299
+borderline four set to 1,MPC,10,0.3727,0.176,0.0,3.7273,0.0,0.0,116
+borderline four set to 1,MPC,20,0.4143,0.2439,0.0,8.2857,0.0,0.0,116
+borderline four set to 1,DWPC,10,0.0,0.0,0.0,0.0,0.0,0.0,116
+borderline four set to 1,DWPC,20,0.2346,0.0987,0.0,3.6923,1.0,0.4615,116
+borderline four set to 1,HeteSim,10,0.0667,0.0082,0.0,0.0,0.6667,0.0,250
+borderline four set to 1,HeteSim,20,0.11,0.0214,0.0,0.2,2.0,0.1333,250
+borderline four set to 1,Proposed,10,0.2667,0.1443,0.6667,1.6667,0.3333,0.0,38
+borderline four set to 1,Proposed,20,0.3238,0.2236,1.619,4.0476,0.8095,0.0,38
+borderline four set to 1,Decidable-only,10,0.2667,0.1443,0.6667,1.6667,0.3333,0.0,39
+borderline four set to 1,Decidable-only,20,0.3238,0.2236,1.619,4.0476,0.8095,0.0,39
+borderline four set to 1,Consistent-any,10,0.2667,0.1443,0.6667,1.6667,0.3333,0.0,38
+borderline four set to 1,Consistent-any,20,0.3238,0.2236,1.619,4.0476,0.8095,0.0,38
+borderline four set to 1,Direction-aware DWPC,10,0.1333,0.0176,0.0,0.0,1.3333,0.0,38
+borderline four set to 1,Direction-aware DWPC,20,0.2,0.1053,1.3333,0.6667,2.0,0.0,38
+borderline and conflicting eight set to 0,NP,10,0.2,0.0606,0.0,1.0,1.0,1.0,297
+borderline and conflicting eight set to 0,NP,20,0.15,0.0682,0.0,2.0,1.0,1.0,297
+borderline and conflicting eight set to 0,RWR,10,0.1111,0.1039,1.1111,0.0,0.0,0.0,299
+borderline and conflicting eight set to 0,RWR,20,0.1833,0.1696,2.0,1.6667,0.0,0.0,299
+borderline and conflicting eight set to 0,MPC,10,0.3727,0.176,0.0,3.7273,0.0,0.0,116
+borderline and conflicting eight set to 0,MPC,20,0.3643,0.2205,0.0,7.2857,0.0,0.0,116
+borderline and conflicting eight set to 0,DWPC,10,0.0,0.0,0.0,0.0,0.0,0.0,116
+borderline and conflicting eight set to 0,DWPC,20,0.1846,0.0908,0.0,3.6923,0.0,0.4615,116
+borderline and conflicting eight set to 0,HeteSim,10,0.0,0.0,0.0,0.0,0.0,0.0,250
+borderline and conflicting eight set to 0,HeteSim,20,0.06,0.0122,0.0,0.2,1.0,0.1333,250
+borderline and conflicting eight set to 0,Proposed,10,0.2,0.1251,0.6667,1.3333,0.0,0.0,38
+borderline and conflicting eight set to 0,Proposed,20,0.2429,0.1938,1.619,3.2381,0.0,0.0,38
+borderline and conflicting eight set to 0,Decidable-only,10,0.2,0.1251,0.6667,1.3333,0.0,0.0,39
+borderline and conflicting eight set to 0,Decidable-only,20,0.2429,0.1938,1.619,3.2381,0.0,0.0,39
+borderline and conflicting eight set to 0,Consistent-any,10,0.2,0.1251,0.6667,1.3333,0.0,0.0,38
+borderline and conflicting eight set to 0,Consistent-any,20,0.2429,0.1938,1.619,3.2381,0.0,0.0,38
+borderline and conflicting eight set to 0,Direction-aware DWPC,10,0.0333,0.004,0.0,0.0,0.3333,0.0,38
+borderline and conflicting eight set to 0,Direction-aware DWPC,20,0.1167,0.0798,1.3333,0.0,1.0,0.0,38
